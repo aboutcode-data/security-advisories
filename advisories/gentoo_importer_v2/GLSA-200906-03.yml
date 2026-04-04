@@ -1,0 +1,40 @@
+advisory_id: GLSA-200906-03
+datasource_id: gentoo_importer_v2/GLSA-200906-03
+datasource_url: https://security.gentoo.org/glsa/200906-03
+aliases:
+  - CVE-2009-1150
+  - CVE-2009-1151
+summary: |
+  Multiple errors in phpMyAdmin might allow the remote execution of arbitrary
+      code or a Cross-Site Scripting attack.
+impacted_packages:
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions:
+    fixed_versions: vers:ebuild/>=2.11.9.5
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions: vers:ebuild/<2.11.9.5
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/16913.rb
+    reference_type: exploit
+    reference_id: CVE-2009-1151;OSVDB-53076
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/8992.php
+    reference_type: exploit
+    reference_id: CVE-2009-1151;OSVDB-53076
+  - url: https://security.gentoo.org/glsa/200906-03
+    reference_type:
+    reference_id: GLSA-200906-03
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/8921.sh
+    reference_type: exploit
+    reference_id: OSVDB-53076;CVE-2009-1151

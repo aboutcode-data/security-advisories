@@ -1,0 +1,72 @@
+advisory_id: GLSA-201712-01
+datasource_id: gentoo_importer_v2/GLSA-201712-01
+datasource_url: https://security.gentoo.org/glsa/201712-01
+aliases:
+  - CVE-2017-13783
+  - CVE-2017-13784
+  - CVE-2017-13785
+  - CVE-2017-13788
+  - CVE-2017-13791
+  - CVE-2017-13792
+  - CVE-2017-13793
+  - CVE-2017-13794
+  - CVE-2017-13795
+  - CVE-2017-13796
+  - CVE-2017-13798
+  - CVE-2017-13802
+  - CVE-2017-13803
+summary: |
+  Multiple vulnerabilities have been discovered in WebKitGTK+, the
+      worst of which may lead to arbitrary code execution.
+impacted_packages:
+  - purl: pkg:ebuild/net-libs/webkit-gtk
+    affected_versions:
+    fixed_versions: vers:ebuild/>=2.18.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/net-libs/webkit-gtk
+    affected_versions: vers:ebuild/<2.18.3
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1348
+    reference_type: exploit
+    reference_id: CVE-2017-13785
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43170.js
+    reference_type: exploit
+    reference_id: CVE-2017-13785
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1355
+    reference_type: exploit
+    reference_id: CVE-2017-13791
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43176.html
+    reference_type: exploit
+    reference_id: CVE-2017-13791
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1345
+    reference_type: exploit
+    reference_id: CVE-2017-13792
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43167.js
+    reference_type: exploit
+    reference_id: CVE-2017-13792
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1354
+    reference_type: exploit
+    reference_id: CVE-2017-13798
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43175.html
+    reference_type: exploit
+    reference_id: CVE-2017-13798
+  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1351
+    reference_type: exploit
+    reference_id: CVE-2017-13802
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/43173.html
+    reference_type: exploit
+    reference_id: CVE-2017-13802
+  - url: https://security.gentoo.org/glsa/201712-01
+    reference_type:
+    reference_id: GLSA-201712-01

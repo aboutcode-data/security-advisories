@@ -1,0 +1,58 @@
+advisory_id: GLSA-201311-02
+datasource_id: gentoo_importer_v2/GLSA-201311-02
+datasource_url: https://security.gentoo.org/glsa/201311-02
+aliases:
+  - CVE-2013-1937
+  - CVE-2013-3238
+  - CVE-2013-3239
+  - CVE-2013-4995
+  - CVE-2013-4996
+  - CVE-2013-4997
+  - CVE-2013-4998
+  - CVE-2013-4999
+  - CVE-2013-5000
+  - CVE-2013-5001
+  - CVE-2013-5002
+  - CVE-2013-5003
+  - CVE-2013-5029
+summary: |
+  Multiple vulnerabilities have been found in phpMyAdmin, allowing
+      remote authenticated attackers to execute arbitrary code, inject SQL code
+      or conduct other attacks.
+impacted_packages:
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions:
+    fixed_versions: vers:ebuild/>=4.0.5
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions: vers:ebuild/<4.0.5
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/38440.txt
+    reference_type: exploit
+    reference_id: CVE-2013-1937;OSVDB-92201
+  - url: https://www.securityfocus.com/bid/58962/info
+    reference_type: exploit
+    reference_id: CVE-2013-1937;OSVDB-92201
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/remote/25136.rb
+    reference_type: exploit
+    reference_id: CVE-2013-3238;OSVDB-92793
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/25003.txt
+    reference_type: exploit
+    reference_id: CVE-2013-3241;CVE-2013-3240;CVE-2013-3239;CVE-2013-3238;OSVDB-92795;OSVDB-92794;OSVDB-92793;OSVDB-92792
+  - url: http://www.waraxe.us/advisory-103.html
+    reference_type: exploit
+    reference_id: CVE-2013-3241;CVE-2013-3240;CVE-2013-3239;CVE-2013-3238;OSVDB-92795;OSVDB-92794;OSVDB-92793;OSVDB-92792
+  - url: https://security.gentoo.org/glsa/201311-02
+    reference_type:
+    reference_id: GLSA-201311-02

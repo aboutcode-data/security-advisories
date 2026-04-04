@@ -1,0 +1,47 @@
+advisory_id: GLSA-200501-08
+datasource_id: gentoo_importer_v2/GLSA-200501-08
+datasource_url: https://security.gentoo.org/glsa/200501-08
+aliases:
+  - CVE-2004-1383
+  - CVE-2004-1384
+  - CVE-2004-1385
+summary: |
+  Multiple vulnerabilities have been discovered in phpGroupWare that could
+      lead to information disclosure or remote compromise.
+impacted_packages:
+  - purl: pkg:ebuild/www-apps/phpgroupware
+    affected_versions:
+    fixed_versions: vers:ebuild/>=0.9.16.004
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/www-apps/phpgroupware
+    affected_versions: vers:ebuild/<0.9.16.004
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: http://gulftech.org/advisories/phpGroupWare%20Multiple%20Vulnerabilities/52
+    reference_type: exploit
+    reference_id: 'CVE-2004-1383;OSVDB-12395;GTSA-00052;BID: 11952'
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/24846.txt
+    reference_type: exploit
+    reference_id: 'CVE-2004-1383;OSVDB-12395;GTSA-00052;BID: 11952'
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/24844.txt
+    reference_type: exploit
+    reference_id: 'CVE-2004-1384;OSVDB-12393;BID: 11952;GTSA-00052'
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/24845.txt
+    reference_type: exploit
+    reference_id: 'CVE-2004-1384;OSVDB-12394;BID: 11952;GTSA-00052'
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/24847.txt
+    reference_type: exploit
+    reference_id: 'CVE-2004-1385;OSVDB-12396;BID: 11952;GTSA-00052'
+  - url: https://security.gentoo.org/glsa/200501-08
+    reference_type:
+    reference_id: GLSA-200501-08

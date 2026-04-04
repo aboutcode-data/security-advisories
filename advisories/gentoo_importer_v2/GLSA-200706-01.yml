@@ -1,0 +1,36 @@
+advisory_id: GLSA-200706-01
+datasource_id: gentoo_importer_v2/GLSA-200706-01
+datasource_url: https://security.gentoo.org/glsa/200706-01
+aliases:
+  - CVE-2007-2645
+summary: |
+  libexif fails to handle Exif (EXchangeable Image File) data inputs, making
+      it vulnerable to an integer overflow.
+impacted_packages:
+  - purl: pkg:ebuild/media-libs/libexif
+    affected_versions:
+    fixed_versions: vers:ebuild/>=0.6.15
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/media-libs/libexif
+    affected_versions: vers:ebuild/<0.6.15
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/dos/30024.txt
+    reference_type: exploit
+    reference_id: CVE-2007-2645;OSVDB-35978
+  - url: https://www.securityfocus.com/bid/23927/info
+    reference_type: exploit
+    reference_id: CVE-2007-2645;OSVDB-35978
+  - url: https://security.gentoo.org/glsa/200706-01
+    reference_type:
+    reference_id: GLSA-200706-01

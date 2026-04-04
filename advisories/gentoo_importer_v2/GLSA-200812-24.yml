@@ -1,0 +1,38 @@
+advisory_id: GLSA-200812-24
+datasource_id: gentoo_importer_v2/GLSA-200812-24
+datasource_url: https://security.gentoo.org/glsa/200812-24
+aliases:
+  - CVE-2008-5032
+  - CVE-2008-5036
+  - CVE-2008-5276
+summary: |
+  Multiple vulnerabilities in VLC may lead to the remote execution of
+      arbitrary code.
+impacted_packages:
+  - purl: pkg:ebuild/media-video/vlc
+    affected_versions:
+    fixed_versions: vers:ebuild/>=0.9.8a
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/media-video/vlc
+    affected_versions: vers:ebuild/<0.9.8a
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/local/7051.pl
+    reference_type: exploit
+    reference_id: CVE-2008-5036
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/local/18548.rb
+    reference_type: exploit
+    reference_id: CVE-2008-5036;OSVDB-49809
+  - url: https://security.gentoo.org/glsa/200812-24
+    reference_type:
+    reference_id: GLSA-200812-24

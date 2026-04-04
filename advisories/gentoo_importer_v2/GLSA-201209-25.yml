@@ -1,0 +1,100 @@
+advisory_id: GLSA-201209-25
+datasource_id: gentoo_importer_v2/GLSA-201209-25
+datasource_url: https://security.gentoo.org/glsa/201209-25
+aliases:
+  - CVE-2007-5269
+  - CVE-2007-5503
+  - CVE-2007-5671
+  - CVE-2008-0967
+  - CVE-2008-1340
+  - CVE-2008-1361
+  - CVE-2008-1362
+  - CVE-2008-1363
+  - CVE-2008-1364
+  - CVE-2008-1392
+  - CVE-2008-1447
+  - CVE-2008-1806
+  - CVE-2008-1807
+  - CVE-2008-1808
+  - CVE-2008-2098
+  - CVE-2008-2100
+  - CVE-2008-2101
+  - CVE-2008-4915
+  - CVE-2008-4916
+  - CVE-2008-4917
+  - CVE-2009-0040
+  - CVE-2009-0909
+  - CVE-2009-0910
+  - CVE-2009-1244
+  - CVE-2009-2267
+  - CVE-2009-3707
+  - CVE-2009-3732
+  - CVE-2009-3733
+  - CVE-2009-4811
+  - CVE-2010-1137
+  - CVE-2010-1138
+  - CVE-2010-1139
+  - CVE-2010-1140
+  - CVE-2010-1141
+  - CVE-2010-1142
+  - CVE-2010-1143
+  - CVE-2011-3868
+summary: |
+  Multiple vulnerabilities have been found in VMware Player, Server,
+      and Workstation, allowing remote and local attackers to conduct several
+      attacks, including privilege escalation, remote execution of arbitrary
+      code, and a Denial of Service.
+impacted_packages:
+  - purl: pkg:ebuild/app-emulation/vmware-player
+    affected_versions: vers:ebuild/<=2.5.5.328052
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/app-emulation/vmware-workstation
+    affected_versions: vers:ebuild/<=6.5.5.328052
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/app-emulation/vmware-server
+    affected_versions: vers:ebuild/<=1.0.9.156507
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/local/10207.txt
+    reference_type: exploit
+    reference_id: CVE-2009-2267;OSVDB-59441
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/dos/33271.py
+    reference_type: exploit
+    reference_id: CVE-2009-3707;OSVDB-58728
+  - url: https://www.securityfocus.com/bid/36630/info
+    reference_type: exploit
+    reference_id: CVE-2009-3707;OSVDB-58728
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/12188.txt
+    reference_type: exploit
+    reference_id: CVE-2009-3732;OSVDB-63605
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/remote/33310.nse
+    reference_type: exploit
+    reference_id: CVE-2009-3733;OSVDB-59440
+  - url: https://www.securityfocus.com/bid/36842/info
+    reference_type: exploit
+    reference_id: CVE-2009-3733;OSVDB-59440
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/webapps/12610.txt
+    reference_type: exploit
+    reference_id: CVE-2010-1143
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/remote/33940.txt
+    reference_type: exploit
+    reference_id: CVE-2010-1143;OSVDB-64440
+  - url: https://www.securityfocus.com/bid/39949/info
+    reference_type: exploit
+    reference_id: CVE-2010-1143;OSVDB-64440
+  - url: https://security.gentoo.org/glsa/201209-25
+    reference_type:
+    reference_id: GLSA-201209-25

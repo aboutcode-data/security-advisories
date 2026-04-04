@@ -1,0 +1,32 @@
+advisory_id: GLSA-201201-15
+datasource_id: gentoo_importer_v2/GLSA-201201-15
+datasource_url: https://security.gentoo.org/glsa/201201-15
+aliases:
+  - CVE-2011-2921
+  - CVE-2011-2922
+summary: |
+  Two vulnerabilities have been found in ktsuss, allowing local
+      attackers to gain escalated privileges.
+impacted_packages:
+  - purl: pkg:ebuild/x11-misc/ktsuss
+    affected_versions: vers:ebuild/<=1.4
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: high
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/47344.rb
+    reference_type: exploit
+    reference_id: CVE-2011-2921
+  - url: https://raw.githubusercontent.com/rapid7/metasploit-framework/master/modules/exploits/linux/local/ktsuss_suid_priv_esc.rb
+    reference_type: exploit
+    reference_id: CVE-2011-2921
+  - url: https://security.gentoo.org/glsa/201201-15
+    reference_type:
+    reference_id: GLSA-201201-15
