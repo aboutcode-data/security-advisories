@@ -1,0 +1,14 @@
+- purl: pkg:nuget/System.Management.Automation@6.1.5
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-62gw-3rmj-wmp2
+    - retiredotnet_importer_v2/retiredotnet-12
+    - retiredotnet_importer_v2/retiredotnet-13
+    - retiredotnet_importer_v2/retiredotnet-14
+    - retiredotnet_importer_v2/retiredotnet-15
+    - retiredotnet_importer_v2/retiredotnet-16
+    - retiredotnet_importer_v2/retiredotnet-20
+    - retiredotnet_importer_v2/retiredotnet-3
+    - retiredotnet_importer_v2/retiredotnet-4
+    - retiredotnet_importer_v2/retiredotnet-6
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-5frh-8cmj-gc59

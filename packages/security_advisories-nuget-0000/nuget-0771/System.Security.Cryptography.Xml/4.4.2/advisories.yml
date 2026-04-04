@@ -1,0 +1,19 @@
+- purl: pkg:nuget/System.Security.Cryptography.Xml@4.4.2
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-2m65-m22p-9wjw
+    - github_osv_importer_v2/GHSA-vh55-786g-wjwj
+    - github_osv_importer_v2/GHSA-vh55-786g-wjwj
+    - gitlab_importer_v2/nuget/System.Security.Cryptography.Xml/CVE-2022-34716
+    - gitlab_importer_v2/nuget/System.Security.Cryptography.Xml/GMS-2024-90
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-35hc-x2cw-2j4v
+    - github_osv_importer_v2/GHSA-rr3c-f55v-qhv5
+    - gitlab_importer_v2/nuget/System.Security.Cryptography.Xml/CVE-2018-0764
+    - gitlab_importer_v2/nuget/System.Security.Cryptography.Xml/CVE-2018-0765
+    - retiredotnet_importer_v2/retiredotnet-13
+    - retiredotnet_importer_v2/retiredotnet-14
+    - retiredotnet_importer_v2/retiredotnet-15
+    - retiredotnet_importer_v2/retiredotnet-16
+    - retiredotnet_importer_v2/retiredotnet-3
+    - retiredotnet_importer_v2/retiredotnet-4
+    - retiredotnet_importer_v2/retiredotnet-6
