@@ -1,0 +1,9 @@
+- purl: pkg:deb/ubuntu/eglibc@2.17-93ubuntu4?arch=source&distro=trusty
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-2207
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-4458
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-4788
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7423
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7424
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-1000001
+  fixing_advisories: []
