@@ -1,0 +1,5 @@
+- purl: pkg:npm/electron@39.8.2
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-4p4r-m79c-wq3v
+    - github_osv_importer_v2/GHSA-xwr5-m59h-vwqr
+  fixing_advisories: []
