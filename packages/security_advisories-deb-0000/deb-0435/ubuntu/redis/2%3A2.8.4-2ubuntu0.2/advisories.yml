@@ -1,0 +1,7 @@
+- purl: pkg:deb/ubuntu/redis@2:2.8.4-2ubuntu0.2?arch=source&distro=trusty
+  affected_by_advisories: []
+  fixing_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7458
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-11218
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-11219
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12326
