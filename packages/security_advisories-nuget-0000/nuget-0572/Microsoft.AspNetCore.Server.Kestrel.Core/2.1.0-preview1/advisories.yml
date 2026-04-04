@@ -1,0 +1,7 @@
+- purl: pkg:nuget/Microsoft.AspNetCore.Server.Kestrel.Core@2.1.0-preview1
+  affected_by_advisories:
+    - retiredotnet_importer_v2/retiredotnet-14
+    - retiredotnet_importer_v2/retiredotnet-16
+    - retiredotnet_importer_v2/retiredotnet-4
+    - retiredotnet_importer_v2/retiredotnet-6
+  fixing_advisories: []

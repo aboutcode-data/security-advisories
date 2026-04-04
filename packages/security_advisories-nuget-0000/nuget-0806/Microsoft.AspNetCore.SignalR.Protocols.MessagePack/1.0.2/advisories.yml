@@ -1,0 +1,9 @@
+- purl: pkg:nuget/Microsoft.AspNetCore.SignalR.Protocols.MessagePack@1.0.2
+  affected_by_advisories:
+    - retiredotnet_importer_v2/retiredotnet-13
+    - retiredotnet_importer_v2/retiredotnet-14
+    - retiredotnet_importer_v2/retiredotnet-15
+    - retiredotnet_importer_v2/retiredotnet-16
+    - retiredotnet_importer_v2/retiredotnet-4
+    - retiredotnet_importer_v2/retiredotnet-6
+  fixing_advisories: []
