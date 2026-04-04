@@ -1,0 +1,27 @@
+- purl: pkg:deb/ubuntu/linux-gcp-edge@5.0.0-1011.11~18.04.1?arch=source&distro=bionic
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-2596
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7445
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-1121
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12207
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12928
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12929
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12930
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12931
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14625
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-17977
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-25015
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-5848
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-0937
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-20177
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-20261
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-27364
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-28660
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-29657
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3483
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3659
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3772
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38200
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38207
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-41073
+  fixing_advisories: []
