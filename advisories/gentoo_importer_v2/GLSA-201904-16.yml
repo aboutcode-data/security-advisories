@@ -1,0 +1,51 @@
+advisory_id: GLSA-201904-16
+datasource_id: gentoo_importer_v2/GLSA-201904-16
+datasource_url: https://security.gentoo.org/glsa/201904-16
+aliases:
+  - CVE-2018-12613
+  - CVE-2018-19968
+  - CVE-2018-19969
+  - CVE-2018-19970
+summary: |
+  Multiple vulnerabilities have been found in phpMyAdmin, the worst
+      of which could result in the arbitrary execution of code.
+impacted_packages:
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions:
+    fixed_versions: vers:ebuild/>=4.8.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/dev-db/phpmyadmin
+    affected_versions: vers:ebuild/<4.8.4
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/remote/45020.rb
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44924.txt
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/44928.txt
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/php/webapps/50457.py
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247485036&idx=1&sn=8e9647906c5d94f72564dec5bc51a2ab&chksm=e89e2eb4dfe9a7a28bff2efebb5b2723782dab660acff074c3f18c9e7dca924abdf3da618fb4&mpshare=1&scene=1&srcid=0621gAv1FMtrgoahD01psMZr&pass_ticket=LqhR
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://raw.githubusercontent.com/rapid7/metasploit-framework/1ded8ffb299499e18725f4d549fcadaec5528387/modules/exploits/multi/http/phpmyadmin_lfi_rce.rb
+    reference_type: exploit
+    reference_id: CVE-2018-12613
+  - url: https://security.gentoo.org/glsa/201904-16
+    reference_type:
+    reference_id: GLSA-201904-16

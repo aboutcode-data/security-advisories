@@ -1,0 +1,36 @@
+advisory_id: GLSA-200610-09
+datasource_id: gentoo_importer_v2/GLSA-200610-09
+datasource_url: https://security.gentoo.org/glsa/200610-09
+aliases:
+  - CVE-2006-4197
+summary: |
+  Multiple buffer overflows have been found in libmusicbrainz, which could
+      lead to a Denial of Service or possibly the execution of arbitrary code.
+impacted_packages:
+  - purl: pkg:ebuild/media-libs/musicbrainz
+    affected_versions:
+    fixed_versions: vers:ebuild/>=2.1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/media-libs/musicbrainz
+    affected_versions: vers:ebuild/<2.1.4
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/dos/28384.txt
+    reference_type: exploit
+    reference_id: CVE-2006-4197;OSVDB-27945
+  - url: https://www.securityfocus.com/bid/19508/info
+    reference_type: exploit
+    reference_id: CVE-2006-4197;OSVDB-27945
+  - url: https://security.gentoo.org/glsa/200610-09
+    reference_type:
+    reference_id: GLSA-200610-09

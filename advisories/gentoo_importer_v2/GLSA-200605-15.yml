@@ -1,0 +1,41 @@
+advisory_id: GLSA-200605-15
+datasource_id: gentoo_importer_v2/GLSA-200605-15
+datasource_url: https://security.gentoo.org/glsa/200605-15
+aliases:
+  - CVE-2006-2223
+  - CVE-2006-2224
+  - CVE-2006-2276
+summary: |
+  Quagga's RIP daemon allows the injection of routes and the disclosure of
+      routing information. The BGP daemon is vulnerable to a Denial of Service.
+impacted_packages:
+  - purl: pkg:ebuild/net-misc/quagga
+    affected_versions:
+    fixed_versions: vers:ebuild/>=0.98.6-r1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/net-misc/quagga
+    affected_versions: vers:ebuild/<0.98.6-r1
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/27801.txt
+    reference_type: exploit
+    reference_id: CVE-2006-2223;OSVDB-25224
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/27802.txt
+    reference_type: exploit
+    reference_id: CVE-2006-2224;OSVDB-25225
+  - url: https://www.securityfocus.com/bid/17808/info
+    reference_type: exploit
+    reference_id: CVE-2006-2224;OSVDB-25225
+  - url: https://security.gentoo.org/glsa/200605-15
+    reference_type:
+    reference_id: GLSA-200605-15

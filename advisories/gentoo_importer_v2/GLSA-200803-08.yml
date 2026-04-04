@@ -1,0 +1,67 @@
+advisory_id: GLSA-200803-08
+datasource_id: gentoo_importer_v2/GLSA-200803-08
+datasource_url: https://security.gentoo.org/glsa/200803-08
+aliases:
+  - CVE-2006-4382
+  - CVE-2006-4384
+  - CVE-2006-4385
+  - CVE-2006-4386
+  - CVE-2006-4388
+  - CVE-2006-4389
+  - CVE-2007-4674
+  - CVE-2007-6166
+summary: |
+  Multiple vulnerabilities in the Win32 codecs for Linux may result in the
+      remote execution of arbitrary code.
+impacted_packages:
+  - purl: pkg:ebuild/media-libs/win32codecs
+    affected_versions:
+    fixed_versions: vers:ebuild/>=20071007-r2
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:ebuild/media-libs/win32codecs
+    affected_versions: vers:ebuild/<20071007-r2
+    fixed_versions:
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: normal
+    scoring_system: generic_textual
+    scoring_elements:
+    published_at: None
+    url:
+weaknesses: []
+references:
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/osx/dos/28521.txt
+    reference_type: exploit
+    reference_id: CVE-2006-4384;OSVDB-28771
+  - url: https://www.securityfocus.com/bid/19976/info
+    reference_type: exploit
+    reference_id: CVE-2006-4384;OSVDB-28771
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/osx/remote/6013.pl
+    reference_type: exploit
+    reference_id: CVE-2007-6166
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/remote/4664.txt
+    reference_type: exploit
+    reference_id: CVE-2007-6166
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/osx/remote/16873.rb
+    reference_type: exploit
+    reference_id: CVE-2007-6166;OSVDB-40876
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/remote/16424.rb
+    reference_type: exploit
+    reference_id: CVE-2007-6166;OSVDB-40876
+  - url: https://security.gentoo.org/glsa/200803-08
+    reference_type:
+    reference_id: GLSA-200803-08
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/4648.py
+    reference_type: exploit
+    reference_id: OSVDB-40876;CVE-2007-6166
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/remote/11027.pl
+    reference_type: exploit
+    reference_id: OSVDB-40876;CVE-2007-6166
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/remote/4651.cpp
+    reference_type: exploit
+    reference_id: OSVDB-40876;CVE-2007-6166
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/windows/remote/4657.py
+    reference_type: exploit
+    reference_id: OSVDB-40876;CVE-2007-6166
