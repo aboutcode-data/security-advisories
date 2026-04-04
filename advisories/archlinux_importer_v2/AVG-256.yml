@@ -1,0 +1,33 @@
+advisory_id: AVG-256
+datasource_id: archlinux_importer_v2/AVG-256
+datasource_url: https://security.archlinux.org/AVG-256.json
+aliases:
+  - ASA-201705-3
+  - CVE-2017-8291
+summary: arbitrary command execution
+impacted_packages:
+  - purl: pkg:alpm/archlinux/ghostscript
+    affected_versions: vers:alpm/9.21-1
+    fixed_versions: vers:alpm/9.21-2
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: High
+    scoring_system: archlinux
+    scoring_elements:
+    published_at: None
+    url: https://security.archlinux.org/AVG-256.json
+weaknesses: []
+references:
+  - url: https://security.archlinux.org/ASA-201705-3
+    reference_type:
+    reference_id: ASA-201705-3
+  - url: https://security.archlinux.org/AVG-256
+    reference_type:
+    reference_id: AVG-256
+  - url: https://github.com/rapid7/metasploit-framework/blob/03e4ee91c2473775c2a8f28aa36c2023da2854bf/modules/exploits/unix/fileformat/ghostscript_type_confusion.rb
+    reference_type: exploit
+    reference_id: CVE-2017-8291
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/local/41955.rb
+    reference_type: exploit
+    reference_id: CVE-2017-8291

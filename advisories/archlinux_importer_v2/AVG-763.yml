@@ -1,0 +1,35 @@
+advisory_id: AVG-763
+datasource_id: archlinux_importer_v2/AVG-763
+datasource_url: https://security.archlinux.org/AVG-763.json
+aliases:
+  - CVE-2018-15473
+summary: information disclosure
+impacted_packages:
+  - purl: pkg:alpm/archlinux/openssh
+    affected_versions: vers:alpm/7.7p1-2
+    fixed_versions: vers:alpm/7.8p1-1
+    fixed_in_commits: []
+    introduced_in_commits: []
+severities:
+  - score: Medium
+    scoring_system: archlinux
+    scoring_elements:
+    published_at: None
+    url: https://security.archlinux.org/AVG-763.json
+weaknesses: []
+references:
+  - url: https://security.archlinux.org/AVG-763
+    reference_type:
+    reference_id: AVG-763
+  - url: https://bugfuzz.com/stuff/ssh-check-username.py
+    reference_type: exploit
+    reference_id: CVE-2018-15473
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/45210.py
+    reference_type: exploit
+    reference_id: CVE-2018-15473
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/45233.py
+    reference_type: exploit
+    reference_id: CVE-2018-15473
+  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/linux/remote/45939.py
+    reference_type: exploit
+    reference_id: CVE-2018-15473
