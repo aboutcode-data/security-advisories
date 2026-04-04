@@ -1,0 +1,4 @@
+- purl: pkg:pypi/marimo@0.11.25
+  affected_by_advisories:
+    - gitlab_importer_v2/pypi/marimo/GHSA-xjv7-6w92-42r7
+  fixing_advisories: []
