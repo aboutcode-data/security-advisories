@@ -1,0 +1,4 @@
+- purl: pkg:deb/ubuntu/chromium-browser@14.0.835.202~r103287-0ubuntu0.11.04.1?arch=source&distro=xenial
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-1304
+  fixing_advisories: []
