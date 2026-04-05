@@ -14,13 +14,17 @@
     - github_osv_importer_v2/GHSA-83j7-mhw9-388w
     - github_osv_importer_v2/GHSA-895x-rfqp-jh5c
     - github_osv_importer_v2/GHSA-8g9r-9wjw-37j4
+    - github_osv_importer_v2/GHSA-cjm2-j6cm-6p6m
+    - github_osv_importer_v2/GHSA-f2hx-5fx3-hmcv
     - github_osv_importer_v2/GHSA-fjf4-6f34-w64q
     - github_osv_importer_v2/GHSA-fm6w-rrp3-2x4w
     - github_osv_importer_v2/GHSA-fx44-2wx5-5fvp
     - github_osv_importer_v2/GHSA-g78x-7vwx-9f58
     - github_osv_importer_v2/GHSA-gj52-35xm-gxjh
     - github_osv_importer_v2/GHSA-gvgg-2r3r-53x7
+    - github_osv_importer_v2/GHSA-h4wv-g838-66g3
     - github_osv_importer_v2/GHSA-hcvw-475w-8g7p
+    - github_osv_importer_v2/GHSA-hj93-h7pg-fh6v
     - github_osv_importer_v2/GHSA-hw58-3793-42gg
     - github_osv_importer_v2/GHSA-j3x3-r585-4qhg
     - github_osv_importer_v2/GHSA-m297-3jv9-m927
@@ -32,6 +36,7 @@
     - github_osv_importer_v2/GHSA-rg35-5v25-mqvp
     - github_osv_importer_v2/GHSA-rhgq-f8x5-j2jc
     - github_osv_importer_v2/GHSA-rq4w-cjrr-h8w8
+    - github_osv_importer_v2/GHSA-rx66-hj7g-28h7
     - github_osv_importer_v2/GHSA-vvf8-2h68-9475
     - github_osv_importer_v2/GHSA-w8gr-xwp4-r9f7
     - github_osv_importer_v2/GHSA-wmxr-6j5f-838p
@@ -60,6 +65,7 @@
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/CVE-2026-1035
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/CVE-2026-1190
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/CVE-2026-2733
+    - gitlab_importer_v2/maven/org.keycloak/keycloak-services/CVE-2026-3009
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/GHSA-83j7-mhw9-388w
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/GHSA-fx44-2wx5-5fvp
     - gitlab_importer_v2/maven/org.keycloak/keycloak-services/GHSA-gj52-35xm-gxjh

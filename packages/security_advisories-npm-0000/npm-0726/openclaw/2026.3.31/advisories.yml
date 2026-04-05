@@ -1,5 +1,6 @@
 - purl: pkg:npm/openclaw@2026.3.31
-  affected_by_advisories: []
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-9jpj-g8vv-j5mf
   fixing_advisories:
     - github_osv_importer_v2/GHSA-2w79-r9g8-wmcr
     - github_osv_importer_v2/GHSA-37v6-fxx8-xjmx
