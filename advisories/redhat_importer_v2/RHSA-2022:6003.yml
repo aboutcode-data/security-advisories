@@ -5,6 +5,7 @@ aliases:
   - CVE-2022-0494
   - CVE-2022-1055
   - CVE-2022-48943
+  - CVE-2022-49418
 summary: |
   An update for kernel is now available for Red Hat Enterprise Linux 9.
 
@@ -48,21 +49,6 @@ summary: |
 
   * iommu/vt-d: Make DMAR_UNITS_SUPPORTED a config setting (BZ#2105326)
 impacted_packages:
-  - purl: pkg:rpm/redhat/bpftool?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
-    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
-    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
-    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug?arch=aarch64
     affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
     fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
@@ -584,6 +570,21 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-doc?arch=noarch
+    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
+    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
+    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
+    fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-core?arch=aarch64
     affected_versions: vers:rpm/<5.14.0-70.22.1.el9_0
     fixed_versions: vers:rpm/5.14.0-70.22.1.el9_0
     fixed_in_commits: []
