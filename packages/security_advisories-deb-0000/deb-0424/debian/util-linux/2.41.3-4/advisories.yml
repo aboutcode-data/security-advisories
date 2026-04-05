@@ -1,6 +1,7 @@
 - purl: pkg:deb/debian/util-linux@2.41.3-4?distro=trixie
   affected_by_advisories:
     - debian_importer_v2/util-linux/CVE-2026-27456
+    - debian_importer_v2/util-linux/CVE-2026-27456
   fixing_advisories:
     - debian_importer_v2/util-linux/CVE-2001-1494
     - debian_importer_v2/util-linux/CVE-2005-2876

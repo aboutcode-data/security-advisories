@@ -3,10 +3,22 @@
     - debian_importer_v2/vega.js/CVE-2023-26486
     - debian_importer_v2/vega.js/CVE-2023-26486
     - debian_importer_v2/vega.js/CVE-2023-26486
+    - debian_importer_v2/vega.js/CVE-2023-26486
+    - debian_importer_v2/vega.js/CVE-2023-26486
+    - debian_importer_v2/vega.js/CVE-2023-26486
+    - debian_importer_v2/vega.js/CVE-2023-26486
     - debian_importer_v2/vega.js/CVE-2023-26487
     - debian_importer_v2/vega.js/CVE-2023-26487
     - debian_importer_v2/vega.js/CVE-2023-26487
+    - debian_importer_v2/vega.js/CVE-2023-26487
+    - debian_importer_v2/vega.js/CVE-2023-26487
+    - debian_importer_v2/vega.js/CVE-2023-26487
+    - debian_importer_v2/vega.js/CVE-2023-26487
+    - debian_importer_v2/vega.js/CVE-2025-25304
+    - debian_importer_v2/vega.js/CVE-2025-25304
+    - debian_importer_v2/vega.js/CVE-2025-25304
     - debian_importer_v2/vega.js/CVE-2025-25304
     - debian_importer_v2/vega.js/CVE-2025-25304
   fixing_advisories:
+    - debian_importer_v2/vega.js/CVE-2020-26296
     - debian_importer_v2/vega.js/CVE-2020-26296

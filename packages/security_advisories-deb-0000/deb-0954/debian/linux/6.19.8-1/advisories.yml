@@ -120,3 +120,12 @@
     - debian_importer_v2/linux/CVE-2026-23387
     - debian_importer_v2/linux/CVE-2026-23388
     - debian_importer_v2/linux/CVE-2026-23389
+    - debian_importer_v2/linux/CVE-2026-23418
+    - debian_importer_v2/linux/CVE-2026-23419
+    - debian_importer_v2/linux/CVE-2026-23420
+    - debian_importer_v2/linux/CVE-2026-23421
+    - debian_importer_v2/linux/CVE-2026-23422
+    - debian_importer_v2/linux/CVE-2026-23423
+    - debian_importer_v2/linux/CVE-2026-23424
+    - debian_importer_v2/linux/CVE-2026-23425
+    - debian_importer_v2/linux/CVE-2026-23426

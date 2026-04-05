@@ -21,6 +21,9 @@
     - debian_importer_v2/python-tornado/CVE-2026-35536
     - debian_importer_v2/python-tornado/CVE-2026-35536
     - debian_importer_v2/python-tornado/CVE-2026-35536
+    - debian_importer_v2/python-tornado/CVE-2026-35536
+    - debian_importer_v2/python-tornado/CVE-2026-35536
+    - debian_importer_v2/python-tornado/CVE-2026-35536
   fixing_advisories:
     - debian_importer_v2/python-tornado/CVE-2012-2374
     - debian_importer_v2/python-tornado/CVE-2013-2099
@@ -28,3 +31,6 @@
     - debian_importer_v2/python-tornado/CVE-2023-28370
     - debian_importer_v2/python-tornado/CVE-2024-52804
     - debian_importer_v2/python-tornado/CVE-2025-47287
+    - debian_importer_v2/python-tornado/CVE-2025-67724
+    - debian_importer_v2/python-tornado/CVE-2025-67725
+    - debian_importer_v2/python-tornado/CVE-2025-67726
