@@ -7,4 +7,5 @@
     - gitlab_importer_v2/npm/@backstage/plugin-scaffolder-backend/CVE-2023-35926
     - gitlab_importer_v2/npm/@backstage/plugin-scaffolder-backend/CVE-2025-55285
     - gitlab_importer_v2/npm/@backstage/plugin-scaffolder-backend/CVE-2026-24046
+    - gitlab_importer_v2/npm/@backstage/plugin-scaffolder-backend/CVE-2026-29184
   fixing_advisories: []
