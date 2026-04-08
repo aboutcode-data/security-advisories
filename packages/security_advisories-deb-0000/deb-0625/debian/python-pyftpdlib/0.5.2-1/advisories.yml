@@ -3,9 +3,13 @@
   fixing_advisories:
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5011
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5011
+    - debian_importer_v2/python-pyftpdlib/CVE-2009-5011
+    - debian_importer_v2/python-pyftpdlib/CVE-2009-5012
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5012
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5012
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5013
     - debian_importer_v2/python-pyftpdlib/CVE-2009-5013
+    - debian_importer_v2/python-pyftpdlib/CVE-2009-5013
+    - debian_importer_v2/python-pyftpdlib/CVE-2010-3494
     - debian_importer_v2/python-pyftpdlib/CVE-2010-3494
     - debian_importer_v2/python-pyftpdlib/CVE-2010-3494
