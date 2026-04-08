@@ -49,3 +49,6 @@ references:
   - url: https://github.com/juju/juju/security/advisories/GHSA-j6f6-jp3p-53mw
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2025-68152
+    reference_type:
+    reference_id: CVE-2025-68152

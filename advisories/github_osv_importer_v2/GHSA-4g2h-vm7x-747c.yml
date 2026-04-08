@@ -33,6 +33,12 @@ references:
   - url: https://github.com/arekinath/esaml
     reference_type:
     reference_id:
+  - url: https://github.com/Jump-App/esaml/commit/bab85efde7c136911402a881ca55173759467a26
+    reference_type:
+    reference_id:
+  - url: https://osv.dev/vulnerability/EEF-CVE-2026-28809
+    reference_type:
+    reference_id:
   - url: https://nvd.nist.gov/vuln/detail/CVE-2026-28809
     reference_type:
     reference_id: CVE-2026-28809

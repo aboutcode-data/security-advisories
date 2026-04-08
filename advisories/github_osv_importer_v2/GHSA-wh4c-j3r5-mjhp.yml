@@ -182,6 +182,9 @@ references:
   - url: https://github.com/xmldom/xmldom/commit/2b852e836ab86dbbd6cbaf0537f584dd0b5ac184
     reference_type: other
     reference_id: 2b852e836ab86dbbd6cbaf0537f584dd0b5ac184
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-34601
+    reference_type:
+    reference_id: CVE-2026-34601
   - url: https://github.com/xmldom/xmldom/security/advisories/GHSA-wh4c-j3r5-mjhp
     reference_type: other
     reference_id: GHSA-wh4c-j3r5-mjhp

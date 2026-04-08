@@ -116,6 +116,9 @@ references:
   - url: https://github.com/ImageMagick/ImageMagick
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-33536
+    reference_type:
+    reference_id: CVE-2026-33536
   - url: https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-8793-7xv6-82cf
     reference_type: other
     reference_id: GHSA-8793-7xv6-82cf

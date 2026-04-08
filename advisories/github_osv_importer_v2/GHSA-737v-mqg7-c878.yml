@@ -58,6 +58,18 @@ references:
   - url: https://github.com/unjs/defu
     reference_type:
     reference_id:
+  - url: https://github.com/unjs/defu/commit/3942bfbbcaa72084bd4284846c83bd61ed7c8b29
+    reference_type:
+    reference_id:
+  - url: https://github.com/unjs/defu/pull/156
+    reference_type:
+    reference_id:
+  - url: https://github.com/unjs/defu/releases/tag/v6.1.5
+    reference_type:
+    reference_id:
   - url: https://github.com/unjs/defu/security/advisories/GHSA-737v-mqg7-c878
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-35209
+    reference_type:
+    reference_id: CVE-2026-35209
