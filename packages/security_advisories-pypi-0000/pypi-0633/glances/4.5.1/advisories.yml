@@ -2,6 +2,7 @@
   affected_by_advisories:
     - github_osv_importer_v2/GHSA-49g7-2ww7-3vf5
     - github_osv_importer_v2/GHSA-7p93-6934-f4q7
+    - github_osv_importer_v2/GHSA-7p93-6934-f4q7
     - github_osv_importer_v2/GHSA-9jfm-9rc6-2hfq
     - github_osv_importer_v2/GHSA-cvwp-r2g2-j824
     - github_osv_importer_v2/GHSA-hhcg-r27j-fhv9

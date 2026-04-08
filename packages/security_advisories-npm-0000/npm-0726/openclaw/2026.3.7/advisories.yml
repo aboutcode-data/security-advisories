@@ -50,6 +50,7 @@
     - github_osv_importer_v2/GHSA-89hr-6x2p-8xjv
     - github_osv_importer_v2/GHSA-89r3-6x4j-v7wf
     - github_osv_importer_v2/GHSA-8g75-q649-6pv6
+    - github_osv_importer_v2/GHSA-8g75-q649-6pv6
     - github_osv_importer_v2/GHSA-8jhh-jcqg-mj5p
     - github_osv_importer_v2/GHSA-8rh7-6779-cjqq
     - github_osv_importer_v2/GHSA-94pw-c6m8-p9p9
@@ -85,6 +86,7 @@
     - github_osv_importer_v2/GHSA-g374-mggx-p6xc
     - github_osv_importer_v2/GHSA-g5cg-8x5w-7jpm
     - github_osv_importer_v2/GHSA-g7cr-9h7q-4qxq
+    - github_osv_importer_v2/GHSA-g7cr-9h7q-4qxq
     - github_osv_importer_v2/GHSA-g86v-f9qv-rh6m
     - github_osv_importer_v2/GHSA-g8xp-qx39-9jq9
     - github_osv_importer_v2/GHSA-gg9v-mgcp-v6m7
@@ -119,6 +121,7 @@
     - github_osv_importer_v2/GHSA-mw7w-g3mg-xqm7
     - github_osv_importer_v2/GHSA-p464-m8x6-vhv8
     - github_osv_importer_v2/GHSA-p4x4-2r7f-wjxg
+    - github_osv_importer_v2/GHSA-phgf-3849-rgjq
     - github_osv_importer_v2/GHSA-ppwq-6v66-5m6j
     - github_osv_importer_v2/GHSA-pw7h-9g6p-c378
     - github_osv_importer_v2/GHSA-q2qc-744p-66r2
@@ -149,6 +152,7 @@
     - github_osv_importer_v2/GHSA-vcx4-4qxg-mfp4
     - github_osv_importer_v2/GHSA-vfg3-pqpq-93m4
     - github_osv_importer_v2/GHSA-vhwf-4x96-vqx2
+    - github_osv_importer_v2/GHSA-vhwf-4x96-vqx2
     - github_osv_importer_v2/GHSA-vmhq-cqm9-6p7q
     - github_osv_importer_v2/GHSA-vqvg-86cc-cg83
     - github_osv_importer_v2/GHSA-w6m8-cqvj-pg5v
@@ -166,6 +170,7 @@
     - github_osv_importer_v2/GHSA-xp9r-prpg-373r
     - github_osv_importer_v2/GHSA-xq8g-hgh6-87hv
     - github_osv_importer_v2/GHSA-xvx8-77m6-gwg6
+    - github_osv_importer_v2/GHSA-xw77-45gv-p728
     - github_osv_importer_v2/GHSA-xw77-45gv-p728
     - github_osv_importer_v2/GHSA-xwcj-hwhf-h378
   fixing_advisories:

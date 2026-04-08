@@ -607,6 +607,8 @@
     - gitlab_importer_v2/npm/openclaw/GHSA-xmv6-r34m-62p4
   fixing_advisories:
     - github_osv_importer_v2/GHSA-56pc-6hvp-4gv4
+    - github_osv_importer_v2/GHSA-9q8j-chc7-wpgp
+    - github_osv_importer_v2/GHSA-vr7j-g7jv-h5mp
     - github_osv_importer_v2/GHSA-vr7j-g7jv-h5mp
     - gitlab_importer_v2/npm/openclaw/CVE-2026-32061
     - gitlab_importer_v2/npm/openclaw/GHSA-56pc-6hvp-4gv4

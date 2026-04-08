@@ -8,3 +8,4 @@
     - github_osv_importer_v2/GHSA-x6m9-gxvr-7jpv
   fixing_advisories:
     - github_osv_importer_v2/GHSA-9gm9-c8mq-vq7m
+    - github_osv_importer_v2/GHSA-9gm9-c8mq-vq7m

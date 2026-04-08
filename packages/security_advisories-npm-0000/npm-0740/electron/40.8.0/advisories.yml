@@ -9,5 +9,8 @@
     - github_osv_importer_v2/GHSA-xwr5-m59h-vwqr
   fixing_advisories:
     - github_osv_importer_v2/GHSA-5rqw-r77c-jp79
+    - github_osv_importer_v2/GHSA-5rqw-r77c-jp79
     - github_osv_importer_v2/GHSA-jfqx-fxh3-c62j
+    - github_osv_importer_v2/GHSA-jfqx-fxh3-c62j
+    - github_osv_importer_v2/GHSA-jjp3-mq3x-295m
     - github_osv_importer_v2/GHSA-jjp3-mq3x-295m

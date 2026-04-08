@@ -1,0 +1,4 @@
+- purl: pkg:npm/hono@4.12.11
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-xf4j-xp2r-rqqx
+  fixing_advisories: []
