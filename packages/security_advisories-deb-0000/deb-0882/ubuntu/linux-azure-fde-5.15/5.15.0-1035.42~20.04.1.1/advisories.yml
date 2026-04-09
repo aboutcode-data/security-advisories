@@ -1,76 +1,9 @@
-- purl: pkg:deb/ubuntu/linux-azure-fde-5.15@5.15.0-1035.42~20.04.1.1?arch=source&distro=focal
-  affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4842
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48868
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48870
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48871
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48878
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48880
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48892
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48898
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-0386
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-1652
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-1872
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-21102
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-4194
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-42756
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-4881
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52666
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52685
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52702
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52734
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52738
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52739
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52740
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52744
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52746
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52756
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52759
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52896
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52910
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-21823
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26722
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26750
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26792
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26848
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26886
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26889
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26910
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26916
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26917
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-27416
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35785
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35813
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35815
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35825
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35902
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35905
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35918
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36031
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36944
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36972
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-38381
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-38587
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39475
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39493
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39501
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39503
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-40934
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-41049
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-41055
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21993
-  fixing_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48423
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48424
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-0210
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-26544
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-26606
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-3357
 - purl: pkg:deb/ubuntu/linux-azure-fde-5.15@5.15.0-1035.42~20.04.1.1?arch=source&distro=esm-infra/focal
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2011-1180
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2012-4542
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-4312
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7445
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2013-7445
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2014-0181
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2014-3182
@@ -135,6 +68,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-7550
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-7833
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-7837
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-7837
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-7872
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8104
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8215
@@ -142,6 +76,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8550
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8551
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8552
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8553
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8553
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8569
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-8575
@@ -322,12 +257,17 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-10940
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-1120
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-1121
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-1121
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12207
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12233
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12896
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12928
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12928
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12929
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12929
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12930
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12930
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12931
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12931
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-13094
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-13095
@@ -337,6 +277,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14613
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14614
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14616
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-17977
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-17977
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-18690
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-18710
@@ -489,31 +430,42 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-28972
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-29155
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31615
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31615
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3178
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31829
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31916
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-32078
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-32078
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-32399
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33034
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33061
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33061
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33096
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33096
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3347
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33655
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-33656
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-34556
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-34556
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3483
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-34981
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-34981
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3506
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-35477
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-35477
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3564
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3573
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3640
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3655
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3714
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3714
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-37159
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3752
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3773
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3773
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3847
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3847
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3864
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3864
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-39634
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-39636
@@ -525,47 +477,70 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4155
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4439
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4440
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4440
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4460
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4460
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-45485
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-45868
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-46906
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-46982
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-46982
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47110
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47110
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47112
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47112
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47113
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47113
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47114
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47116
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47116
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47117
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47145
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47145
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47169
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47170
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47182
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47182
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47185
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47187
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47187
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47202
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47202
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47203
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47205
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47205
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47206
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47207
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47210
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47210
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47216
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47219
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47221
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47221
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47224
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47224
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47229
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47233
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47233
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47234
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47234
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47253
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47253
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47257
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47258
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47267
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47275
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47275
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47277
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47280
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47281
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47281
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47283
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47283
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47284
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47307
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47307
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47308
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47319
@@ -573,82 +548,125 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47323
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47324
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47325
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47325
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47327
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47327
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47328
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47328
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47329
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47329
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47330
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47333
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47333
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47334
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47335
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47335
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47336
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47339
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47339
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47340
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47342
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47342
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47343
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47347
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47348
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47348
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47352
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47352
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47353
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47354
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47354
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47355
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47356
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47357
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47362
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47362
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47372
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47374
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47374
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47376
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47376
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47378
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47378
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47383
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47384
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47384
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47385
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47386
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47386
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47404
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47405
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47407
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47407
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47408
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47408
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47409
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47410
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47410
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47412
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47412
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47431
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47431
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47432
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47432
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47433
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47433
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47434
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47435
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47458
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47467
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47467
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47468
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47478
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47480
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47490
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47490
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47493
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47493
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47495
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47498
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47498
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47504
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47504
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47506
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47508
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47508
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47509
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47511
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47547
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47548
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47551
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47551
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47552
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47552
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47577
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47577
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47579
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47579
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47580
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47580
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47582
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47582
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47600
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47606
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47612
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47620
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47623
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47623
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47632
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47632
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47633
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47641
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47643
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47643
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47644
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47644
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47645
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47645
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47654
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47654
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47656
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47659
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-47659
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0001
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0330
@@ -2251,68 +2269,104 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-58100
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-58238
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-1272
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-1272
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-12801
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-1369
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-13735
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21667
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21667
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21672
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21672
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21690
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21690
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21699
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21699
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21730
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21730
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21738
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21744
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21744
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21750
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21750
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21751
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21752
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21772
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21776
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21786
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21796
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21806
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21806
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21812
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21812
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21817
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21817
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21819
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21821
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21821
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21832
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21832
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21833
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21833
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21872
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21877
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21908
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21910
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21912
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21912
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21914
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21944
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21944
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21945
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21945
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21946
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21947
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21955
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21955
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21956
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21956
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21957
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21967
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21967
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21985
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21986
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21986
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21992
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21992
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21994
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21994
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22008
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22008
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22019
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22019
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22022
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22022
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22025
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22025
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22026
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22028
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22028
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22037
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22038
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22039
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22041
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22041
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22042
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22043
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22043
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22109
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22124
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-22124
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-2312
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-2312
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23130
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23132
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23132
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23141
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23161
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23161
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23162
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23163
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-23163
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-2668
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-34034
@@ -2334,215 +2388,356 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-36442
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37738
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37739
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37739
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37740
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37740
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37741
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37741
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37742
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37742
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37743
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37743
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37744
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37745
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37746
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37752
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37753
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37753
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37775
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37775
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37777
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37777
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37778
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37782
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37782
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37804
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37805
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37805
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37806
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37807
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37808
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37808
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37824
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37824
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37834
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37834
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37838
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37839
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37839
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37841
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37841
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37851
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37851
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37852
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37853
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37853
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37854
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37854
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37855
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37856
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37856
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37857
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37857
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37858
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37859
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37859
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37861
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37861
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37862
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37862
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37870
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37870
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37876
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37877
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37877
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37878
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37878
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37879
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37879
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37880
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37880
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37881
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37881
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37882
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37883
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37883
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37884
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37884
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37907
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37924
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37924
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37926
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37932
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37943
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37943
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37944
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37947
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37947
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37948
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37948
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37951
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37951
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37952
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37954
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37954
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37956
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37963
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37963
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37976
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37976
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37983
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37983
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37984
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37984
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37991
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-37991
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38011
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38011
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38020
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38020
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38023
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38033
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38033
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38034
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38034
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38035
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38036
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38036
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38037
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38037
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38038
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38038
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38039
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38039
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38040
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38041
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38041
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38042
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38042
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38043
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38044
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38044
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38045
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38047
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38048
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38048
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38051
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38051
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38058
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38058
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38059
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38060
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38061
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38061
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38062
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38062
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38063
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38063
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38064
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38064
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38065
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38065
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38066
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38066
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38067
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38067
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38068
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38068
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38069
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38069
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38070
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38070
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38071
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38071
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38072
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38072
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38074
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38074
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38075
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38075
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38078
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38078
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38080
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38081
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38081
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38082
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38082
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38090
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38090
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38091
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38091
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38092
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38092
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38096
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38098
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38098
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38099
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38099
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38105
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38105
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38109
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38109
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38163
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38163
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38168
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38174
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38174
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38177
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38189
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38189
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38191
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38191
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38198
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38198
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38199
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38199
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38200
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38200
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38201
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38202
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38203
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38203
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38204
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38204
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38205
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38205
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38206
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38206
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38208
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38213
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38218
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38218
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38219
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38219
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38232
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38232
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38234
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38234
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38237
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38237
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38239
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38244
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38261
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38261
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38262
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38262
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38263
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38263
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38264
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38264
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38269
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38305
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38321
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38321
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38329
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38330
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38331
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38332
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38332
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38333
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38333
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38334
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38334
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38336
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38340
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38340
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38342
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38343
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38344
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38344
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38345
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38347
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38349
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38353
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38353
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38359
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38360
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38360
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38361
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38361
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38368
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38368
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38369
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38373
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38373
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38384
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38386
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38399
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38399
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38406
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38406
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38408
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38408
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38409
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38410
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38410
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38415
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38415
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38422
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38425
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38425
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38426
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38426
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38430
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38436
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38436
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38437
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38437
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38438
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38440
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38440
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38449
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38486
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38494
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38495
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38495
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38497
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38497
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38501
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38501
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38503
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38503
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38507
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38512
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38512
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38514
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38514
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38531
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38540
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38560
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38560
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38562
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38576
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38576
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38577
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38577
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38621
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38621
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38623
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38623
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38624
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38626
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38626
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38650
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38650
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38668
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38668
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38669
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38672
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38672
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38673
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38673
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38674
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38674
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38677
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38677
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38685
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38689
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38691
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38692
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38692
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38693
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38693
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38694
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38695
@@ -2550,272 +2745,455 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38697
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38698
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38699
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38699
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38700
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38700
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38701
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38701
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38702
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38703
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38703
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38704
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38704
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38705
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38705
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38706
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38707
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38707
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38708
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38709
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38709
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38710
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38710
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38711
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38712
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38712
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38713
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38713
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38714
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38714
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38715
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38716
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38716
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38728
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38728
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-38734
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39693
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39693
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39705
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39705
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39706
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39706
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39707
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39707
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39715
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39715
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39716
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39716
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39720
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39720
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39737
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39737
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39738
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39738
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39742
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39742
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39743
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39743
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39744
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39744
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39745
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39745
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39746
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39746
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39747
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39748
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39749
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39749
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39750
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39750
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39751
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39752
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39752
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39753
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39759
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39759
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39760
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39761
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39762
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39763
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39763
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39771
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39771
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39781
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39781
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39782
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39794
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39794
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39795
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39797
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39800
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39801
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39801
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39808
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39808
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39819
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39819
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39825
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39838
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39866
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39866
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39877
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39877
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39883
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39883
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39884
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39884
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39905
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39908
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39908
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39927
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39940
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39940
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39952
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39957
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39957
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39958
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39961
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39990
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39990
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39992
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39992
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39998
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-39998
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40005
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40005
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40012
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40012
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40025
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40030
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40030
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40073
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40083
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40083
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40088
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40088
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40106
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40106
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40107
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40137
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40137
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40160
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40160
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40167
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40167
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40178
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40190
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40192
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40192
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40195
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40196
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40196
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40208
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40208
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40210
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40217
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40217
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40222
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40237
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40237
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40242
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40242
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40243
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40243
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40244
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40244
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40245
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40245
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40247
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40247
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40250
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40250
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40263
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40266
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40266
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40268
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40268
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40269
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40269
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40271
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40271
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40282
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40284
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40284
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40285
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40285
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40286
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40287
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40287
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40288
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40288
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40289
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40300
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40303
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40303
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40304
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40305
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40305
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40306
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40306
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40307
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40307
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40308
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40308
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40309
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40310
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40310
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40311
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40311
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40312
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40312
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40313
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40313
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40314
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40314
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40315
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40322
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40322
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40323
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40323
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40332
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40332
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40333
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40333
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40334
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40334
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40335
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40335
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40336
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40337
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40338
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40338
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40339
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40339
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40340
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40341
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40341
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40342
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40342
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40343
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40345
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40345
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40349
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40351
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40351
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40353
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40353
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40354
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40354
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40356
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40362
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40362
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40363
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-40363
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-59691
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-59692
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-62525
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-62525
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-62526
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-62526
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-62626
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68168
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68168
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68173
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68173
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68174
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68174
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68175
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68176
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68176
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68177
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68178
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68184
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68185
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68185
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68188
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68190
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68190
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68191
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68191
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68193
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68194
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68196
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68196
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68201
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68201
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68220
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68220
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68223
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68223
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68227
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68230
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68230
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68236
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68236
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68246
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68246
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68254
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68255
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68255
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68256
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68256
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68263
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68264
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68265
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68266
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68281
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68281
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68283
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68284
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68284
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68285
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68285
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68286
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68297
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68309
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68309
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68311
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68311
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68313
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68313
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68315
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68315
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68317
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68317
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68318
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68318
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68321
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68321
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68322
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68322
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68330
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68330
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68332
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68332
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68333
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68334
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68334
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68337
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68366
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68366
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68742
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68750
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68750
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68767
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68767
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68769
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68769
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68771
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68774
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68778
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68778
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68779
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68779
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68780
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68780
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68786
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68788
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68788
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68794
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68794
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68796
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68796
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68797
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68797
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68798
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68798
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68802
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68802
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68806
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68806
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68809
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68817
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-68818
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71067
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71073
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71073
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71074
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71074
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71078
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71078
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71091
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71091
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71098
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71098
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71105
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71107
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71107
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71108
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71108
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71109
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71109
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71114
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71114
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71115
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71116
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71118
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71118
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71121
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71150
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71150
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71152
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71152
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71158
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71158
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71160
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71160
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71161
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71161
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71180
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71180
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71182
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71182
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71194
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71194
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71195
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71195
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71202
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71203
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71203
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71204
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71204
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71220
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71220
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71221
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71221
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71222
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71222
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71223
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71223
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71224
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71224
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71225
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71227
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71227
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71229
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71238
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71239
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71239
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71265
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71265
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71266
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71266
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71267
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71268
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71268
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71269
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71269
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71270
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-71270
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-1788
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-22984
@@ -2867,7 +3245,72 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-33192
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-3856
   fixing_advisories: []
-- purl: pkg:deb/ubuntu/linux-azure-fde-5.15@5.15.0-1035.42~20.04.1.1
+- purl: pkg:deb/ubuntu/linux-azure-fde-5.15@5.15.0-1035.42~20.04.1.1?arch=source&distro=focal
   affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-44452
-  fixing_advisories: []
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4842
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48868
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48870
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48871
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48878
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48880
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48892
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48898
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-0386
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-1652
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-1872
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-21102
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-4194
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-42756
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-4881
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52666
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52685
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52702
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52734
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52738
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52739
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52740
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52744
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52746
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52756
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52759
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52896
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52910
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-21823
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26722
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26750
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26792
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26848
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26886
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26889
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26910
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26916
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26917
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-27416
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35785
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35813
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35815
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35825
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35902
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35905
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35918
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36031
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36944
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36972
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-38381
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-38587
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39475
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39493
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39501
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-39503
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-40934
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-41049
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-41055
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21993
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-21993
+  fixing_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48423
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-48424
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-0210
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-26544
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-26606
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-3357
