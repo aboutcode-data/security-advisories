@@ -75,4 +75,7 @@
     - gitlab_importer_v2/npm/parse-server/CVE-2025-68150
     - gitlab_importer_v2/npm/parse-server/CVE-2026-27804
     - gitlab_importer_v2/npm/parse-server/CVE-2026-29182
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30228
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30229
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30835
   fixing_advisories: []
