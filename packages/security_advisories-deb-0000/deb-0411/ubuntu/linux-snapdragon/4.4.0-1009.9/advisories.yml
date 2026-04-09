@@ -2,6 +2,7 @@
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2006-3635
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2006-5331
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2007-6761
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2010-5328
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2010-5329
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2011-1162

@@ -688,6 +688,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-5953
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-5995
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-7191
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-7191
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-7273
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-7740
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-7754
