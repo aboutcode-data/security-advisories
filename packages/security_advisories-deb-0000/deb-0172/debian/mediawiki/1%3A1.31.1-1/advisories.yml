@@ -3,7 +3,10 @@
   fixing_advisories:
     - debian_importer_v2/mediawiki/CVE-2018-0503
     - debian_importer_v2/mediawiki/CVE-2018-0503
+    - debian_importer_v2/mediawiki/CVE-2018-0503
     - debian_importer_v2/mediawiki/CVE-2018-0504
     - debian_importer_v2/mediawiki/CVE-2018-0504
+    - debian_importer_v2/mediawiki/CVE-2018-0504
+    - debian_importer_v2/mediawiki/CVE-2018-0505
     - debian_importer_v2/mediawiki/CVE-2018-0505
     - debian_importer_v2/mediawiki/CVE-2018-0505

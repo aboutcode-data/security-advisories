@@ -1,5 +1,9 @@
 - purl: pkg:deb/debian/python-cryptography@46.0.6-1?distro=trixie
-  affected_by_advisories: []
+  affected_by_advisories:
+    - debian_importer_v2/python-cryptography/CVE-2026-39892
+    - debian_importer_v2/python-cryptography/CVE-2026-39892
+    - debian_importer_v2/python-cryptography/CVE-2026-39892
+    - debian_importer_v2/python-cryptography/CVE-2026-39892
   fixing_advisories:
     - debian_importer_v2/python-cryptography/CVE-2016-9243
     - debian_importer_v2/python-cryptography/CVE-2016-9243

@@ -1,5 +1,6 @@
 - purl: pkg:composer/ci4-cms-erp/ci4ms@0.31.0%2B0
-  affected_by_advisories: []
+  affected_by_advisories:
+    - github_osv_importer_v2/GHSA-5ghq-42rg-769x
   fixing_advisories:
     - github_osv_importer_v2/GHSA-4333-387x-w245
     - github_osv_importer_v2/GHSA-4333-387x-w245
