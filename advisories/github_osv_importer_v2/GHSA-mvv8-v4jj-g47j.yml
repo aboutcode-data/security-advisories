@@ -1,7 +1,8 @@
 advisory_id: GHSA-mvv8-v4jj-g47j
 datasource_id: github_osv_importer_v2/GHSA-mvv8-v4jj-g47j
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-mvv8-v4jj-g47j/GHSA-mvv8-v4jj-g47j.json
-aliases: []
+aliases:
+  - CVE-2026-39943
 summary: |
   Directus: Sensitive fields exposed in revision history
   ### Summary
