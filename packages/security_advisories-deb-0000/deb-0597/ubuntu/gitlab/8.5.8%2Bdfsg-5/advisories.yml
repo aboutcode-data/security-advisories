@@ -803,6 +803,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7000
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7001
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7659
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7659
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7734
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7736
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-7739

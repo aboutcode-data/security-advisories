@@ -35,6 +35,7 @@
     - debian_importer_v2/mediawiki/CVE-2026-34095
     - debian_importer_v2/mediawiki/CVE-2026-34095
     - debian_importer_v2/mediawiki/CVE-2026-34095
+    - debian_importer_v2/mediawiki/CVE-2026-34095
   fixing_advisories:
     - debian_importer_v2/mediawiki/CVE-2004-1405
     - debian_importer_v2/mediawiki/CVE-2004-1405
