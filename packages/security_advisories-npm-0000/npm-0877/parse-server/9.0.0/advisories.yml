@@ -78,4 +78,14 @@
     - gitlab_importer_v2/npm/parse-server/CVE-2026-30228
     - gitlab_importer_v2/npm/parse-server/CVE-2026-30229
     - gitlab_importer_v2/npm/parse-server/CVE-2026-30835
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30848
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30850
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30863
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30941
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30946
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30947
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30948
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30949
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30962
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-31840
   fixing_advisories: []

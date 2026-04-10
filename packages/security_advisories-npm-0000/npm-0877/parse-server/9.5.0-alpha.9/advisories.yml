@@ -63,5 +63,8 @@
     - github_osv_importer_v2/GHSA-wjqw-r9x4-j59v
     - github_osv_importer_v2/GHSA-wp76-gg32-8258
     - github_osv_importer_v2/GHSA-x6fw-778m-wr9v
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30854
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30863
   fixing_advisories:
     - github_osv_importer_v2/GHSA-hwx8-q9cg-mqmc
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-30850
