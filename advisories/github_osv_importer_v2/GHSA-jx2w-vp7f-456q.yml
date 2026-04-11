@@ -1,7 +1,8 @@
 advisory_id: GHSA-jx2w-vp7f-456q
 datasource_id: github_osv_importer_v2/GHSA-jx2w-vp7f-456q
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-jx2w-vp7f-456q/GHSA-jx2w-vp7f-456q.json
-aliases: []
+aliases:
+  - CVE-2026-40180
 summary: |
   quarkus-openapi-generator extension has Zip Slip Path Traversal in ApicurioCodegenWrapper class
   ### Summary

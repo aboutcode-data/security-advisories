@@ -69,3 +69,6 @@ references:
   - url: https://github.com/dunglas/mercure/security/advisories/GHSA-hwr4-mq23-wcv5
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-39972
+    reference_type:
+    reference_id: CVE-2026-39972

@@ -82,3 +82,9 @@ references:
   - url: https://nvd.nist.gov/vuln/detail/CVE-2025-66168
     reference_type:
     reference_id: CVE-2025-66168
+  - url: https://activemq.apache.org/security-advisories.data/CVE-2026-40046-announcement.txt
+    reference_type: other
+    reference_id: CVE-2026-40046-announcement.txt
+  - url: https://www.cve.org/CVERecord?id=CVE-2026-40046
+    reference_type: other
+    reference_id: CVERecord?id=CVE-2026-40046
