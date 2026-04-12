@@ -1,5 +1,6 @@
 - purl: pkg:deb/debian/node-axios@1.14.0%2Bdfsg-1?distro=trixie
-  affected_by_advisories: []
+  affected_by_advisories:
+    - debian_importer_v2/node-axios/CVE-2026-40175
   fixing_advisories:
     - debian_importer_v2/node-axios/CVE-2019-10742
     - debian_importer_v2/node-axios/CVE-2019-10742
