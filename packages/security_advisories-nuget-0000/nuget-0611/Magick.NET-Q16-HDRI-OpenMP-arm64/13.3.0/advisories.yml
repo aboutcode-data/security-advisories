@@ -131,6 +131,10 @@
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-26983
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-27798
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-27799
+    - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-28689
+    - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-28692
+    - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-30883
+    - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/CVE-2026-31853
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/GHSA-2gq3-ww97-wfjm
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/GHSA-3j4x-rwrx-xxj9
     - gitlab_importer_v2/nuget/Magick.NET-Q16-HDRI-OpenMP-arm64/GHSA-3q5f-gmjc-38r8

@@ -25,3 +25,7 @@
     - github_osv_importer_v2/GHSA-rqq8-jh93-f4vg
     - github_osv_importer_v2/GHSA-wj8w-pjxf-9g4f
     - github_osv_importer_v2/GHSA-xxw5-m53x-j38c
+    - gitlab_importer_v2/nuget/Magick.NET-Q8-arm64/CVE-2026-28689
+    - gitlab_importer_v2/nuget/Magick.NET-Q8-arm64/CVE-2026-28692
+    - gitlab_importer_v2/nuget/Magick.NET-Q8-arm64/CVE-2026-30883
+    - gitlab_importer_v2/nuget/Magick.NET-Q8-arm64/CVE-2026-31853

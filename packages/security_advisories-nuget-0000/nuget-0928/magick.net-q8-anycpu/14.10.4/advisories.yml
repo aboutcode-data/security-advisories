@@ -1,0 +1,7 @@
+- purl: pkg:nuget/magick.net-q8-anycpu@14.10.4
+  affected_by_advisories: []
+  fixing_advisories:
+    - gitlab_importer_v2/nuget/magick.net-q8-anycpu/CVE-2026-28689
+    - gitlab_importer_v2/nuget/magick.net-q8-anycpu/CVE-2026-28692
+    - gitlab_importer_v2/nuget/magick.net-q8-anycpu/CVE-2026-30883
+    - gitlab_importer_v2/nuget/magick.net-q8-anycpu/CVE-2026-31853

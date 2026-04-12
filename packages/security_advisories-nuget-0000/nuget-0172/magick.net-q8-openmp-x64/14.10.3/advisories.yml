@@ -1,5 +1,9 @@
 - purl: pkg:nuget/magick.net-q8-openmp-x64@14.10.3
-  affected_by_advisories: []
+  affected_by_advisories:
+    - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-28689
+    - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-28692
+    - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-30883
+    - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-31853
   fixing_advisories:
     - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-24481
     - gitlab_importer_v2/nuget/magick.net-q8-openmp-x64/CVE-2026-24484

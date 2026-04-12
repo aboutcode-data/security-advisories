@@ -11,4 +11,5 @@
     - gitlab_importer_v2/pypi/copyparty/CVE-2025-54796
     - gitlab_importer_v2/pypi/copyparty/CVE-2025-58753
     - gitlab_importer_v2/pypi/copyparty/CVE-2026-27948
+    - gitlab_importer_v2/pypi/copyparty/CVE-2026-30974
   fixing_advisories: []
