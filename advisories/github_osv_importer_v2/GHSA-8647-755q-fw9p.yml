@@ -39,3 +39,6 @@ references:
   - url: https://github.com/ajenti/ajenti/security/advisories/GHSA-8647-755q-fw9p
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-40178
+    reference_type:
+    reference_id: CVE-2026-40178

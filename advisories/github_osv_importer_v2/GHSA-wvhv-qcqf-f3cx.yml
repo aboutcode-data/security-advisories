@@ -140,3 +140,6 @@ references:
   - url: https://github.com/patrickhener/goshs/security/advisories/GHSA-wvhv-qcqf-f3cx
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-40189
+    reference_type:
+    reference_id: CVE-2026-40189
