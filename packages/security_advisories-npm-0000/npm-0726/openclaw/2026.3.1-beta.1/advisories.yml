@@ -113,6 +113,7 @@
     - github_osv_importer_v2/GHSA-8f9r-gr6r-x63q
     - github_osv_importer_v2/GHSA-8g75-q649-6pv6
     - github_osv_importer_v2/GHSA-8g75-q649-6pv6
+    - github_osv_importer_v2/GHSA-8h8f-7cxm-m38j
     - github_osv_importer_v2/GHSA-8j7f-g9gv-7jhc
     - github_osv_importer_v2/GHSA-8jhh-jcqg-mj5p
     - github_osv_importer_v2/GHSA-8m9v-xpgf-g99m
@@ -192,6 +193,7 @@
     - github_osv_importer_v2/GHSA-gm9m-x74r-8whg
     - github_osv_importer_v2/GHSA-h2v7-xc88-xx8c
     - github_osv_importer_v2/GHSA-h36m-2vh5-x699
+    - github_osv_importer_v2/GHSA-h3x4-hc5v-v2gm
     - github_osv_importer_v2/GHSA-h3x4-hc5v-v2gm
     - github_osv_importer_v2/GHSA-h4jx-hjr3-fhgc
     - github_osv_importer_v2/GHSA-h5hg-h7rr-gpf3
@@ -369,7 +371,11 @@
     - gitlab_importer_v2/npm/openclaw/CVE-2026-32041
     - gitlab_importer_v2/npm/openclaw/CVE-2026-32048
     - gitlab_importer_v2/npm/openclaw/CVE-2026-32066
+    - gitlab_importer_v2/npm/openclaw/CVE-2026-32302
     - gitlab_importer_v2/npm/openclaw/CVE-2026-32913
+    - gitlab_importer_v2/npm/openclaw/CVE-2026-32921
+    - gitlab_importer_v2/npm/openclaw/CVE-2026-33574
+    - gitlab_importer_v2/npm/openclaw/CVE-2026-34506
     - gitlab_importer_v2/npm/openclaw/GHSA-2858-xg23-26fp
     - gitlab_importer_v2/npm/openclaw/GHSA-392f-ggf5-fp3c
     - gitlab_importer_v2/npm/openclaw/GHSA-3h2q-j2v4-6w5r
@@ -380,11 +386,13 @@
     - gitlab_importer_v2/npm/openclaw/GHSA-6rmx-gvvg-vh6j
     - gitlab_importer_v2/npm/openclaw/GHSA-77hf-7fqf-f227
     - gitlab_importer_v2/npm/openclaw/GHSA-7xmq-g46g-f8pv
+    - gitlab_importer_v2/npm/openclaw/GHSA-8g75-q649-6pv6
     - gitlab_importer_v2/npm/openclaw/GHSA-8m9v-xpgf-g99m
     - gitlab_importer_v2/npm/openclaw/GHSA-8mvx-p2r9-r375
     - gitlab_importer_v2/npm/openclaw/GHSA-9q2p-vc84-2rwm
     - gitlab_importer_v2/npm/openclaw/GHSA-9q36-67vc-rrwg
     - gitlab_importer_v2/npm/openclaw/GHSA-cfvj-7rx7-fc7c
+    - gitlab_importer_v2/npm/openclaw/GHSA-g7cr-9h7q-4qxq
     - gitlab_importer_v2/npm/openclaw/GHSA-g99v-8hwm-g76g
     - gitlab_importer_v2/npm/openclaw/GHSA-hfpr-jhpq-x4rm
     - gitlab_importer_v2/npm/openclaw/GHSA-j425-whc4-4jgc
@@ -396,6 +404,7 @@
     - gitlab_importer_v2/npm/openclaw/GHSA-r6qf-8968-wj9q
     - gitlab_importer_v2/npm/openclaw/GHSA-rchv-x836-w7xp
     - gitlab_importer_v2/npm/openclaw/GHSA-v865-p3gq-hw6m
+    - gitlab_importer_v2/npm/openclaw/GHSA-vhwf-4x96-vqx2
     - gitlab_importer_v2/npm/openclaw/GHSA-vpj2-69hf-rppw
     - gitlab_importer_v2/npm/openclaw/GHSA-wpg9-4g4v-f9rc
     - gitlab_importer_v2/npm/openclaw/GHSA-wr6m-jg37-68xh

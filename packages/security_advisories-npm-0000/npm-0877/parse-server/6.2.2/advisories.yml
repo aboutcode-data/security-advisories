@@ -122,6 +122,10 @@
     - gitlab_importer_v2/npm/parse-server/CVE-2026-31872
     - gitlab_importer_v2/npm/parse-server/CVE-2026-31875
     - gitlab_importer_v2/npm/parse-server/CVE-2026-31901
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-32098
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-32234
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-32242
+    - gitlab_importer_v2/npm/parse-server/CVE-2026-32248
   fixing_advisories:
     - github_osv_importer_v2/GHSA-fcv6-fg5r-jm9q
     - gitlab_importer_v2/npm/parse-server/CVE-2023-41058
