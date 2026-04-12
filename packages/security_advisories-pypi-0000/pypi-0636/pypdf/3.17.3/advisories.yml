@@ -31,4 +31,5 @@
     - gitlab_importer_v2/pypi/pypdf/CVE-2026-27888
     - gitlab_importer_v2/pypi/pypdf/CVE-2026-28351
     - gitlab_importer_v2/pypi/pypdf/CVE-2026-28804
+    - gitlab_importer_v2/pypi/pypdf/CVE-2026-31826
   fixing_advisories: []
