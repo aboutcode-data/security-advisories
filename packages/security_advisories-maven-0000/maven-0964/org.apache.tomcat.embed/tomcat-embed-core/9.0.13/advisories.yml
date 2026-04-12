@@ -22,6 +22,7 @@
     - github_osv_importer_v2/GHSA-h3gc-qfqq-6h8f
     - github_osv_importer_v2/GHSA-h3gc-qfqq-6h8f
     - github_osv_importer_v2/GHSA-h3gc-qfqq-6h8f
+    - github_osv_importer_v2/GHSA-h468-7pvh-8vr8
     - github_osv_importer_v2/GHSA-hfrx-6qgj-fp6c
     - github_osv_importer_v2/GHSA-hgrr-935x-pq79
     - github_osv_importer_v2/GHSA-hh3j-x4mc-g48r
@@ -45,6 +46,7 @@
     - github_osv_importer_v2/GHSA-wm9w-rjj3-j356
     - github_osv_importer_v2/GHSA-wmwf-9ccg-fff5
     - github_osv_importer_v2/GHSA-wr62-c79q-cv37
+    - github_osv_importer_v2/GHSA-x4m4-345f-5h5g
     - gitlab_importer_v2/maven/org.apache.tomcat.embed/tomcat-embed-core/CVE-2019-10072
     - gitlab_importer_v2/maven/org.apache.tomcat.embed/tomcat-embed-core/CVE-2019-12418
     - gitlab_importer_v2/maven/org.apache.tomcat.embed/tomcat-embed-core/CVE-2019-17563

@@ -14,6 +14,7 @@
     - apache_tomcat_importer_v2/security-9/CVE-2026-24734
     - github_osv_importer_v2/GHSA-53hp-jpwq-2jgq
     - github_osv_importer_v2/GHSA-6j88-6whg-x687
+    - github_osv_importer_v2/GHSA-8mc5-53m5-3qj2
     - github_osv_importer_v2/GHSA-vf77-8h7g-gghp
     - github_osv_importer_v2/GHSA-wph7-x527-w3h5
     - gitlab_importer_v2/maven/org.apache.tomcat/tomcat/CVE-2026-24734
