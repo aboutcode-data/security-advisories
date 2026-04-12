@@ -603,6 +603,7 @@
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22175
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22176
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22177
+    - gitlab_importer_v2/npm/openclaw/CVE-2026-22177
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22178
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22179
     - gitlab_importer_v2/npm/openclaw/CVE-2026-22180
@@ -968,4 +969,5 @@
     - gitlab_importer_v2/npm/openclaw/GHSA-xmv6-r34m-62p4
     - gitlab_importer_v2/npm/openclaw/GHSA-xvhf-x56f-2hpp
     - gitlab_importer_v2/npm/openclaw/GHSA-xw4p-pw82-hqr7
-  fixing_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-52vj-fvrv-7q82
