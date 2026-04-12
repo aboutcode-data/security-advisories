@@ -1,7 +1,8 @@
 advisory_id: GHSA-7m5h-w69j-qggg
 datasource_id: github_osv_importer_v2/GHSA-7m5h-w69j-qggg
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-7m5h-w69j-qggg/GHSA-7m5h-w69j-qggg.json
-aliases: []
+aliases:
+  - CVE-2026-40259
 summary: |
   SiYuan: Publish Reader Can Arbitrarily Delete Attribute View Files via `/api/av/removeUnusedAttributeView`
   ## Summary
