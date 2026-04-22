@@ -64,6 +64,7 @@ severities:
 weaknesses:
   - CWE-400
   - CWE-125
+  - CWE-770
 references:
   - url: https://github.com/mesop-dev/mesop
     reference_type:

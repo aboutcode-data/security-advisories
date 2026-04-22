@@ -125,6 +125,7 @@ severities:
     url:
 weaknesses:
   - CWE-400
+  - CWE-770
 references:
   - url: https://github.com/seperman/deepdiff
     reference_type:

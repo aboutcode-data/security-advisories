@@ -37,6 +37,7 @@ severities:
     url:
 weaknesses:
   - CWE-288
+  - CWE-306
 references:
   - url: https://github.com/spring-projects/spring-boot
     reference_type:
