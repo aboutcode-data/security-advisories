@@ -24,6 +24,7 @@ severities:
     published_at: None
     url:
 weaknesses:
+  - CWE-674
   - CWE-787
   - CWE-400
 references:
