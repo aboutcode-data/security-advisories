@@ -1,0 +1,10 @@
+- purl: pkg:npm/openclaw@2026.4.14
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-53vx-pmqw-863c
+    - github_osv_importer_v2/GHSA-8372-7vhw-cm6q
+    - github_osv_importer_v2/GHSA-c4qm-58hj-j6pj
+    - github_osv_importer_v2/GHSA-g2hm-779g-vm32
+    - github_osv_importer_v2/GHSA-gc9r-867r-j85f
+    - github_osv_importer_v2/GHSA-jwrq-8g5x-5fhm
+    - github_osv_importer_v2/GHSA-r77c-2cmr-7p47

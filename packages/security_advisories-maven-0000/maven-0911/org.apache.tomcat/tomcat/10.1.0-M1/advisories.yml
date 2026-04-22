@@ -49,6 +49,7 @@
     - apache_tomcat_importer_v2/security-8/CVE-2018-8014
     - apache_tomcat_importer_v2/security-9/CVE-2018-8014
     - github_osv_importer_v2/GHSA-563x-q5rq-57qp
+    - github_osv_importer_v2/GHSA-563x-q5rq-57qp
     - github_osv_importer_v2/GHSA-6j88-6whg-x687
     - github_osv_importer_v2/GHSA-9m3c-qcxr-9x87
     - github_osv_importer_v2/GHSA-fpj8-gq4v-p354
