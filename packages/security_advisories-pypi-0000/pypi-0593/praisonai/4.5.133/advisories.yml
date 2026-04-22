@@ -5,3 +5,4 @@
     - github_osv_importer_v2/GHSA-vc46-vw85-3wvm
   fixing_advisories:
     - github_osv_importer_v2/GHSA-x783-xp3g-mqhp
+    - github_osv_importer_v2/GHSA-x783-xp3g-mqhp
