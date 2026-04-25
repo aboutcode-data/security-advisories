@@ -8,3 +8,4 @@
   fixing_advisories:
     - github_osv_importer_v2/GHSA-fhff-qmm8-h2fp
     - github_osv_importer_v2/GHSA-vhcx-3pq2-4fvc
+    - gitlab_importer_v2/pypi/mlflow/CVE-2025-15031
