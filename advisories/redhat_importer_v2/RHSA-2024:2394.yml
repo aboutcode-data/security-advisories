@@ -166,6 +166,7 @@ aliases:
   - CVE-2023-53479
   - CVE-2023-53487
   - CVE-2023-53490
+  - CVE-2023-53496
   - CVE-2023-53501
   - CVE-2023-53513
   - CVE-2023-53525
@@ -177,6 +178,7 @@ aliases:
   - CVE-2023-53545
   - CVE-2023-53546
   - CVE-2023-53547
+  - CVE-2023-53550
   - CVE-2023-53552
   - CVE-2023-53553
   - CVE-2023-53559
@@ -490,131 +492,6 @@ impacted_packages:
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3-perf-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-devel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-devel-matched?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-devel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-devel-matched?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-devel-matched?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-devel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-devel-matched?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/perf?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rtla?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rv?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool?arch=aarch64
-    affected_versions: vers:rpm/<7.3.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/7.3.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-modules?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-modules-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-debug-modules-extra?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-modules?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-modules-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-64k-modules-extra?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-core?arch=aarch64
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug?arch=aarch64
     affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
@@ -821,6 +698,236 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3-perf?arch=ppc64le
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libperf-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/perf-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-core?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-modules?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-modules-core?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-modules-extra?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-modules?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-modules-core?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-modules-extra?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump-core?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules-core?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules-extra?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3-perf?arch=s390x
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-doc?arch=noarch
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-abi-stablelists?arch=noarch
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=src
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool?arch=aarch64
+    affected_versions: vers:rpm/<7.3.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/7.3.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3-perf-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-devel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-devel-matched?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-devel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-devel-matched?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-devel-matched?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-devel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-devel-matched?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/perf?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rtla?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rv?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-core?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-core?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-modules?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-modules-core?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-debug-modules-extra?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-modules?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-modules-core?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-64k-modules-extra?arch=aarch64
+    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
+    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-core?arch=aarch64
     affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
     fixed_in_commits: []
@@ -1095,26 +1202,6 @@ impacted_packages:
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libperf-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/perf-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3-perf-debuginfo?arch=s390x
     affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
@@ -1181,91 +1268,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-core?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-modules?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-modules-core?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-modules-extra?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-modules?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-modules-core?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-modules-extra?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump-core?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules-core?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-zfcpdump-modules-extra?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3-perf?arch=s390x
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-doc?arch=noarch
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-abi-stablelists?arch=noarch
-    affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
-    fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=src
     affected_versions: vers:rpm/<5.14.0-427.13.1.el9_4
     fixed_versions: vers:rpm/5.14.0-427.13.1.el9_4
     fixed_in_commits: []

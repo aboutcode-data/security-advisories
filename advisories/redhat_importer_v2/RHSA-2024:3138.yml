@@ -95,10 +95,12 @@ aliases:
   - CVE-2023-53451
   - CVE-2023-53476
   - CVE-2023-53483
+  - CVE-2023-53496
   - CVE-2023-53501
   - CVE-2023-53525
   - CVE-2023-53530
   - CVE-2023-53546
+  - CVE-2023-53550
   - CVE-2023-53559
   - CVE-2023-53576
   - CVE-2023-53577
@@ -191,6 +193,71 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug?arch=aarch64
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-core?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-core?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-modules?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-modules-extra?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-devel?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-modules?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-modules-extra?arch=ppc64le
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug?arch=s390x
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-core?arch=s390x
+    affected_versions: vers:rpm/<4.18.0-553.el8_10
+    fixed_versions: vers:rpm/4.18.0-553.el8_10
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=s390x
     affected_versions: vers:rpm/<4.18.0-553.el8_10
     fixed_versions: vers:rpm/4.18.0-553.el8_10
     fixed_in_commits: []
@@ -291,56 +358,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/bpftool?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-core?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-core?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-modules?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-modules-extra?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-devel?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-modules?arch=ppc64le
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-modules-extra?arch=ppc64le
     affected_versions: vers:rpm/<4.18.0-553.el8_10
     fixed_versions: vers:rpm/4.18.0-553.el8_10
     fixed_in_commits: []
@@ -531,21 +548,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-core?arch=s390x
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug?arch=s390x
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-core?arch=s390x
-    affected_versions: vers:rpm/<4.18.0-553.el8_10
-    fixed_versions: vers:rpm/4.18.0-553.el8_10
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-devel?arch=s390x
     affected_versions: vers:rpm/<4.18.0-553.el8_10
     fixed_versions: vers:rpm/4.18.0-553.el8_10
     fixed_in_commits: []
