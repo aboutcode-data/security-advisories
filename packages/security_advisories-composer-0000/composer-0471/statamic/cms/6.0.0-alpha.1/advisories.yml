@@ -22,4 +22,7 @@
     - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-28424
     - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-28425
     - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-28426
+    - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-33171
+    - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-33172
+    - gitlab_importer_v2/packagist/statamic/cms/CVE-2026-33177
   fixing_advisories: []
