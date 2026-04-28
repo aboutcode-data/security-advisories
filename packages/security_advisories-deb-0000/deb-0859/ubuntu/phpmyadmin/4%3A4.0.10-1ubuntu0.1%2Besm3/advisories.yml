@@ -1,3 +1,8 @@
+- purl: pkg:deb/ubuntu/phpmyadmin@4:4.0.10-1ubuntu0.1%2Besm3
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-11441
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-22278
+  fixing_advisories: []
 - purl: pkg:deb/ubuntu/phpmyadmin@4:4.0.10-1ubuntu0.1%2Besm3?arch=source&distro=trusty/esm
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2014-9218
@@ -11,11 +16,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2016-6630
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2016-9849
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2016-9866
-- purl: pkg:deb/ubuntu/phpmyadmin@4:4.0.10-1ubuntu0.1%2Besm3
-  affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-11441
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-22278
-  fixing_advisories: []
 - purl: pkg:deb/ubuntu/phpmyadmin@4:4.0.10-1ubuntu0.1%2Besm3?arch=source&distro=esm-infra-legacy/trusty
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2014-1879
