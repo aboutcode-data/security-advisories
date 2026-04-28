@@ -1,0 +1,19 @@
+- purl: pkg:deb/ubuntu/linux-ibm@5.15.0-1099.102?arch=source&distro=jammy
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-11725
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-15802
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26556
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26557
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26559
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31615
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3773
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3847
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2209
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25837
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-50128
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-37454
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-2193
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-26905
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-35923
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-37353
+  fixing_advisories: []

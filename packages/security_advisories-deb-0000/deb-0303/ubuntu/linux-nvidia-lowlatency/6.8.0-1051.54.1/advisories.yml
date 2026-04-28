@@ -1,0 +1,14 @@
+- purl: pkg:deb/ubuntu/linux-nvidia-lowlatency@6.8.0-1051.54.1?arch=source&distro=noble
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-15802
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26556
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26557
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-26559
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-31615
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-3773
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25837
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-50128
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-2193
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-37353
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-38391
+  fixing_advisories: []
