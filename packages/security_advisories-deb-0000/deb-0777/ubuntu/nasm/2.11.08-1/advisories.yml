@@ -62,6 +62,9 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-8844
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-8845
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-8846
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-6067
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-6068
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-6069
   fixing_advisories: []
 - purl: pkg:deb/ubuntu/nasm@2.11.08-1?arch=source&distro=esm-apps/xenial
   affected_by_advisories:

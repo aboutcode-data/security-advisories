@@ -2,6 +2,7 @@
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14635
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-14636
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-10876
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-9735
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-20267
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38598
