@@ -80,8 +80,8 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28422
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-33412
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-34714
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-34982
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-35177
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-39881
   fixing_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1674
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1725
@@ -92,3 +92,12 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2183
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2206
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2304
+- purl: pkg:deb/ubuntu/vim@2:7.4.1689-3ubuntu1.5%2Besm13
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-41965
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-43790
+  fixing_advisories: []
+- purl: pkg:deb/ubuntu/vim@2:7.4.1689-3ubuntu1.5%2Besm13?arch=src%253Fdistro%253Desm-infra/xenial
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-45306
+  fixing_advisories: []
