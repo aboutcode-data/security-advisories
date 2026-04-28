@@ -1,3 +1,7 @@
+- purl: pkg:deb/ubuntu/expat@2.1.0-4ubuntu1.1?arch=source&distro=questing
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-8176
+  fixing_advisories: []
 - purl: pkg:deb/ubuntu/expat@2.1.0-4ubuntu1.1?arch=source&distro=esm-infra-legacy/trusty
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52425
@@ -11,6 +15,7 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32777
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32778
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-41080
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-4739
   fixing_advisories: []
 - purl: pkg:deb/ubuntu/expat@2.1.0-4ubuntu1.1?arch=source&distro=trusty/esm
@@ -45,7 +50,3 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2017-9233
   fixing_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-1283
-- purl: pkg:deb/ubuntu/expat@2.1.0-4ubuntu1.1?arch=source&distro=questing
-  affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-8176
-  fixing_advisories: []

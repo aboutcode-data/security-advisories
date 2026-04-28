@@ -17,7 +17,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38577
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38578
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4160
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0778
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1292
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1434
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1473
@@ -25,11 +24,9 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2097
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2274
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3358
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3602
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36763
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36764
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36765
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3786
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3996
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4304
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4450

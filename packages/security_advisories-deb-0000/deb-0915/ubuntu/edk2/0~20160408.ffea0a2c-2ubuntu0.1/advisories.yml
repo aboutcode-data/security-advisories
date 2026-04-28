@@ -20,7 +20,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38577
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-38578
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-4160
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0778
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1292
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1434
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1473
@@ -28,11 +27,9 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2097
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2274
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3358
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3602
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36763
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36764
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-36765
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3786
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3996
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4304
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4450
@@ -78,3 +75,17 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28389
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28390
   fixing_advisories: []
+- purl: pkg:deb/ubuntu/edk2@0~20160408.ffea0a2c-2ubuntu0.1?arch=source&distro=xenial
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14562
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14584
+  fixing_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12178
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12180
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2018-12181
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14558
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14559
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14563
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14575
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14586
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2019-14587
