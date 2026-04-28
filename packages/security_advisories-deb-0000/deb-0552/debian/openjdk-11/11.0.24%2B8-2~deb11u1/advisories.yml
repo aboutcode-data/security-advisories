@@ -6,6 +6,7 @@
     - debian_importer_v2/openjdk-11/CVE-2026-22018
     - debian_importer_v2/openjdk-11/CVE-2026-22021
     - debian_importer_v2/openjdk-11/CVE-2026-34268
+    - debian_importer_v2/openjdk-11/CVE-2026-34282
   fixing_advisories:
     - debian_importer_v2/openjdk-11/CVE-2018-3136
     - debian_importer_v2/openjdk-11/CVE-2018-3136
