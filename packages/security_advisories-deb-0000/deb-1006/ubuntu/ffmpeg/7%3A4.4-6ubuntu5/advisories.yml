@@ -1,3 +1,7 @@
+- purl: pkg:deb/ubuntu/ffmpeg@7:4.4-6ubuntu5?arch=source&distro=noble
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-7272
+  fixing_advisories: []
 - purl: pkg:deb/ubuntu/ffmpeg@7:4.4-6ubuntu5?arch=source&distro=esm-apps/jammy
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-3109
@@ -38,6 +42,11 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-59733
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-63757
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-69693
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-30997
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-30998
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-30999
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-40962
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-6385
   fixing_advisories: []
 - purl: pkg:deb/ubuntu/ffmpeg@7:4.4-6ubuntu5?arch=source&distro=jammy
   affected_by_advisories:
@@ -72,7 +81,3 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2025-9951
   fixing_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2020-36138
-- purl: pkg:deb/ubuntu/ffmpeg@7:4.4-6ubuntu5?arch=source&distro=noble
-  affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-7272
-  fixing_advisories: []
