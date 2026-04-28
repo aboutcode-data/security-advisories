@@ -8,7 +8,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-22960
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2021-44531
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0778
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-0778
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-1292
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2068
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-2097
@@ -112,4 +111,13 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28388
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28389
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-28390
+  fixing_advisories: []
+- purl: pkg:deb/ubuntu/nodejs@12.22.7~dfsg-2ubuntu1
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-21892
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-22019
+  fixing_advisories: []
+- purl: pkg:deb/ubuntu/nodejs@12.22.7~dfsg-2ubuntu1?arch=source&distro=plucky
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-36137
   fixing_advisories: []
