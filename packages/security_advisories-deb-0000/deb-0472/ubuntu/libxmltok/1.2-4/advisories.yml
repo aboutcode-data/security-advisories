@@ -1,4 +1,4 @@
-- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=esm-apps/jammy
+- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=esm-apps/bionic
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2012-1148
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-1283
@@ -15,6 +15,8 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-22827
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25235
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25236
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52425
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-28757
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-45490
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-45491
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-8176
@@ -25,12 +27,8 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32777
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32778
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-41080
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-4739
-  fixing_advisories: []
-- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=jammy
-  affected_by_advisories:
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52425
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-28757
   fixing_advisories: []
 - purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=esm-apps/focal
   affected_by_advisories:
@@ -61,9 +59,10 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32777
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32778
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-41080
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-4739
   fixing_advisories: []
-- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=esm-apps/bionic
+- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=esm-apps/jammy
   affected_by_advisories:
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2012-1148
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2015-1283
@@ -80,8 +79,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-22827
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25235
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-25236
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52425
-    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-28757
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-45490
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-45491
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-8176
@@ -92,5 +89,11 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32776
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32777
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-32778
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-41080
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2026-4739
+  fixing_advisories: []
+- purl: pkg:deb/ubuntu/libxmltok@1.2-4?arch=source&distro=jammy
+  affected_by_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2023-52425
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-28757
   fixing_advisories: []
