@@ -20,3 +20,4 @@
     - gitlab_importer_v2/npm/marked/CVE-2016-10531
     - gitlab_importer_v2/npm/marked/GMS-2016-24
     - nodejs_security_wg/npm-101
+    - nodejs_security_wg/npm-101

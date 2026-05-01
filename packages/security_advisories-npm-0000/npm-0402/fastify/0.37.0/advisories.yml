@@ -17,4 +17,5 @@
     - gitlab_importer_v2/npm/fastify/CVE-2026-25224
     - gitlab_importer_v2/npm/fastify/CVE-2026-3635
     - nodejs_security_wg/npm-364
+    - nodejs_security_wg/npm-364
   fixing_advisories: []

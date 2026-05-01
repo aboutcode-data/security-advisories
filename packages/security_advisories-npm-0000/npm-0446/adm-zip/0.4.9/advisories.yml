@@ -4,3 +4,4 @@
   fixing_advisories:
     - gitlab_importer_v2/npm/adm-zip/CVE-2018-1002204
     - nodejs_security_wg/npm-458
+    - nodejs_security_wg/npm-458

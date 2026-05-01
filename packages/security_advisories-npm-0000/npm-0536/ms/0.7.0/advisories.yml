@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/ms/CVE-2015-8315
     - gitlab_importer_v2/npm/ms/CVE-2017-20162
     - nodejs_security_wg/npm-46
+    - nodejs_security_wg/npm-46
   fixing_advisories: []

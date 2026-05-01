@@ -9,4 +9,5 @@
     - gitlab_importer_v2/npm/express/CVE-2024-29041
     - gitlab_importer_v2/npm/express/CVE-2024-43796
     - nodejs_security_wg/npm-8
+    - nodejs_security_wg/npm-8
   fixing_advisories: []

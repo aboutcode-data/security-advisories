@@ -6,4 +6,6 @@
     - gitlab_importer_v2/npm/m-server/CVE-2018-16484
     - gitlab_importer_v2/npm/m-server/GMS-2019-133
     - nodejs_security_wg/npm-467
+    - nodejs_security_wg/npm-467
+    - nodejs_security_wg/npm-468
     - nodejs_security_wg/npm-468

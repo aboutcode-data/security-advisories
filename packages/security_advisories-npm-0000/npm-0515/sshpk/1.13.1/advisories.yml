@@ -4,4 +4,5 @@
     - github_osv_importer_v2/GHSA-wx84-69jh-jjp2
     - gitlab_importer_v2/npm/sshpk/CVE-2018-3737
     - nodejs_security_wg/npm-401
+    - nodejs_security_wg/npm-401
   fixing_advisories: []

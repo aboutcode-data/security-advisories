@@ -5,3 +5,4 @@
   fixing_advisories:
     - gitlab_importer_v2/npm/chromedriver/GMS-2016-112
     - nodejs_security_wg/npm-160
+    - nodejs_security_wg/npm-160

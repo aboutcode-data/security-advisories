@@ -10,3 +10,4 @@
     - gitlab_importer_v2/npm/tough-cookie/CVE-2016-1000232
     - gitlab_importer_v2/npm/tough-cookie/GMS-2016-49
     - nodejs_security_wg/npm-130
+    - nodejs_security_wg/npm-130

@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/backbone/CVE-2016-10537
     - gitlab_importer_v2/npm/backbone/GMS-2016-32
     - nodejs_security_wg/npm-108
+    - nodejs_security_wg/npm-108
   fixing_advisories: []

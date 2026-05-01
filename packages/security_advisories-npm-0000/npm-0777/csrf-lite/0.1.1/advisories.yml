@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/csrf-lite/CVE-2016-10535
     - gitlab_importer_v2/npm/csrf-lite/GMS-2016-30
     - nodejs_security_wg/npm-94
+    - nodejs_security_wg/npm-94
   fixing_advisories: []

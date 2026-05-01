@@ -35,4 +35,5 @@
     - nodejs_security_wg/npm-112
     - nodejs_security_wg/npm-122
     - nodejs_security_wg/npm-33
+    - nodejs_security_wg/npm-33
   fixing_advisories: []

@@ -18,3 +18,4 @@
     - github_osv_importer_v2/GHSA-mq6c-fh97-4gwv
     - gitlab_importer_v2/npm/fastify/CVE-2018-3711
     - nodejs_security_wg/npm-364
+    - nodejs_security_wg/npm-364

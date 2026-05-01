@@ -38,3 +38,4 @@
   fixing_advisories:
     - gitlab_importer_v2/npm/sequelize/GMS-2016-82
     - nodejs_security_wg/npm-113
+    - nodejs_security_wg/npm-113

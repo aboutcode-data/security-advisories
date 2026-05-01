@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/hubot-scripts/CVE-2013-7378
     - gitlab_importer_v2/npm/hubot-scripts/GMS-2013-10
     - nodejs_security_wg/npm-13
+    - nodejs_security_wg/npm-13
   fixing_advisories: []

@@ -6,4 +6,5 @@
     - gitlab_importer_v2/npm/hapi/GMS-2017-123
     - gitlab_importer_v2/npm/hapi/GMS-2020-731
     - nodejs_security_wg/npm-335
+    - nodejs_security_wg/npm-335
   fixing_advisories: []

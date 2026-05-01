@@ -6,4 +6,5 @@
     - gitlab_importer_v2/npm/webpack-dev-server/CVE-2025-30359
     - gitlab_importer_v2/npm/webpack-dev-server/CVE-2025-30360
     - nodejs_security_wg/npm-485
+    - nodejs_security_wg/npm-485
   fixing_advisories: []

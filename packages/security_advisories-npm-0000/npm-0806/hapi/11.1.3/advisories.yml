@@ -13,3 +13,4 @@
     - gitlab_importer_v2/npm/hapi/CVE-2015-9241
     - gitlab_importer_v2/npm/hapi/GMS-2015-54
     - nodejs_security_wg/npm-63
+    - nodejs_security_wg/npm-63

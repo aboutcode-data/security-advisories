@@ -30,6 +30,7 @@
     - gitlab_importer_v2/npm/sequelize/GMS-2020-771
     - nodejs_security_wg/npm-102
     - nodejs_security_wg/npm-109
+    - nodejs_security_wg/npm-109
     - nodejs_security_wg/npm-112
     - nodejs_security_wg/npm-122
   fixing_advisories: []

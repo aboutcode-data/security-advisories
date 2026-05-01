@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/mcstatic/CVE-2018-16482
     - gitlab_importer_v2/npm/mcstatic/CVE-2018-3730
     - nodejs_security_wg/npm-413
+    - nodejs_security_wg/npm-413
   fixing_advisories: []

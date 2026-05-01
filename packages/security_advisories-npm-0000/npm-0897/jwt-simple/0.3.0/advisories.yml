@@ -9,3 +9,4 @@
     - gitlab_importer_v2/npm/jwt-simple/GMS-2019-129
   fixing_advisories:
     - nodejs_security_wg/npm-87
+    - nodejs_security_wg/npm-87

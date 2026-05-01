@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/console-io/CVE-2016-10532
     - gitlab_importer_v2/npm/console-io/GMS-2016-22
     - nodejs_security_wg/npm-90
+    - nodejs_security_wg/npm-90
   fixing_advisories: []

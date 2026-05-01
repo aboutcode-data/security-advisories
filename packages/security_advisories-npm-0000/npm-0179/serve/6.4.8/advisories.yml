@@ -17,6 +17,7 @@
     - gitlab_importer_v2/npm/serve/GMS-2020-775
     - gitlab_importer_v2/npm/serve/GMS-2020-776
     - nodejs_security_wg/npm-363
+    - nodejs_security_wg/npm-363
     - nodejs_security_wg/npm-389
     - nodejs_security_wg/npm-439
     - nodejs_security_wg/npm-515

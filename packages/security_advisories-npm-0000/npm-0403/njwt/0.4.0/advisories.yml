@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/njwt/CVE-2024-34273
     - gitlab_importer_v2/npm/njwt/GMS-2020-402
     - nodejs_security_wg/npm-443
+    - nodejs_security_wg/npm-443
   fixing_advisories: []

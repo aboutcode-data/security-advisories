@@ -33,4 +33,5 @@
     - gitlab_importer_v2/npm/swagger-ui/GMS-2021-188
     - nodejs_security_wg/npm-126
     - nodejs_security_wg/npm-137
+    - nodejs_security_wg/npm-137
   fixing_advisories: []

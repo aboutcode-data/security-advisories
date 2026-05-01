@@ -5,3 +5,4 @@
     - gitlab_importer_v2/npm/serve-index/CVE-2015-8856
     - gitlab_importer_v2/npm/serve-index/GMS-2015-3
     - nodejs_security_wg/npm-34
+    - nodejs_security_wg/npm-34

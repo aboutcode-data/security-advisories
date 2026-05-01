@@ -4,3 +4,4 @@
     - github_osv_importer_v2/GHSA-62g9-6hw5-rwfp
     - gitlab_importer_v2/npm/resolve-path/CVE-2018-3732
     - nodejs_security_wg/npm-376
+    - nodejs_security_wg/npm-376

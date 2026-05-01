@@ -15,4 +15,5 @@
     - gitlab_importer_v2/npm/mongoose/CVE-2025-23061
     - gitlab_importer_v2/npm/mongoose/GMS-2020-748
     - nodejs_security_wg/npm-394
+    - nodejs_security_wg/npm-394
   fixing_advisories: []

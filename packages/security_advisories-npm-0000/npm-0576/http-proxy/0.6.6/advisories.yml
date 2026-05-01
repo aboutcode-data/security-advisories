@@ -6,4 +6,5 @@
     - gitlab_importer_v2/npm/http-proxy/GMS-2017-124
     - gitlab_importer_v2/npm/http-proxy/GMS-2020-737
     - nodejs_security_wg/npm-323
+    - nodejs_security_wg/npm-323
   fixing_advisories: []

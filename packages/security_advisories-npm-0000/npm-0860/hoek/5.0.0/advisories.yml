@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/hoek/CVE-2018-3728
     - gitlab_importer_v2/npm/hoek/CVE-2020-36604
     - nodejs_security_wg/npm-367
+    - nodejs_security_wg/npm-367
   fixing_advisories: []

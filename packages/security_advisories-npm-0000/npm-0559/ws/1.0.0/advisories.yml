@@ -11,4 +11,5 @@
     - gitlab_importer_v2/npm/ws/GMS-2019-145
     - nodejs_security_wg/npm-120
     - nodejs_security_wg/npm-67
+    - nodejs_security_wg/npm-67
   fixing_advisories: []

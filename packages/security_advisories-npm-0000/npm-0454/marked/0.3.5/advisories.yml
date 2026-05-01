@@ -19,4 +19,5 @@
     - gitlab_importer_v2/npm/marked/GMS-2016-24
     - gitlab_importer_v2/npm/marked/GMS-2017-212
     - nodejs_security_wg/npm-101
+    - nodejs_security_wg/npm-101
   fixing_advisories: []

@@ -17,5 +17,6 @@
     - gitlab_importer_v2/npm/sanitize-html/GMS-2016-17
     - gitlab_importer_v2/npm/sanitize-html/GMS-2016-57
     - nodejs_security_wg/npm-135
+    - nodejs_security_wg/npm-135
     - nodejs_security_wg/npm-154
   fixing_advisories: []

@@ -8,5 +8,6 @@
     - gitlab_importer_v2/npm/simplehttpserver/CVE-2018-3787
     - gitlab_importer_v2/npm/simplehttpserver/GMS-2018-23
     - nodejs_security_wg/npm-380
+    - nodejs_security_wg/npm-380
     - nodejs_security_wg/npm-481
   fixing_advisories: []

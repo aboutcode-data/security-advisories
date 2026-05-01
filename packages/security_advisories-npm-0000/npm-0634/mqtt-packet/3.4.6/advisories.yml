@@ -8,3 +8,4 @@
     - gitlab_importer_v2/npm/mqtt-packet/CVE-2016-10523
     - gitlab_importer_v2/npm/mqtt-packet/GMS-2016-7
     - nodejs_security_wg/npm-75
+    - nodejs_security_wg/npm-75

@@ -23,3 +23,4 @@
     - gitlab_importer_v2/npm/sanitize-html/CVE-2017-16017
     - gitlab_importer_v2/npm/sanitize-html/GMS-2014-17
     - nodejs_security_wg/npm-155
+    - nodejs_security_wg/npm-155

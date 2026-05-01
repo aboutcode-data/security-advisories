@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/serve-static/CVE-2015-1164
     - gitlab_importer_v2/npm/serve-static/CVE-2024-43800
     - nodejs_security_wg/npm-35
+    - nodejs_security_wg/npm-35
   fixing_advisories: []

@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/takeapeek/CVE-2018-16473
     - gitlab_importer_v2/npm/takeapeek/GMS-2020-788
     - nodejs_security_wg/npm-478
+    - nodejs_security_wg/npm-478
   fixing_advisories: []

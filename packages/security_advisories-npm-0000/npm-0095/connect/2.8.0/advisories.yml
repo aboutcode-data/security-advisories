@@ -8,4 +8,5 @@
     - gitlab_importer_v2/npm/connect/CVE-2018-3717
     - gitlab_importer_v2/npm/connect/GMS-2013-13
     - nodejs_security_wg/npm-3
+    - nodejs_security_wg/npm-3
   fixing_advisories: []

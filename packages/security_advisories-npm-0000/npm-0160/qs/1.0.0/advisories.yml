@@ -16,4 +16,6 @@
     - gitlab_importer_v2/npm/qs/CVE-2014-7191
     - gitlab_importer_v2/npm/qs/GMS-2014-21
     - nodejs_security_wg/npm-28
+    - nodejs_security_wg/npm-28
+    - nodejs_security_wg/npm-29
     - nodejs_security_wg/npm-29

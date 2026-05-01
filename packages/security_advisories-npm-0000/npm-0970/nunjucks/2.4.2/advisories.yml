@@ -6,4 +6,5 @@
     - gitlab_importer_v2/npm/nunjucks/CVE-2023-2142
     - gitlab_importer_v2/npm/nunjucks/GMS-2016-71
     - nodejs_security_wg/npm-147
+    - nodejs_security_wg/npm-147
   fixing_advisories: []

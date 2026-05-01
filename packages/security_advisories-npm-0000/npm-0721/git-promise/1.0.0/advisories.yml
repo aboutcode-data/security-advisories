@@ -4,3 +4,4 @@
     - gitlab_importer_v2/npm/git-promise/CVE-2022-24376
   fixing_advisories:
     - nodejs_security_wg/npm-517
+    - nodejs_security_wg/npm-517

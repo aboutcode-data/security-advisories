@@ -20,3 +20,4 @@
     - gitlab_importer_v2/npm/hapi/CVE-2014-4671
     - gitlab_importer_v2/npm/hapi/CVE-2014-4671A
     - nodejs_security_wg/npm-12
+    - nodejs_security_wg/npm-12

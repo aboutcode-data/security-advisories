@@ -8,3 +8,4 @@
     - gitlab_importer_v2/npm/request/CVE-2017-16026
     - gitlab_importer_v2/npm/request/GMS-2016-8
     - nodejs_security_wg/npm-309
+    - nodejs_security_wg/npm-309

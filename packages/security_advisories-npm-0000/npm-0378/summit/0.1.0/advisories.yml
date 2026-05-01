@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/summit/CVE-2017-16020
     - gitlab_importer_v2/npm/summit/GMS-2016-21
     - nodejs_security_wg/npm-315
+    - nodejs_security_wg/npm-315
   fixing_advisories: []

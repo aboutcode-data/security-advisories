@@ -12,3 +12,4 @@
     - gitlab_importer_v2/npm/jsonwebtoken/CVE-2015-9235
     - gitlab_importer_v2/npm/jsonwebtoken/GMS-2015-4
     - nodejs_security_wg/npm-17
+    - nodejs_security_wg/npm-17

@@ -3,3 +3,4 @@
   fixing_advisories:
     - gitlab_importer_v2/npm/cookie-signature/CVE-2016-1000236
     - nodejs_security_wg/npm-134
+    - nodejs_security_wg/npm-134

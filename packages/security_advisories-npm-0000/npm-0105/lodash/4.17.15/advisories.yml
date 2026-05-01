@@ -11,4 +11,5 @@
     - gitlab_importer_v2/npm/lodash/CVE-2021-23337
     - gitlab_importer_v2/npm/lodash/CVE-2025-13465
     - nodejs_security_wg/npm-516
+    - nodejs_security_wg/npm-516
   fixing_advisories: []

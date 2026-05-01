@@ -5,3 +5,4 @@
     - gitlab_importer_v2/npm/html-pages/CVE-2018-16481
   fixing_advisories:
     - nodejs_security_wg/npm-420
+    - nodejs_security_wg/npm-420

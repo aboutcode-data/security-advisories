@@ -22,4 +22,5 @@
     - nodejs_security_wg/npm-135
     - nodejs_security_wg/npm-154
     - nodejs_security_wg/npm-155
+    - nodejs_security_wg/npm-155
   fixing_advisories: []

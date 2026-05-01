@@ -5,4 +5,5 @@
     - gitlab_importer_v2/npm/cached-path-relative/CVE-2018-16472
     - gitlab_importer_v2/npm/cached-path-relative/CVE-2021-23518
     - nodejs_security_wg/npm-480
+    - nodejs_security_wg/npm-480
   fixing_advisories: []

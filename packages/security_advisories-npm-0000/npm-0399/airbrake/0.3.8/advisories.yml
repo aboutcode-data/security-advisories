@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/airbrake/CVE-2016-10530
     - gitlab_importer_v2/npm/airbrake/GMS-2016-18
     - nodejs_security_wg/npm-96
+    - nodejs_security_wg/npm-96
   fixing_advisories: []

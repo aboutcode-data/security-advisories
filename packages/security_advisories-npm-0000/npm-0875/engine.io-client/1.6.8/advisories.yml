@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/engine.io-client/CVE-2016-10536
     - gitlab_importer_v2/npm/engine.io-client/GMS-2016-31
     - nodejs_security_wg/npm-99
+    - nodejs_security_wg/npm-99
   fixing_advisories: []

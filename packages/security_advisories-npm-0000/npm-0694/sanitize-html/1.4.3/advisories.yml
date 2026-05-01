@@ -19,3 +19,4 @@
     - gitlab_importer_v2/npm/sanitize-html/CVE-2016-1000237
     - gitlab_importer_v2/npm/sanitize-html/GMS-2016-57
     - nodejs_security_wg/npm-135
+    - nodejs_security_wg/npm-135

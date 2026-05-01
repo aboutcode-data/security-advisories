@@ -6,4 +6,5 @@
     - gitlab_importer_v2/npm/crud-file-server/CVE-2018-3733
     - gitlab_importer_v2/npm/crud-file-server/GMS-2018-19
     - nodejs_security_wg/npm-374
+    - nodejs_security_wg/npm-374
   fixing_advisories: []

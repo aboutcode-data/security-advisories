@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/native-opencv/CVE-2016-10658
     - gitlab_importer_v2/npm/native-opencv/GMS-2017-41
     - nodejs_security_wg/npm-263
+    - nodejs_security_wg/npm-263
   fixing_advisories: []

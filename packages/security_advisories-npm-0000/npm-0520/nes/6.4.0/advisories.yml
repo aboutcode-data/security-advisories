@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/nes/CVE-2017-16025
     - gitlab_importer_v2/npm/nes/GMS-2017-107
     - nodejs_security_wg/npm-331
+    - nodejs_security_wg/npm-331
   fixing_advisories: []

@@ -28,4 +28,5 @@
     - nodejs_security_wg/npm-101
     - nodejs_security_wg/npm-23
     - nodejs_security_wg/npm-24
+    - nodejs_security_wg/npm-24
   fixing_advisories: []

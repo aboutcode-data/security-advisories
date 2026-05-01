@@ -25,3 +25,4 @@
     - gitlab_importer_v2/npm/validator/CVE-2013-7453
     - gitlab_importer_v2/npm/validator/CVE-2013-7454
     - nodejs_security_wg/npm-41
+    - nodejs_security_wg/npm-41

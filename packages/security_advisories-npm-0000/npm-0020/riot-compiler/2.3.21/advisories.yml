@@ -2,4 +2,5 @@
   affected_by_advisories:
     - gitlab_importer_v2/npm/riot-compiler/CVE-2016-10527
     - nodejs_security_wg/npm-86
+    - nodejs_security_wg/npm-86
   fixing_advisories: []

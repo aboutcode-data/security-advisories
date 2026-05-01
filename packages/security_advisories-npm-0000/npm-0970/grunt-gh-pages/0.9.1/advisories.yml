@@ -4,4 +4,5 @@
     - gitlab_importer_v2/npm/grunt-gh-pages/CVE-2016-10526
     - gitlab_importer_v2/npm/grunt-gh-pages/GMS-2016-15
     - nodejs_security_wg/npm-85
+    - nodejs_security_wg/npm-85
   fixing_advisories: []

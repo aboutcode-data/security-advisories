@@ -13,3 +13,4 @@
     - gitlab_importer_v2/npm/express-cart/CVE-2018-3758
     - gitlab_importer_v2/npm/express-cart/GMS-2020-715
     - nodejs_security_wg/npm-441
+    - nodejs_security_wg/npm-441

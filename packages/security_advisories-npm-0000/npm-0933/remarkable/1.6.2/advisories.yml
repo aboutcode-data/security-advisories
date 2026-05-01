@@ -7,4 +7,5 @@
     - gitlab_importer_v2/npm/remarkable/CVE-2019-12043
     - gitlab_importer_v2/npm/remarkable/GMS-2017-116
     - nodejs_security_wg/npm-319
+    - nodejs_security_wg/npm-319
   fixing_advisories: []

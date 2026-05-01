@@ -66,4 +66,5 @@
     - gitlab_importer_v2/npm/electron/CVE-2024-46993
     - gitlab_importer_v2/npm/electron/CVE-2025-55305
     - nodejs_security_wg/npm-466
+    - nodejs_security_wg/npm-466
   fixing_advisories: []
