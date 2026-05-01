@@ -26,9 +26,3 @@ references:
   - url: https://security.archlinux.org/AVG-930
     reference_type:
     reference_id: AVG-930
-  - url: https://bugs.chromium.org/p/project-zero/issues/detail?id=1810
-    reference_type: exploit
-    reference_id: CVE-2019-9813
-  - url: https://gitlab.com/exploit-database/exploitdb/-/blob/main/exploits/multiple/dos/46646.txt
-    reference_type: exploit
-    reference_id: CVE-2019-9813
