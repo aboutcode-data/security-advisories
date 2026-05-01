@@ -190,3 +190,4 @@
     - debian_importer_v2/imagemagick/CVE-2026-40169
     - debian_importer_v2/imagemagick/CVE-2026-40183
     - debian_importer_v2/imagemagick/CVE-2026-40312
+    - debian_importer_v2/imagemagick/CVE-2026-40312

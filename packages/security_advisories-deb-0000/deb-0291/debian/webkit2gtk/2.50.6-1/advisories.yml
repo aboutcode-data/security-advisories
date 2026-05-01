@@ -670,6 +670,7 @@
     - debian_importer_v2/webkit2gtk/CVE-2025-43457
     - debian_importer_v2/webkit2gtk/CVE-2025-43457
     - debian_importer_v2/webkit2gtk/CVE-2025-43457
+    - debian_importer_v2/webkit2gtk/CVE-2025-43457
     - debian_importer_v2/webkit2gtk/CVE-2025-43458
     - debian_importer_v2/webkit2gtk/CVE-2025-43480
     - debian_importer_v2/webkit2gtk/CVE-2025-43501
@@ -686,6 +687,8 @@
     - debian_importer_v2/webkit2gtk/CVE-2026-20608
     - debian_importer_v2/webkit2gtk/CVE-2026-20608
     - debian_importer_v2/webkit2gtk/CVE-2026-20608
+    - debian_importer_v2/webkit2gtk/CVE-2026-20608
+    - debian_importer_v2/webkit2gtk/CVE-2026-20635
     - debian_importer_v2/webkit2gtk/CVE-2026-20635
     - debian_importer_v2/webkit2gtk/CVE-2026-20635
     - debian_importer_v2/webkit2gtk/CVE-2026-20635
@@ -694,6 +697,8 @@
     - debian_importer_v2/webkit2gtk/CVE-2026-20636
     - debian_importer_v2/webkit2gtk/CVE-2026-20636
     - debian_importer_v2/webkit2gtk/CVE-2026-20636
+    - debian_importer_v2/webkit2gtk/CVE-2026-20636
+    - debian_importer_v2/webkit2gtk/CVE-2026-20644
     - debian_importer_v2/webkit2gtk/CVE-2026-20644
     - debian_importer_v2/webkit2gtk/CVE-2026-20644
     - debian_importer_v2/webkit2gtk/CVE-2026-20644
@@ -702,6 +707,8 @@
     - debian_importer_v2/webkit2gtk/CVE-2026-20652
     - debian_importer_v2/webkit2gtk/CVE-2026-20652
     - debian_importer_v2/webkit2gtk/CVE-2026-20652
+    - debian_importer_v2/webkit2gtk/CVE-2026-20652
+    - debian_importer_v2/webkit2gtk/CVE-2026-20676
     - debian_importer_v2/webkit2gtk/CVE-2026-20676
     - debian_importer_v2/webkit2gtk/CVE-2026-20676
     - debian_importer_v2/webkit2gtk/CVE-2026-20676

@@ -38,4 +38,6 @@
     - debian_importer_v2/openvpn/CVE-2025-15497
     - debian_importer_v2/openvpn/CVE-2025-2704
     - debian_importer_v2/openvpn/CVE-2026-35058
+    - debian_importer_v2/openvpn/CVE-2026-35058
+    - debian_importer_v2/openvpn/CVE-2026-40215
     - debian_importer_v2/openvpn/CVE-2026-40215

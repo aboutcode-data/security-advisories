@@ -144,6 +144,7 @@
     - debian_importer_v2/imagemagick/CVE-2005-0005
     - debian_importer_v2/imagemagick/CVE-2005-0005
     - debian_importer_v2/imagemagick/CVE-2005-0005
+    - debian_importer_v2/imagemagick/CVE-2005-0005
     - debian_importer_v2/imagemagick/CVE-2005-0397
     - debian_importer_v2/imagemagick/CVE-2005-0397
     - debian_importer_v2/imagemagick/CVE-2005-0397
@@ -441,6 +442,7 @@
     - debian_importer_v2/imagemagick/CVE-2014-9915
     - debian_importer_v2/imagemagick/CVE-2014-9915
     - debian_importer_v2/imagemagick/CVE-2014-9915
+    - debian_importer_v2/imagemagick/CVE-2015-8894
     - debian_importer_v2/imagemagick/CVE-2015-8894
     - debian_importer_v2/imagemagick/CVE-2015-8894
     - debian_importer_v2/imagemagick/CVE-2015-8894
@@ -2240,6 +2242,7 @@
     - debian_importer_v2/imagemagick/CVE-2026-33902
     - debian_importer_v2/imagemagick/CVE-2026-40169
     - debian_importer_v2/imagemagick/CVE-2026-40183
+    - debian_importer_v2/imagemagick/CVE-2026-40312
     - debian_importer_v2/imagemagick/CVE-2026-40312
     - debian_importer_v2/imagemagick/TEMP-0811308-B63DA1
     - debian_importer_v2/imagemagick/TEMP-0811308-B63DA1

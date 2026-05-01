@@ -7,6 +7,8 @@
     - debian_importer_v2/linux/CVE-2025-68351
     - debian_importer_v2/linux/CVE-2025-68351
     - debian_importer_v2/linux/CVE-2025-68351
+    - debian_importer_v2/linux/CVE-2025-68351
+    - debian_importer_v2/linux/CVE-2025-68353
     - debian_importer_v2/linux/CVE-2025-68353
     - debian_importer_v2/linux/CVE-2025-68353
     - debian_importer_v2/linux/CVE-2025-68353
@@ -19,6 +21,8 @@
     - debian_importer_v2/linux/CVE-2025-68357
     - debian_importer_v2/linux/CVE-2025-68357
     - debian_importer_v2/linux/CVE-2025-68357
+    - debian_importer_v2/linux/CVE-2025-68357
+    - debian_importer_v2/linux/CVE-2025-68365
     - debian_importer_v2/linux/CVE-2025-68365
     - debian_importer_v2/linux/CVE-2025-68365
     - debian_importer_v2/linux/CVE-2025-68365
@@ -31,6 +35,8 @@
     - debian_importer_v2/linux/CVE-2025-68368
     - debian_importer_v2/linux/CVE-2025-68368
     - debian_importer_v2/linux/CVE-2025-68368
+    - debian_importer_v2/linux/CVE-2025-68368
+    - debian_importer_v2/linux/CVE-2025-68725
     - debian_importer_v2/linux/CVE-2025-68725
     - debian_importer_v2/linux/CVE-2025-68725
     - debian_importer_v2/linux/CVE-2025-68725
@@ -43,6 +49,8 @@
     - debian_importer_v2/linux/CVE-2025-68736
     - debian_importer_v2/linux/CVE-2025-68736
     - debian_importer_v2/linux/CVE-2025-68736
+    - debian_importer_v2/linux/CVE-2025-68736
+    - debian_importer_v2/linux/CVE-2025-68745
     - debian_importer_v2/linux/CVE-2025-68745
     - debian_importer_v2/linux/CVE-2025-68745
     - debian_importer_v2/linux/CVE-2025-68745
@@ -55,6 +63,8 @@
     - debian_importer_v2/linux/CVE-2025-68767
     - debian_importer_v2/linux/CVE-2025-68767
     - debian_importer_v2/linux/CVE-2025-68767
+    - debian_importer_v2/linux/CVE-2025-68767
+    - debian_importer_v2/linux/CVE-2025-68768
     - debian_importer_v2/linux/CVE-2025-68768
     - debian_importer_v2/linux/CVE-2025-68768
     - debian_importer_v2/linux/CVE-2025-68768
@@ -67,6 +77,8 @@
     - debian_importer_v2/linux/CVE-2025-68769
     - debian_importer_v2/linux/CVE-2025-68769
     - debian_importer_v2/linux/CVE-2025-68769
+    - debian_importer_v2/linux/CVE-2025-68769
+    - debian_importer_v2/linux/CVE-2025-68770
     - debian_importer_v2/linux/CVE-2025-68770
     - debian_importer_v2/linux/CVE-2025-68770
     - debian_importer_v2/linux/CVE-2025-68770
@@ -79,6 +91,8 @@
     - debian_importer_v2/linux/CVE-2025-68771
     - debian_importer_v2/linux/CVE-2025-68771
     - debian_importer_v2/linux/CVE-2025-68771
+    - debian_importer_v2/linux/CVE-2025-68771
+    - debian_importer_v2/linux/CVE-2025-68772
     - debian_importer_v2/linux/CVE-2025-68772
     - debian_importer_v2/linux/CVE-2025-68772
     - debian_importer_v2/linux/CVE-2025-68772
@@ -91,6 +105,8 @@
     - debian_importer_v2/linux/CVE-2025-68773
     - debian_importer_v2/linux/CVE-2025-68773
     - debian_importer_v2/linux/CVE-2025-68773
+    - debian_importer_v2/linux/CVE-2025-68773
+    - debian_importer_v2/linux/CVE-2025-68774
     - debian_importer_v2/linux/CVE-2025-68774
     - debian_importer_v2/linux/CVE-2025-68774
     - debian_importer_v2/linux/CVE-2025-68774
@@ -103,6 +119,8 @@
     - debian_importer_v2/linux/CVE-2025-68775
     - debian_importer_v2/linux/CVE-2025-68775
     - debian_importer_v2/linux/CVE-2025-68775
+    - debian_importer_v2/linux/CVE-2025-68775
+    - debian_importer_v2/linux/CVE-2025-68776
     - debian_importer_v2/linux/CVE-2025-68776
     - debian_importer_v2/linux/CVE-2025-68776
     - debian_importer_v2/linux/CVE-2025-68776
@@ -115,6 +133,8 @@
     - debian_importer_v2/linux/CVE-2025-68777
     - debian_importer_v2/linux/CVE-2025-68777
     - debian_importer_v2/linux/CVE-2025-68777
+    - debian_importer_v2/linux/CVE-2025-68777
+    - debian_importer_v2/linux/CVE-2025-68778
     - debian_importer_v2/linux/CVE-2025-68778
     - debian_importer_v2/linux/CVE-2025-68778
     - debian_importer_v2/linux/CVE-2025-68778
@@ -127,6 +147,8 @@
     - debian_importer_v2/linux/CVE-2025-68780
     - debian_importer_v2/linux/CVE-2025-68780
     - debian_importer_v2/linux/CVE-2025-68780
+    - debian_importer_v2/linux/CVE-2025-68780
+    - debian_importer_v2/linux/CVE-2025-68781
     - debian_importer_v2/linux/CVE-2025-68781
     - debian_importer_v2/linux/CVE-2025-68781
     - debian_importer_v2/linux/CVE-2025-68781
@@ -139,6 +161,8 @@
     - debian_importer_v2/linux/CVE-2025-68782
     - debian_importer_v2/linux/CVE-2025-68782
     - debian_importer_v2/linux/CVE-2025-68782
+    - debian_importer_v2/linux/CVE-2025-68782
+    - debian_importer_v2/linux/CVE-2025-68783
     - debian_importer_v2/linux/CVE-2025-68783
     - debian_importer_v2/linux/CVE-2025-68783
     - debian_importer_v2/linux/CVE-2025-68783
@@ -151,6 +175,8 @@
     - debian_importer_v2/linux/CVE-2025-68784
     - debian_importer_v2/linux/CVE-2025-68784
     - debian_importer_v2/linux/CVE-2025-68784
+    - debian_importer_v2/linux/CVE-2025-68784
+    - debian_importer_v2/linux/CVE-2025-68785
     - debian_importer_v2/linux/CVE-2025-68785
     - debian_importer_v2/linux/CVE-2025-68785
     - debian_importer_v2/linux/CVE-2025-68785
@@ -163,6 +189,8 @@
     - debian_importer_v2/linux/CVE-2025-68786
     - debian_importer_v2/linux/CVE-2025-68786
     - debian_importer_v2/linux/CVE-2025-68786
+    - debian_importer_v2/linux/CVE-2025-68786
+    - debian_importer_v2/linux/CVE-2025-68787
     - debian_importer_v2/linux/CVE-2025-68787
     - debian_importer_v2/linux/CVE-2025-68787
     - debian_importer_v2/linux/CVE-2025-68787
@@ -175,6 +203,8 @@
     - debian_importer_v2/linux/CVE-2025-68788
     - debian_importer_v2/linux/CVE-2025-68788
     - debian_importer_v2/linux/CVE-2025-68788
+    - debian_importer_v2/linux/CVE-2025-68788
+    - debian_importer_v2/linux/CVE-2025-68791
     - debian_importer_v2/linux/CVE-2025-68791
     - debian_importer_v2/linux/CVE-2025-68791
     - debian_importer_v2/linux/CVE-2025-68791
@@ -187,6 +217,8 @@
     - debian_importer_v2/linux/CVE-2025-68792
     - debian_importer_v2/linux/CVE-2025-68792
     - debian_importer_v2/linux/CVE-2025-68792
+    - debian_importer_v2/linux/CVE-2025-68792
+    - debian_importer_v2/linux/CVE-2025-68793
     - debian_importer_v2/linux/CVE-2025-68793
     - debian_importer_v2/linux/CVE-2025-68793
     - debian_importer_v2/linux/CVE-2025-68793
@@ -199,6 +231,8 @@
     - debian_importer_v2/linux/CVE-2025-68794
     - debian_importer_v2/linux/CVE-2025-68794
     - debian_importer_v2/linux/CVE-2025-68794
+    - debian_importer_v2/linux/CVE-2025-68794
+    - debian_importer_v2/linux/CVE-2025-68795
     - debian_importer_v2/linux/CVE-2025-68795
     - debian_importer_v2/linux/CVE-2025-68795
     - debian_importer_v2/linux/CVE-2025-68795
@@ -211,6 +245,8 @@
     - debian_importer_v2/linux/CVE-2025-68796
     - debian_importer_v2/linux/CVE-2025-68796
     - debian_importer_v2/linux/CVE-2025-68796
+    - debian_importer_v2/linux/CVE-2025-68796
+    - debian_importer_v2/linux/CVE-2025-68797
     - debian_importer_v2/linux/CVE-2025-68797
     - debian_importer_v2/linux/CVE-2025-68797
     - debian_importer_v2/linux/CVE-2025-68797
@@ -223,6 +259,8 @@
     - debian_importer_v2/linux/CVE-2025-68798
     - debian_importer_v2/linux/CVE-2025-68798
     - debian_importer_v2/linux/CVE-2025-68798
+    - debian_importer_v2/linux/CVE-2025-68798
+    - debian_importer_v2/linux/CVE-2025-68799
     - debian_importer_v2/linux/CVE-2025-68799
     - debian_importer_v2/linux/CVE-2025-68799
     - debian_importer_v2/linux/CVE-2025-68799
@@ -235,6 +273,8 @@
     - debian_importer_v2/linux/CVE-2025-68800
     - debian_importer_v2/linux/CVE-2025-68800
     - debian_importer_v2/linux/CVE-2025-68800
+    - debian_importer_v2/linux/CVE-2025-68800
+    - debian_importer_v2/linux/CVE-2025-68801
     - debian_importer_v2/linux/CVE-2025-68801
     - debian_importer_v2/linux/CVE-2025-68801
     - debian_importer_v2/linux/CVE-2025-68801
@@ -247,6 +287,8 @@
     - debian_importer_v2/linux/CVE-2025-68802
     - debian_importer_v2/linux/CVE-2025-68802
     - debian_importer_v2/linux/CVE-2025-68802
+    - debian_importer_v2/linux/CVE-2025-68802
+    - debian_importer_v2/linux/CVE-2025-68803
     - debian_importer_v2/linux/CVE-2025-68803
     - debian_importer_v2/linux/CVE-2025-68803
     - debian_importer_v2/linux/CVE-2025-68803
@@ -259,6 +301,8 @@
     - debian_importer_v2/linux/CVE-2025-68804
     - debian_importer_v2/linux/CVE-2025-68804
     - debian_importer_v2/linux/CVE-2025-68804
+    - debian_importer_v2/linux/CVE-2025-68804
+    - debian_importer_v2/linux/CVE-2025-68805
     - debian_importer_v2/linux/CVE-2025-68805
     - debian_importer_v2/linux/CVE-2025-68805
     - debian_importer_v2/linux/CVE-2025-68805
@@ -271,6 +315,8 @@
     - debian_importer_v2/linux/CVE-2025-68806
     - debian_importer_v2/linux/CVE-2025-68806
     - debian_importer_v2/linux/CVE-2025-68806
+    - debian_importer_v2/linux/CVE-2025-68806
+    - debian_importer_v2/linux/CVE-2025-68807
     - debian_importer_v2/linux/CVE-2025-68807
     - debian_importer_v2/linux/CVE-2025-68807
     - debian_importer_v2/linux/CVE-2025-68807
@@ -283,6 +329,8 @@
     - debian_importer_v2/linux/CVE-2025-68808
     - debian_importer_v2/linux/CVE-2025-68808
     - debian_importer_v2/linux/CVE-2025-68808
+    - debian_importer_v2/linux/CVE-2025-68808
+    - debian_importer_v2/linux/CVE-2025-68809
     - debian_importer_v2/linux/CVE-2025-68809
     - debian_importer_v2/linux/CVE-2025-68809
     - debian_importer_v2/linux/CVE-2025-68809
@@ -295,6 +343,8 @@
     - debian_importer_v2/linux/CVE-2025-68810
     - debian_importer_v2/linux/CVE-2025-68810
     - debian_importer_v2/linux/CVE-2025-68810
+    - debian_importer_v2/linux/CVE-2025-68810
+    - debian_importer_v2/linux/CVE-2025-68811
     - debian_importer_v2/linux/CVE-2025-68811
     - debian_importer_v2/linux/CVE-2025-68811
     - debian_importer_v2/linux/CVE-2025-68811
@@ -308,6 +358,8 @@
     - debian_importer_v2/linux/CVE-2025-68813
     - debian_importer_v2/linux/CVE-2025-68813
     - debian_importer_v2/linux/CVE-2025-68813
+    - debian_importer_v2/linux/CVE-2025-68813
+    - debian_importer_v2/linux/CVE-2025-68814
     - debian_importer_v2/linux/CVE-2025-68814
     - debian_importer_v2/linux/CVE-2025-68814
     - debian_importer_v2/linux/CVE-2025-68814
@@ -320,6 +372,8 @@
     - debian_importer_v2/linux/CVE-2025-68815
     - debian_importer_v2/linux/CVE-2025-68815
     - debian_importer_v2/linux/CVE-2025-68815
+    - debian_importer_v2/linux/CVE-2025-68815
+    - debian_importer_v2/linux/CVE-2025-68816
     - debian_importer_v2/linux/CVE-2025-68816
     - debian_importer_v2/linux/CVE-2025-68816
     - debian_importer_v2/linux/CVE-2025-68816
@@ -332,6 +386,8 @@
     - debian_importer_v2/linux/CVE-2025-68817
     - debian_importer_v2/linux/CVE-2025-68817
     - debian_importer_v2/linux/CVE-2025-68817
+    - debian_importer_v2/linux/CVE-2025-68817
+    - debian_importer_v2/linux/CVE-2025-68818
     - debian_importer_v2/linux/CVE-2025-68818
     - debian_importer_v2/linux/CVE-2025-68818
     - debian_importer_v2/linux/CVE-2025-68818
@@ -344,6 +400,8 @@
     - debian_importer_v2/linux/CVE-2025-68819
     - debian_importer_v2/linux/CVE-2025-68819
     - debian_importer_v2/linux/CVE-2025-68819
+    - debian_importer_v2/linux/CVE-2025-68819
+    - debian_importer_v2/linux/CVE-2025-68820
     - debian_importer_v2/linux/CVE-2025-68820
     - debian_importer_v2/linux/CVE-2025-68820
     - debian_importer_v2/linux/CVE-2025-68820
@@ -356,6 +414,8 @@
     - debian_importer_v2/linux/CVE-2025-68821
     - debian_importer_v2/linux/CVE-2025-68821
     - debian_importer_v2/linux/CVE-2025-68821
+    - debian_importer_v2/linux/CVE-2025-68821
+    - debian_importer_v2/linux/CVE-2025-68822
     - debian_importer_v2/linux/CVE-2025-68822
     - debian_importer_v2/linux/CVE-2025-68822
     - debian_importer_v2/linux/CVE-2025-68822
@@ -368,6 +428,8 @@
     - debian_importer_v2/linux/CVE-2025-68823
     - debian_importer_v2/linux/CVE-2025-68823
     - debian_importer_v2/linux/CVE-2025-68823
+    - debian_importer_v2/linux/CVE-2025-68823
+    - debian_importer_v2/linux/CVE-2025-71064
     - debian_importer_v2/linux/CVE-2025-71064
     - debian_importer_v2/linux/CVE-2025-71064
     - debian_importer_v2/linux/CVE-2025-71064
@@ -380,6 +442,8 @@
     - debian_importer_v2/linux/CVE-2025-71065
     - debian_importer_v2/linux/CVE-2025-71065
     - debian_importer_v2/linux/CVE-2025-71065
+    - debian_importer_v2/linux/CVE-2025-71065
+    - debian_importer_v2/linux/CVE-2025-71066
     - debian_importer_v2/linux/CVE-2025-71066
     - debian_importer_v2/linux/CVE-2025-71066
     - debian_importer_v2/linux/CVE-2025-71066
@@ -392,6 +456,8 @@
     - debian_importer_v2/linux/CVE-2025-71067
     - debian_importer_v2/linux/CVE-2025-71067
     - debian_importer_v2/linux/CVE-2025-71067
+    - debian_importer_v2/linux/CVE-2025-71067
+    - debian_importer_v2/linux/CVE-2025-71068
     - debian_importer_v2/linux/CVE-2025-71068
     - debian_importer_v2/linux/CVE-2025-71068
     - debian_importer_v2/linux/CVE-2025-71068
@@ -404,6 +470,8 @@
     - debian_importer_v2/linux/CVE-2025-71069
     - debian_importer_v2/linux/CVE-2025-71069
     - debian_importer_v2/linux/CVE-2025-71069
+    - debian_importer_v2/linux/CVE-2025-71069
+    - debian_importer_v2/linux/CVE-2025-71070
     - debian_importer_v2/linux/CVE-2025-71070
     - debian_importer_v2/linux/CVE-2025-71070
     - debian_importer_v2/linux/CVE-2025-71070
@@ -416,6 +484,8 @@
     - debian_importer_v2/linux/CVE-2025-71071
     - debian_importer_v2/linux/CVE-2025-71071
     - debian_importer_v2/linux/CVE-2025-71071
+    - debian_importer_v2/linux/CVE-2025-71071
+    - debian_importer_v2/linux/CVE-2025-71072
     - debian_importer_v2/linux/CVE-2025-71072
     - debian_importer_v2/linux/CVE-2025-71072
     - debian_importer_v2/linux/CVE-2025-71072
@@ -428,6 +498,8 @@
     - debian_importer_v2/linux/CVE-2025-71073
     - debian_importer_v2/linux/CVE-2025-71073
     - debian_importer_v2/linux/CVE-2025-71073
+    - debian_importer_v2/linux/CVE-2025-71073
+    - debian_importer_v2/linux/CVE-2025-71075
     - debian_importer_v2/linux/CVE-2025-71075
     - debian_importer_v2/linux/CVE-2025-71075
     - debian_importer_v2/linux/CVE-2025-71075
@@ -440,6 +512,8 @@
     - debian_importer_v2/linux/CVE-2025-71076
     - debian_importer_v2/linux/CVE-2025-71076
     - debian_importer_v2/linux/CVE-2025-71076
+    - debian_importer_v2/linux/CVE-2025-71076
+    - debian_importer_v2/linux/CVE-2025-71077
     - debian_importer_v2/linux/CVE-2025-71077
     - debian_importer_v2/linux/CVE-2025-71077
     - debian_importer_v2/linux/CVE-2025-71077
@@ -452,6 +526,8 @@
     - debian_importer_v2/linux/CVE-2025-71102
     - debian_importer_v2/linux/CVE-2025-71102
     - debian_importer_v2/linux/CVE-2025-71102
+    - debian_importer_v2/linux/CVE-2025-71102
+    - debian_importer_v2/linux/CVE-2025-71104
     - debian_importer_v2/linux/CVE-2025-71104
     - debian_importer_v2/linux/CVE-2025-71104
     - debian_importer_v2/linux/CVE-2025-71104
@@ -464,6 +540,8 @@
     - debian_importer_v2/linux/CVE-2025-71105
     - debian_importer_v2/linux/CVE-2025-71105
     - debian_importer_v2/linux/CVE-2025-71105
+    - debian_importer_v2/linux/CVE-2025-71105
+    - debian_importer_v2/linux/CVE-2025-71107
     - debian_importer_v2/linux/CVE-2025-71107
     - debian_importer_v2/linux/CVE-2025-71107
     - debian_importer_v2/linux/CVE-2025-71107
@@ -476,6 +554,8 @@
     - debian_importer_v2/linux/CVE-2025-71108
     - debian_importer_v2/linux/CVE-2025-71108
     - debian_importer_v2/linux/CVE-2025-71108
+    - debian_importer_v2/linux/CVE-2025-71108
+    - debian_importer_v2/linux/CVE-2025-71109
     - debian_importer_v2/linux/CVE-2025-71109
     - debian_importer_v2/linux/CVE-2025-71109
     - debian_importer_v2/linux/CVE-2025-71109
@@ -488,6 +568,8 @@
     - debian_importer_v2/linux/CVE-2025-71111
     - debian_importer_v2/linux/CVE-2025-71111
     - debian_importer_v2/linux/CVE-2025-71111
+    - debian_importer_v2/linux/CVE-2025-71111
+    - debian_importer_v2/linux/CVE-2025-71112
     - debian_importer_v2/linux/CVE-2025-71112
     - debian_importer_v2/linux/CVE-2025-71112
     - debian_importer_v2/linux/CVE-2025-71112
@@ -500,6 +582,8 @@
     - debian_importer_v2/linux/CVE-2025-71113
     - debian_importer_v2/linux/CVE-2025-71113
     - debian_importer_v2/linux/CVE-2025-71113
+    - debian_importer_v2/linux/CVE-2025-71113
+    - debian_importer_v2/linux/CVE-2025-71114
     - debian_importer_v2/linux/CVE-2025-71114
     - debian_importer_v2/linux/CVE-2025-71114
     - debian_importer_v2/linux/CVE-2025-71114
@@ -512,6 +596,8 @@
     - debian_importer_v2/linux/CVE-2025-71115
     - debian_importer_v2/linux/CVE-2025-71115
     - debian_importer_v2/linux/CVE-2025-71115
+    - debian_importer_v2/linux/CVE-2025-71115
+    - debian_importer_v2/linux/CVE-2025-71116
     - debian_importer_v2/linux/CVE-2025-71116
     - debian_importer_v2/linux/CVE-2025-71116
     - debian_importer_v2/linux/CVE-2025-71116
@@ -524,6 +610,8 @@
     - debian_importer_v2/linux/CVE-2025-71117
     - debian_importer_v2/linux/CVE-2025-71117
     - debian_importer_v2/linux/CVE-2025-71117
+    - debian_importer_v2/linux/CVE-2025-71117
+    - debian_importer_v2/linux/CVE-2025-71118
     - debian_importer_v2/linux/CVE-2025-71118
     - debian_importer_v2/linux/CVE-2025-71118
     - debian_importer_v2/linux/CVE-2025-71118
@@ -536,6 +624,8 @@
     - debian_importer_v2/linux/CVE-2025-71119
     - debian_importer_v2/linux/CVE-2025-71119
     - debian_importer_v2/linux/CVE-2025-71119
+    - debian_importer_v2/linux/CVE-2025-71119
+    - debian_importer_v2/linux/CVE-2025-71120
     - debian_importer_v2/linux/CVE-2025-71120
     - debian_importer_v2/linux/CVE-2025-71120
     - debian_importer_v2/linux/CVE-2025-71120
@@ -548,6 +638,8 @@
     - debian_importer_v2/linux/CVE-2025-71121
     - debian_importer_v2/linux/CVE-2025-71121
     - debian_importer_v2/linux/CVE-2025-71121
+    - debian_importer_v2/linux/CVE-2025-71121
+    - debian_importer_v2/linux/CVE-2025-71122
     - debian_importer_v2/linux/CVE-2025-71122
     - debian_importer_v2/linux/CVE-2025-71122
     - debian_importer_v2/linux/CVE-2025-71122
@@ -560,6 +652,8 @@
     - debian_importer_v2/linux/CVE-2025-71123
     - debian_importer_v2/linux/CVE-2025-71123
     - debian_importer_v2/linux/CVE-2025-71123
+    - debian_importer_v2/linux/CVE-2025-71123
+    - debian_importer_v2/linux/CVE-2025-71124
     - debian_importer_v2/linux/CVE-2025-71124
     - debian_importer_v2/linux/CVE-2025-71124
     - debian_importer_v2/linux/CVE-2025-71124
@@ -572,6 +666,8 @@
     - debian_importer_v2/linux/CVE-2025-71125
     - debian_importer_v2/linux/CVE-2025-71125
     - debian_importer_v2/linux/CVE-2025-71125
+    - debian_importer_v2/linux/CVE-2025-71125
+    - debian_importer_v2/linux/CVE-2025-71126
     - debian_importer_v2/linux/CVE-2025-71126
     - debian_importer_v2/linux/CVE-2025-71126
     - debian_importer_v2/linux/CVE-2025-71126
@@ -584,6 +680,8 @@
     - debian_importer_v2/linux/CVE-2025-71146
     - debian_importer_v2/linux/CVE-2025-71146
     - debian_importer_v2/linux/CVE-2025-71146
+    - debian_importer_v2/linux/CVE-2025-71146
+    - debian_importer_v2/linux/CVE-2025-71147
     - debian_importer_v2/linux/CVE-2025-71147
     - debian_importer_v2/linux/CVE-2025-71147
     - debian_importer_v2/linux/CVE-2025-71147
@@ -596,6 +694,8 @@
     - debian_importer_v2/linux/CVE-2025-71148
     - debian_importer_v2/linux/CVE-2025-71148
     - debian_importer_v2/linux/CVE-2025-71148
+    - debian_importer_v2/linux/CVE-2025-71148
+    - debian_importer_v2/linux/CVE-2025-71149
     - debian_importer_v2/linux/CVE-2025-71149
     - debian_importer_v2/linux/CVE-2025-71149
     - debian_importer_v2/linux/CVE-2025-71149
@@ -608,6 +708,8 @@
     - debian_importer_v2/linux/CVE-2025-71150
     - debian_importer_v2/linux/CVE-2025-71150
     - debian_importer_v2/linux/CVE-2025-71150
+    - debian_importer_v2/linux/CVE-2025-71150
+    - debian_importer_v2/linux/CVE-2025-71151
     - debian_importer_v2/linux/CVE-2025-71151
     - debian_importer_v2/linux/CVE-2025-71151
     - debian_importer_v2/linux/CVE-2025-71151
