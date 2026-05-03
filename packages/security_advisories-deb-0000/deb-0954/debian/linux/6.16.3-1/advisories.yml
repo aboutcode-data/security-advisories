@@ -407,6 +407,7 @@
     - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38105
+    - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38132
     - debian_importer_v2/linux/CVE-2025-38132
     - debian_importer_v2/linux/CVE-2025-38132
@@ -1667,6 +1668,7 @@
     - debian_importer_v2/linux/CVE-2025-38626
     - debian_importer_v2/linux/CVE-2025-38626
     - debian_importer_v2/linux/CVE-2025-38626
+    - debian_importer_v2/linux/CVE-2025-38626
     - debian_importer_v2/linux/CVE-2025-38627
     - debian_importer_v2/linux/CVE-2025-38627
     - debian_importer_v2/linux/CVE-2025-38627
@@ -1793,6 +1795,7 @@
     - debian_importer_v2/linux/CVE-2025-38653
     - debian_importer_v2/linux/CVE-2025-38653
     - debian_importer_v2/linux/CVE-2025-38653
+    - debian_importer_v2/linux/CVE-2025-38659
     - debian_importer_v2/linux/CVE-2025-38659
     - debian_importer_v2/linux/CVE-2025-38659
     - debian_importer_v2/linux/CVE-2025-38659
@@ -2031,6 +2034,7 @@
     - debian_importer_v2/linux/CVE-2025-38703
     - debian_importer_v2/linux/CVE-2025-38703
     - debian_importer_v2/linux/CVE-2025-38703
+    - debian_importer_v2/linux/CVE-2025-38704
     - debian_importer_v2/linux/CVE-2025-38704
     - debian_importer_v2/linux/CVE-2025-38704
     - debian_importer_v2/linux/CVE-2025-38704
@@ -2325,6 +2329,7 @@
     - debian_importer_v2/linux/CVE-2025-39748
     - debian_importer_v2/linux/CVE-2025-39748
     - debian_importer_v2/linux/CVE-2025-39748
+    - debian_importer_v2/linux/CVE-2025-39748
     - debian_importer_v2/linux/CVE-2025-39749
     - debian_importer_v2/linux/CVE-2025-39749
     - debian_importer_v2/linux/CVE-2025-39749
@@ -2416,6 +2421,7 @@
     - debian_importer_v2/linux/CVE-2025-39763
     - debian_importer_v2/linux/CVE-2025-39763
     - debian_importer_v2/linux/CVE-2025-39763
+    - debian_importer_v2/linux/CVE-2025-39764
     - debian_importer_v2/linux/CVE-2025-39764
     - debian_importer_v2/linux/CVE-2025-39764
     - debian_importer_v2/linux/CVE-2025-39764

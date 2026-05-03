@@ -57,6 +57,7 @@
     - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38105
+    - debian_importer_v2/linux/CVE-2025-38105
     - debian_importer_v2/linux/CVE-2025-38322
     - debian_importer_v2/linux/CVE-2025-38322
     - debian_importer_v2/linux/CVE-2025-38322
@@ -526,6 +527,7 @@
     - debian_importer_v2/linux/CVE-2025-40013
     - debian_importer_v2/linux/CVE-2025-40013
     - debian_importer_v2/linux/CVE-2025-40013
+    - debian_importer_v2/linux/CVE-2025-40016
     - debian_importer_v2/linux/CVE-2025-40016
     - debian_importer_v2/linux/CVE-2025-40016
     - debian_importer_v2/linux/CVE-2025-40016
@@ -1542,6 +1544,7 @@
     - debian_importer_v2/linux/CVE-2025-40240
     - debian_importer_v2/linux/CVE-2025-40240
     - debian_importer_v2/linux/CVE-2025-40240
+    - debian_importer_v2/linux/CVE-2025-40242
     - debian_importer_v2/linux/CVE-2025-40242
     - debian_importer_v2/linux/CVE-2025-40242
     - debian_importer_v2/linux/CVE-2025-40242

@@ -1,7 +1,16 @@
 - purl: pkg:deb/debian/libexif@0.6.24-1?distro=trixie
   affected_by_advisories:
     - debian_importer_v2/libexif/CVE-2026-32775
+    - debian_importer_v2/libexif/CVE-2026-32775
+    - debian_importer_v2/libexif/CVE-2026-32775
+    - debian_importer_v2/libexif/CVE-2026-32775
     - debian_importer_v2/libexif/CVE-2026-40385
+    - debian_importer_v2/libexif/CVE-2026-40385
+    - debian_importer_v2/libexif/CVE-2026-40385
+    - debian_importer_v2/libexif/CVE-2026-40385
+    - debian_importer_v2/libexif/CVE-2026-40386
+    - debian_importer_v2/libexif/CVE-2026-40386
+    - debian_importer_v2/libexif/CVE-2026-40386
     - debian_importer_v2/libexif/CVE-2026-40386
   fixing_advisories:
     - debian_importer_v2/libexif/CVE-2005-0664
