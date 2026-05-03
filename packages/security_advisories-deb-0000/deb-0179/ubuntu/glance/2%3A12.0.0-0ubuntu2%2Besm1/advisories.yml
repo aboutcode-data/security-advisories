@@ -3,4 +3,6 @@
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2016-4383
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2016-8611
     - ubuntu_osv_importer_v2/UBUNTU-CVE-2017-7200
-  fixing_advisories: []
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2022-4134
+  fixing_advisories:
+    - ubuntu_osv_importer_v2/UBUNTU-CVE-2024-32498
