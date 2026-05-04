@@ -2,12 +2,17 @@
   affected_by_advisories:
     - github_osv_importer_v2/GHSA-7429-hxcv-268m
     - github_osv_importer_v2/GHSA-7429-hxcv-268m
+    - gitlab_importer_v2/pypi/open-webui/CVE-2026-34222
   fixing_advisories:
     - github_osv_importer_v2/GHSA-26gm-93rw-cchf
     - github_osv_importer_v2/GHSA-jjp7-g2jw-wh3j
     - github_osv_importer_v2/GHSA-vvxm-vxmr-624h
     - github_osv_importer_v2/GHSA-w9f8-gxf9-rhvw
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-28786
+    - gitlab_importer_v2/pypi/open-webui/CVE-2026-28786
+    - gitlab_importer_v2/pypi/open-webui/CVE-2026-28788
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-28788
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-29070
+    - gitlab_importer_v2/pypi/open-webui/CVE-2026-29070
+    - gitlab_importer_v2/pypi/open-webui/CVE-2026-29071
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-29071
