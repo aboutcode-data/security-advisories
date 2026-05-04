@@ -5,3 +5,4 @@
     - nodejs_security_wg/npm-19
   fixing_advisories:
     - gitlab_importer_v2/npm/ldapauth/CVE-2015-7294
+    - gitlab_importer_v2/npm/ldapauth/CVE-2015-7294
