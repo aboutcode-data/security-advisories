@@ -7,3 +7,4 @@
     - nodejs_security_wg/npm-457
   fixing_advisories:
     - gitlab_importer_v2/npm/aedes/CVE-2018-3778
+    - gitlab_importer_v2/npm/aedes/CVE-2018-3778
