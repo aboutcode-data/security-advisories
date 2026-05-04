@@ -10,6 +10,8 @@
     - github_osv_importer_v2/GHSA-vp93-gcx5-4w52
     - github_osv_importer_v2/GHSA-w992-2gmj-9xxj
     - gitlab_importer_v2/npm/swagger-ui/CVE-2016-1000229
+    - gitlab_importer_v2/npm/swagger-ui/CVE-2016-1000229
+    - gitlab_importer_v2/npm/swagger-ui/CVE-2016-5682
     - gitlab_importer_v2/npm/swagger-ui/CVE-2016-5682
     - gitlab_importer_v2/npm/swagger-ui/GMS-2020-780
     - gitlab_importer_v2/npm/swagger-ui/GMS-2020-783
