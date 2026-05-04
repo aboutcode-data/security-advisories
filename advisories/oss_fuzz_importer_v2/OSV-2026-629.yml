@@ -15,7 +15,7 @@ summary: |
   ```
 impacted_packages:
   - purl: pkg:generic/thrift-java
-    affected_versions:
+    affected_versions: vers:generic/0.23.0
     fixed_versions:
     fixed_in_commits:
       - vcs_url: https://github.com/apache/thrift
