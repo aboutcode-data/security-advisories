@@ -13,3 +13,4 @@
   fixing_advisories:
     - github_osv_importer_v2/GHSA-5frh-8cmj-gc59
     - gitlab_importer_v2/nuget/System.Management.Automation/CVE-2019-1167
+    - gitlab_importer_v2/nuget/System.Management.Automation/CVE-2019-1167
