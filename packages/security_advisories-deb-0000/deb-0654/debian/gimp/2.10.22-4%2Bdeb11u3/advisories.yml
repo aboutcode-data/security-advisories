@@ -5,6 +5,10 @@
     - debian_importer_v2/gimp/CVE-2025-10922
     - debian_importer_v2/gimp/CVE-2025-10922
     - debian_importer_v2/gimp/CVE-2025-10922
+    - debian_importer_v2/gimp/CVE-2025-10922
+    - debian_importer_v2/gimp/CVE-2025-10922
+    - debian_importer_v2/gimp/CVE-2025-2760
+    - debian_importer_v2/gimp/CVE-2025-2760
     - debian_importer_v2/gimp/CVE-2025-2760
     - debian_importer_v2/gimp/CVE-2025-2760
     - debian_importer_v2/gimp/CVE-2025-2760
@@ -13,6 +17,10 @@
     - debian_importer_v2/gimp/CVE-2025-2761
     - debian_importer_v2/gimp/CVE-2025-2761
     - debian_importer_v2/gimp/CVE-2025-2761
+    - debian_importer_v2/gimp/CVE-2025-2761
+    - debian_importer_v2/gimp/CVE-2025-2761
+    - debian_importer_v2/gimp/CVE-2025-48797
+    - debian_importer_v2/gimp/CVE-2025-48797
     - debian_importer_v2/gimp/CVE-2025-48797
     - debian_importer_v2/gimp/CVE-2025-48797
     - debian_importer_v2/gimp/CVE-2025-48797
@@ -21,10 +29,16 @@
     - debian_importer_v2/gimp/CVE-2025-48798
     - debian_importer_v2/gimp/CVE-2025-48798
     - debian_importer_v2/gimp/CVE-2025-48798
+    - debian_importer_v2/gimp/CVE-2025-48798
+    - debian_importer_v2/gimp/CVE-2025-48798
     - debian_importer_v2/gimp/CVE-2025-5473
     - debian_importer_v2/gimp/CVE-2025-5473
     - debian_importer_v2/gimp/CVE-2025-5473
     - debian_importer_v2/gimp/CVE-2025-5473
+    - debian_importer_v2/gimp/CVE-2025-5473
+    - debian_importer_v2/gimp/CVE-2025-5473
+    - debian_importer_v2/gimp/CVE-2025-6035
+    - debian_importer_v2/gimp/CVE-2025-6035
     - debian_importer_v2/gimp/CVE-2025-6035
     - debian_importer_v2/gimp/CVE-2025-6035
     - debian_importer_v2/gimp/CVE-2025-6035

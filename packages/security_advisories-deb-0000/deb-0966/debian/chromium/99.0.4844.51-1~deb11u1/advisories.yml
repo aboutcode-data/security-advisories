@@ -9,6 +9,12 @@
     - debian_importer_v2/chromium/CVE-2022-0789
     - debian_importer_v2/chromium/CVE-2022-0789
     - debian_importer_v2/chromium/CVE-2022-0789
+    - debian_importer_v2/chromium/CVE-2022-0789
+    - debian_importer_v2/chromium/CVE-2022-0789
+    - debian_importer_v2/chromium/CVE-2022-0789
+    - debian_importer_v2/chromium/CVE-2022-0790
+    - debian_importer_v2/chromium/CVE-2022-0790
+    - debian_importer_v2/chromium/CVE-2022-0790
     - debian_importer_v2/chromium/CVE-2022-0790
     - debian_importer_v2/chromium/CVE-2022-0790
     - debian_importer_v2/chromium/CVE-2022-0790
@@ -25,6 +31,12 @@
     - debian_importer_v2/chromium/CVE-2022-0791
     - debian_importer_v2/chromium/CVE-2022-0791
     - debian_importer_v2/chromium/CVE-2022-0791
+    - debian_importer_v2/chromium/CVE-2022-0791
+    - debian_importer_v2/chromium/CVE-2022-0791
+    - debian_importer_v2/chromium/CVE-2022-0791
+    - debian_importer_v2/chromium/CVE-2022-0792
+    - debian_importer_v2/chromium/CVE-2022-0792
+    - debian_importer_v2/chromium/CVE-2022-0792
     - debian_importer_v2/chromium/CVE-2022-0792
     - debian_importer_v2/chromium/CVE-2022-0792
     - debian_importer_v2/chromium/CVE-2022-0792
@@ -41,6 +53,12 @@
     - debian_importer_v2/chromium/CVE-2022-0793
     - debian_importer_v2/chromium/CVE-2022-0793
     - debian_importer_v2/chromium/CVE-2022-0793
+    - debian_importer_v2/chromium/CVE-2022-0793
+    - debian_importer_v2/chromium/CVE-2022-0793
+    - debian_importer_v2/chromium/CVE-2022-0793
+    - debian_importer_v2/chromium/CVE-2022-0794
+    - debian_importer_v2/chromium/CVE-2022-0794
+    - debian_importer_v2/chromium/CVE-2022-0794
     - debian_importer_v2/chromium/CVE-2022-0794
     - debian_importer_v2/chromium/CVE-2022-0794
     - debian_importer_v2/chromium/CVE-2022-0794
@@ -57,6 +75,12 @@
     - debian_importer_v2/chromium/CVE-2022-0795
     - debian_importer_v2/chromium/CVE-2022-0795
     - debian_importer_v2/chromium/CVE-2022-0795
+    - debian_importer_v2/chromium/CVE-2022-0795
+    - debian_importer_v2/chromium/CVE-2022-0795
+    - debian_importer_v2/chromium/CVE-2022-0795
+    - debian_importer_v2/chromium/CVE-2022-0796
+    - debian_importer_v2/chromium/CVE-2022-0796
+    - debian_importer_v2/chromium/CVE-2022-0796
     - debian_importer_v2/chromium/CVE-2022-0796
     - debian_importer_v2/chromium/CVE-2022-0796
     - debian_importer_v2/chromium/CVE-2022-0796
@@ -73,6 +97,12 @@
     - debian_importer_v2/chromium/CVE-2022-0797
     - debian_importer_v2/chromium/CVE-2022-0797
     - debian_importer_v2/chromium/CVE-2022-0797
+    - debian_importer_v2/chromium/CVE-2022-0797
+    - debian_importer_v2/chromium/CVE-2022-0797
+    - debian_importer_v2/chromium/CVE-2022-0797
+    - debian_importer_v2/chromium/CVE-2022-0798
+    - debian_importer_v2/chromium/CVE-2022-0798
+    - debian_importer_v2/chromium/CVE-2022-0798
     - debian_importer_v2/chromium/CVE-2022-0798
     - debian_importer_v2/chromium/CVE-2022-0798
     - debian_importer_v2/chromium/CVE-2022-0798
@@ -89,6 +119,12 @@
     - debian_importer_v2/chromium/CVE-2022-0799
     - debian_importer_v2/chromium/CVE-2022-0799
     - debian_importer_v2/chromium/CVE-2022-0799
+    - debian_importer_v2/chromium/CVE-2022-0799
+    - debian_importer_v2/chromium/CVE-2022-0799
+    - debian_importer_v2/chromium/CVE-2022-0799
+    - debian_importer_v2/chromium/CVE-2022-0800
+    - debian_importer_v2/chromium/CVE-2022-0800
+    - debian_importer_v2/chromium/CVE-2022-0800
     - debian_importer_v2/chromium/CVE-2022-0800
     - debian_importer_v2/chromium/CVE-2022-0800
     - debian_importer_v2/chromium/CVE-2022-0800
@@ -105,6 +141,12 @@
     - debian_importer_v2/chromium/CVE-2022-0801
     - debian_importer_v2/chromium/CVE-2022-0801
     - debian_importer_v2/chromium/CVE-2022-0801
+    - debian_importer_v2/chromium/CVE-2022-0801
+    - debian_importer_v2/chromium/CVE-2022-0801
+    - debian_importer_v2/chromium/CVE-2022-0801
+    - debian_importer_v2/chromium/CVE-2022-0802
+    - debian_importer_v2/chromium/CVE-2022-0802
+    - debian_importer_v2/chromium/CVE-2022-0802
     - debian_importer_v2/chromium/CVE-2022-0802
     - debian_importer_v2/chromium/CVE-2022-0802
     - debian_importer_v2/chromium/CVE-2022-0802
@@ -121,6 +163,12 @@
     - debian_importer_v2/chromium/CVE-2022-0803
     - debian_importer_v2/chromium/CVE-2022-0803
     - debian_importer_v2/chromium/CVE-2022-0803
+    - debian_importer_v2/chromium/CVE-2022-0803
+    - debian_importer_v2/chromium/CVE-2022-0803
+    - debian_importer_v2/chromium/CVE-2022-0803
+    - debian_importer_v2/chromium/CVE-2022-0804
+    - debian_importer_v2/chromium/CVE-2022-0804
+    - debian_importer_v2/chromium/CVE-2022-0804
     - debian_importer_v2/chromium/CVE-2022-0804
     - debian_importer_v2/chromium/CVE-2022-0804
     - debian_importer_v2/chromium/CVE-2022-0804
@@ -137,6 +185,12 @@
     - debian_importer_v2/chromium/CVE-2022-0805
     - debian_importer_v2/chromium/CVE-2022-0805
     - debian_importer_v2/chromium/CVE-2022-0805
+    - debian_importer_v2/chromium/CVE-2022-0805
+    - debian_importer_v2/chromium/CVE-2022-0805
+    - debian_importer_v2/chromium/CVE-2022-0805
+    - debian_importer_v2/chromium/CVE-2022-0806
+    - debian_importer_v2/chromium/CVE-2022-0806
+    - debian_importer_v2/chromium/CVE-2022-0806
     - debian_importer_v2/chromium/CVE-2022-0806
     - debian_importer_v2/chromium/CVE-2022-0806
     - debian_importer_v2/chromium/CVE-2022-0806
@@ -153,6 +207,12 @@
     - debian_importer_v2/chromium/CVE-2022-0807
     - debian_importer_v2/chromium/CVE-2022-0807
     - debian_importer_v2/chromium/CVE-2022-0807
+    - debian_importer_v2/chromium/CVE-2022-0807
+    - debian_importer_v2/chromium/CVE-2022-0807
+    - debian_importer_v2/chromium/CVE-2022-0807
+    - debian_importer_v2/chromium/CVE-2022-0808
+    - debian_importer_v2/chromium/CVE-2022-0808
+    - debian_importer_v2/chromium/CVE-2022-0808
     - debian_importer_v2/chromium/CVE-2022-0808
     - debian_importer_v2/chromium/CVE-2022-0808
     - debian_importer_v2/chromium/CVE-2022-0808
@@ -169,6 +229,12 @@
     - debian_importer_v2/chromium/CVE-2022-0809
     - debian_importer_v2/chromium/CVE-2022-0809
     - debian_importer_v2/chromium/CVE-2022-0809
+    - debian_importer_v2/chromium/CVE-2022-0809
+    - debian_importer_v2/chromium/CVE-2022-0809
+    - debian_importer_v2/chromium/CVE-2022-0809
+    - debian_importer_v2/chromium/CVE-2022-4921
+    - debian_importer_v2/chromium/CVE-2022-4921
+    - debian_importer_v2/chromium/CVE-2022-4921
     - debian_importer_v2/chromium/CVE-2022-4921
     - debian_importer_v2/chromium/CVE-2022-4921
     - debian_importer_v2/chromium/CVE-2022-4921
@@ -185,6 +251,12 @@
     - debian_importer_v2/chromium/CVE-2022-4922
     - debian_importer_v2/chromium/CVE-2022-4922
     - debian_importer_v2/chromium/CVE-2022-4922
+    - debian_importer_v2/chromium/CVE-2022-4922
+    - debian_importer_v2/chromium/CVE-2022-4922
+    - debian_importer_v2/chromium/CVE-2022-4922
+    - debian_importer_v2/chromium/CVE-2022-4923
+    - debian_importer_v2/chromium/CVE-2022-4923
+    - debian_importer_v2/chromium/CVE-2022-4923
     - debian_importer_v2/chromium/CVE-2022-4923
     - debian_importer_v2/chromium/CVE-2022-4923
     - debian_importer_v2/chromium/CVE-2022-4923

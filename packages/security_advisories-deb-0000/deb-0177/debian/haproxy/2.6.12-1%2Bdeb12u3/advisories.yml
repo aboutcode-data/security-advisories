@@ -22,6 +22,18 @@
     - debian_importer_v2/haproxy/CVE-2024-49214
     - debian_importer_v2/haproxy/CVE-2024-49214
     - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
+    - debian_importer_v2/haproxy/CVE-2024-49214
     - debian_importer_v2/haproxy/CVE-2024-53008
     - debian_importer_v2/haproxy/CVE-2024-53008
     - debian_importer_v2/haproxy/CVE-2024-53008
@@ -44,6 +56,28 @@
     - debian_importer_v2/haproxy/CVE-2024-53008
     - debian_importer_v2/haproxy/CVE-2024-53008
     - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2024-53008
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
+    - debian_importer_v2/haproxy/CVE-2026-33555
     - debian_importer_v2/haproxy/CVE-2026-33555
     - debian_importer_v2/haproxy/CVE-2026-33555
     - debian_importer_v2/haproxy/CVE-2026-33555
@@ -61,6 +95,10 @@
     - debian_importer_v2/haproxy/CVE-2012-2942
     - debian_importer_v2/haproxy/CVE-2012-2942
     - debian_importer_v2/haproxy/CVE-2012-2942
+    - debian_importer_v2/haproxy/CVE-2012-2942
+    - debian_importer_v2/haproxy/CVE-2012-2942
+    - debian_importer_v2/haproxy/CVE-2013-1912
+    - debian_importer_v2/haproxy/CVE-2013-1912
     - debian_importer_v2/haproxy/CVE-2013-1912
     - debian_importer_v2/haproxy/CVE-2013-1912
     - debian_importer_v2/haproxy/CVE-2013-1912
@@ -69,6 +107,10 @@
     - debian_importer_v2/haproxy/CVE-2013-2175
     - debian_importer_v2/haproxy/CVE-2013-2175
     - debian_importer_v2/haproxy/CVE-2013-2175
+    - debian_importer_v2/haproxy/CVE-2013-2175
+    - debian_importer_v2/haproxy/CVE-2013-2175
+    - debian_importer_v2/haproxy/CVE-2014-6269
+    - debian_importer_v2/haproxy/CVE-2014-6269
     - debian_importer_v2/haproxy/CVE-2014-6269
     - debian_importer_v2/haproxy/CVE-2014-6269
     - debian_importer_v2/haproxy/CVE-2014-6269
@@ -77,6 +119,10 @@
     - debian_importer_v2/haproxy/CVE-2015-3281
     - debian_importer_v2/haproxy/CVE-2015-3281
     - debian_importer_v2/haproxy/CVE-2015-3281
+    - debian_importer_v2/haproxy/CVE-2015-3281
+    - debian_importer_v2/haproxy/CVE-2015-3281
+    - debian_importer_v2/haproxy/CVE-2016-5360
+    - debian_importer_v2/haproxy/CVE-2016-5360
     - debian_importer_v2/haproxy/CVE-2016-5360
     - debian_importer_v2/haproxy/CVE-2016-5360
     - debian_importer_v2/haproxy/CVE-2016-5360
@@ -85,6 +131,10 @@
     - debian_importer_v2/haproxy/CVE-2018-10184
     - debian_importer_v2/haproxy/CVE-2018-10184
     - debian_importer_v2/haproxy/CVE-2018-10184
+    - debian_importer_v2/haproxy/CVE-2018-10184
+    - debian_importer_v2/haproxy/CVE-2018-10184
+    - debian_importer_v2/haproxy/CVE-2018-11469
+    - debian_importer_v2/haproxy/CVE-2018-11469
     - debian_importer_v2/haproxy/CVE-2018-11469
     - debian_importer_v2/haproxy/CVE-2018-11469
     - debian_importer_v2/haproxy/CVE-2018-11469
@@ -93,6 +143,10 @@
     - debian_importer_v2/haproxy/CVE-2018-14645
     - debian_importer_v2/haproxy/CVE-2018-14645
     - debian_importer_v2/haproxy/CVE-2018-14645
+    - debian_importer_v2/haproxy/CVE-2018-14645
+    - debian_importer_v2/haproxy/CVE-2018-14645
+    - debian_importer_v2/haproxy/CVE-2018-20102
+    - debian_importer_v2/haproxy/CVE-2018-20102
     - debian_importer_v2/haproxy/CVE-2018-20102
     - debian_importer_v2/haproxy/CVE-2018-20102
     - debian_importer_v2/haproxy/CVE-2018-20102
@@ -101,6 +155,10 @@
     - debian_importer_v2/haproxy/CVE-2018-20103
     - debian_importer_v2/haproxy/CVE-2018-20103
     - debian_importer_v2/haproxy/CVE-2018-20103
+    - debian_importer_v2/haproxy/CVE-2018-20103
+    - debian_importer_v2/haproxy/CVE-2018-20103
+    - debian_importer_v2/haproxy/CVE-2018-20615
+    - debian_importer_v2/haproxy/CVE-2018-20615
     - debian_importer_v2/haproxy/CVE-2018-20615
     - debian_importer_v2/haproxy/CVE-2018-20615
     - debian_importer_v2/haproxy/CVE-2018-20615
@@ -109,6 +167,10 @@
     - debian_importer_v2/haproxy/CVE-2019-11323
     - debian_importer_v2/haproxy/CVE-2019-11323
     - debian_importer_v2/haproxy/CVE-2019-11323
+    - debian_importer_v2/haproxy/CVE-2019-11323
+    - debian_importer_v2/haproxy/CVE-2019-11323
+    - debian_importer_v2/haproxy/CVE-2019-14241
+    - debian_importer_v2/haproxy/CVE-2019-14241
     - debian_importer_v2/haproxy/CVE-2019-14241
     - debian_importer_v2/haproxy/CVE-2019-14241
     - debian_importer_v2/haproxy/CVE-2019-14241
@@ -117,6 +179,10 @@
     - debian_importer_v2/haproxy/CVE-2019-18277
     - debian_importer_v2/haproxy/CVE-2019-18277
     - debian_importer_v2/haproxy/CVE-2019-18277
+    - debian_importer_v2/haproxy/CVE-2019-18277
+    - debian_importer_v2/haproxy/CVE-2019-18277
+    - debian_importer_v2/haproxy/CVE-2019-19330
+    - debian_importer_v2/haproxy/CVE-2019-19330
     - debian_importer_v2/haproxy/CVE-2019-19330
     - debian_importer_v2/haproxy/CVE-2019-19330
     - debian_importer_v2/haproxy/CVE-2019-19330
@@ -125,6 +191,10 @@
     - debian_importer_v2/haproxy/CVE-2020-11100
     - debian_importer_v2/haproxy/CVE-2020-11100
     - debian_importer_v2/haproxy/CVE-2020-11100
+    - debian_importer_v2/haproxy/CVE-2020-11100
+    - debian_importer_v2/haproxy/CVE-2020-11100
+    - debian_importer_v2/haproxy/CVE-2021-39240
+    - debian_importer_v2/haproxy/CVE-2021-39240
     - debian_importer_v2/haproxy/CVE-2021-39240
     - debian_importer_v2/haproxy/CVE-2021-39240
     - debian_importer_v2/haproxy/CVE-2021-39240
@@ -133,6 +203,10 @@
     - debian_importer_v2/haproxy/CVE-2021-39241
     - debian_importer_v2/haproxy/CVE-2021-39241
     - debian_importer_v2/haproxy/CVE-2021-39241
+    - debian_importer_v2/haproxy/CVE-2021-39241
+    - debian_importer_v2/haproxy/CVE-2021-39241
+    - debian_importer_v2/haproxy/CVE-2021-39242
+    - debian_importer_v2/haproxy/CVE-2021-39242
     - debian_importer_v2/haproxy/CVE-2021-39242
     - debian_importer_v2/haproxy/CVE-2021-39242
     - debian_importer_v2/haproxy/CVE-2021-39242
@@ -141,6 +215,10 @@
     - debian_importer_v2/haproxy/CVE-2021-40346
     - debian_importer_v2/haproxy/CVE-2021-40346
     - debian_importer_v2/haproxy/CVE-2021-40346
+    - debian_importer_v2/haproxy/CVE-2021-40346
+    - debian_importer_v2/haproxy/CVE-2021-40346
+    - debian_importer_v2/haproxy/CVE-2022-0711
+    - debian_importer_v2/haproxy/CVE-2022-0711
     - debian_importer_v2/haproxy/CVE-2022-0711
     - debian_importer_v2/haproxy/CVE-2022-0711
     - debian_importer_v2/haproxy/CVE-2022-0711
@@ -149,6 +227,10 @@
     - debian_importer_v2/haproxy/CVE-2023-0056
     - debian_importer_v2/haproxy/CVE-2023-0056
     - debian_importer_v2/haproxy/CVE-2023-0056
+    - debian_importer_v2/haproxy/CVE-2023-0056
+    - debian_importer_v2/haproxy/CVE-2023-0056
+    - debian_importer_v2/haproxy/CVE-2023-0836
+    - debian_importer_v2/haproxy/CVE-2023-0836
     - debian_importer_v2/haproxy/CVE-2023-0836
     - debian_importer_v2/haproxy/CVE-2023-0836
     - debian_importer_v2/haproxy/CVE-2023-0836
@@ -157,6 +239,10 @@
     - debian_importer_v2/haproxy/CVE-2023-25725
     - debian_importer_v2/haproxy/CVE-2023-25725
     - debian_importer_v2/haproxy/CVE-2023-25725
+    - debian_importer_v2/haproxy/CVE-2023-25725
+    - debian_importer_v2/haproxy/CVE-2023-25725
+    - debian_importer_v2/haproxy/CVE-2023-25950
+    - debian_importer_v2/haproxy/CVE-2023-25950
     - debian_importer_v2/haproxy/CVE-2023-25950
     - debian_importer_v2/haproxy/CVE-2023-25950
     - debian_importer_v2/haproxy/CVE-2023-25950
@@ -165,6 +251,10 @@
     - debian_importer_v2/haproxy/CVE-2023-40225
     - debian_importer_v2/haproxy/CVE-2023-40225
     - debian_importer_v2/haproxy/CVE-2023-40225
+    - debian_importer_v2/haproxy/CVE-2023-40225
+    - debian_importer_v2/haproxy/CVE-2023-40225
+    - debian_importer_v2/haproxy/CVE-2023-44487
+    - debian_importer_v2/haproxy/CVE-2023-44487
     - debian_importer_v2/haproxy/CVE-2023-44487
     - debian_importer_v2/haproxy/CVE-2023-44487
     - debian_importer_v2/haproxy/CVE-2023-44487
@@ -173,6 +263,10 @@
     - debian_importer_v2/haproxy/CVE-2023-45539
     - debian_importer_v2/haproxy/CVE-2023-45539
     - debian_importer_v2/haproxy/CVE-2023-45539
+    - debian_importer_v2/haproxy/CVE-2023-45539
+    - debian_importer_v2/haproxy/CVE-2023-45539
+    - debian_importer_v2/haproxy/CVE-2024-45506
+    - debian_importer_v2/haproxy/CVE-2024-45506
     - debian_importer_v2/haproxy/CVE-2024-45506
     - debian_importer_v2/haproxy/CVE-2024-45506
     - debian_importer_v2/haproxy/CVE-2024-45506
@@ -181,6 +275,10 @@
     - debian_importer_v2/haproxy/CVE-2025-11230
     - debian_importer_v2/haproxy/CVE-2025-11230
     - debian_importer_v2/haproxy/CVE-2025-11230
+    - debian_importer_v2/haproxy/CVE-2025-11230
+    - debian_importer_v2/haproxy/CVE-2025-11230
+    - debian_importer_v2/haproxy/CVE-2025-32464
+    - debian_importer_v2/haproxy/CVE-2025-32464
     - debian_importer_v2/haproxy/CVE-2025-32464
     - debian_importer_v2/haproxy/CVE-2025-32464
     - debian_importer_v2/haproxy/CVE-2025-32464
@@ -189,6 +287,10 @@
     - debian_importer_v2/haproxy/CVE-2025-8671
     - debian_importer_v2/haproxy/CVE-2025-8671
     - debian_importer_v2/haproxy/CVE-2025-8671
+    - debian_importer_v2/haproxy/CVE-2025-8671
+    - debian_importer_v2/haproxy/CVE-2025-8671
+    - debian_importer_v2/haproxy/CVE-2026-26080
+    - debian_importer_v2/haproxy/CVE-2026-26080
     - debian_importer_v2/haproxy/CVE-2026-26080
     - debian_importer_v2/haproxy/CVE-2026-26080
     - debian_importer_v2/haproxy/CVE-2026-26080
@@ -197,10 +299,16 @@
     - debian_importer_v2/haproxy/CVE-2026-26081
     - debian_importer_v2/haproxy/CVE-2026-26081
     - debian_importer_v2/haproxy/CVE-2026-26081
+    - debian_importer_v2/haproxy/CVE-2026-26081
+    - debian_importer_v2/haproxy/CVE-2026-26081
     - debian_importer_v2/haproxy/TEMP-0000000-1F321D
     - debian_importer_v2/haproxy/TEMP-0000000-1F321D
     - debian_importer_v2/haproxy/TEMP-0000000-1F321D
     - debian_importer_v2/haproxy/TEMP-0000000-1F321D
+    - debian_importer_v2/haproxy/TEMP-0000000-1F321D
+    - debian_importer_v2/haproxy/TEMP-0000000-1F321D
+    - debian_importer_v2/haproxy/TEMP-0000000-B9CD89
+    - debian_importer_v2/haproxy/TEMP-0000000-B9CD89
     - debian_importer_v2/haproxy/TEMP-0000000-B9CD89
     - debian_importer_v2/haproxy/TEMP-0000000-B9CD89
     - debian_importer_v2/haproxy/TEMP-0000000-B9CD89

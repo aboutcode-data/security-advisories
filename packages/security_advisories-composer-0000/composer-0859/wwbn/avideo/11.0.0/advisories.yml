@@ -294,6 +294,8 @@
     - gitlab_importer_v2/packagist/wwbn/avideo/CVE-2026-34738
     - gitlab_importer_v2/packagist/wwbn/avideo/CVE-2026-34739
     - gitlab_importer_v2/packagist/wwbn/avideo/CVE-2026-34740
+    - gitlab_importer_v2/packagist/wwbn/avideo/CVE-2026-35179
+    - gitlab_importer_v2/packagist/wwbn/avideo/CVE-2026-35181
     - gitlab_importer_v2/packagist/wwbn/avideo/GHSA-5x2w-37xf-7962
     - gitlab_importer_v2/packagist/wwbn/avideo/GHSA-5x2w-37xf-7962
     - gitlab_importer_v2/packagist/wwbn/avideo/GHSA-6w2r-cfpc-23r5

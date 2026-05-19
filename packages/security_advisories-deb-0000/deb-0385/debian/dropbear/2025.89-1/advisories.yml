@@ -23,4 +23,7 @@
     - debian_importer_v2/dropbear/CVE-2021-36369
     - debian_importer_v2/dropbear/CVE-2023-48795
     - debian_importer_v2/dropbear/CVE-2025-14282
+    - debian_importer_v2/dropbear/CVE-2025-14282
+    - debian_importer_v2/dropbear/CVE-2025-14282
+    - debian_importer_v2/dropbear/CVE-2025-14282
     - debian_importer_v2/dropbear/CVE-2025-47203

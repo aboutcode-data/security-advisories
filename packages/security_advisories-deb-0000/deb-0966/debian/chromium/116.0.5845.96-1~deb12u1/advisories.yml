@@ -9,6 +9,12 @@
     - debian_importer_v2/chromium/CVE-2023-2312
     - debian_importer_v2/chromium/CVE-2023-2312
     - debian_importer_v2/chromium/CVE-2023-2312
+    - debian_importer_v2/chromium/CVE-2023-2312
+    - debian_importer_v2/chromium/CVE-2023-2312
+    - debian_importer_v2/chromium/CVE-2023-2312
+    - debian_importer_v2/chromium/CVE-2023-4349
+    - debian_importer_v2/chromium/CVE-2023-4349
+    - debian_importer_v2/chromium/CVE-2023-4349
     - debian_importer_v2/chromium/CVE-2023-4349
     - debian_importer_v2/chromium/CVE-2023-4349
     - debian_importer_v2/chromium/CVE-2023-4349
@@ -25,6 +31,12 @@
     - debian_importer_v2/chromium/CVE-2023-4350
     - debian_importer_v2/chromium/CVE-2023-4350
     - debian_importer_v2/chromium/CVE-2023-4350
+    - debian_importer_v2/chromium/CVE-2023-4350
+    - debian_importer_v2/chromium/CVE-2023-4350
+    - debian_importer_v2/chromium/CVE-2023-4350
+    - debian_importer_v2/chromium/CVE-2023-4351
+    - debian_importer_v2/chromium/CVE-2023-4351
+    - debian_importer_v2/chromium/CVE-2023-4351
     - debian_importer_v2/chromium/CVE-2023-4351
     - debian_importer_v2/chromium/CVE-2023-4351
     - debian_importer_v2/chromium/CVE-2023-4351
@@ -41,6 +53,12 @@
     - debian_importer_v2/chromium/CVE-2023-4352
     - debian_importer_v2/chromium/CVE-2023-4352
     - debian_importer_v2/chromium/CVE-2023-4352
+    - debian_importer_v2/chromium/CVE-2023-4352
+    - debian_importer_v2/chromium/CVE-2023-4352
+    - debian_importer_v2/chromium/CVE-2023-4352
+    - debian_importer_v2/chromium/CVE-2023-4353
+    - debian_importer_v2/chromium/CVE-2023-4353
+    - debian_importer_v2/chromium/CVE-2023-4353
     - debian_importer_v2/chromium/CVE-2023-4353
     - debian_importer_v2/chromium/CVE-2023-4353
     - debian_importer_v2/chromium/CVE-2023-4353
@@ -57,6 +75,12 @@
     - debian_importer_v2/chromium/CVE-2023-4354
     - debian_importer_v2/chromium/CVE-2023-4354
     - debian_importer_v2/chromium/CVE-2023-4354
+    - debian_importer_v2/chromium/CVE-2023-4354
+    - debian_importer_v2/chromium/CVE-2023-4354
+    - debian_importer_v2/chromium/CVE-2023-4354
+    - debian_importer_v2/chromium/CVE-2023-4355
+    - debian_importer_v2/chromium/CVE-2023-4355
+    - debian_importer_v2/chromium/CVE-2023-4355
     - debian_importer_v2/chromium/CVE-2023-4355
     - debian_importer_v2/chromium/CVE-2023-4355
     - debian_importer_v2/chromium/CVE-2023-4355
@@ -73,6 +97,12 @@
     - debian_importer_v2/chromium/CVE-2023-4356
     - debian_importer_v2/chromium/CVE-2023-4356
     - debian_importer_v2/chromium/CVE-2023-4356
+    - debian_importer_v2/chromium/CVE-2023-4356
+    - debian_importer_v2/chromium/CVE-2023-4356
+    - debian_importer_v2/chromium/CVE-2023-4356
+    - debian_importer_v2/chromium/CVE-2023-4357
+    - debian_importer_v2/chromium/CVE-2023-4357
+    - debian_importer_v2/chromium/CVE-2023-4357
     - debian_importer_v2/chromium/CVE-2023-4357
     - debian_importer_v2/chromium/CVE-2023-4357
     - debian_importer_v2/chromium/CVE-2023-4357
@@ -89,6 +119,12 @@
     - debian_importer_v2/chromium/CVE-2023-4358
     - debian_importer_v2/chromium/CVE-2023-4358
     - debian_importer_v2/chromium/CVE-2023-4358
+    - debian_importer_v2/chromium/CVE-2023-4358
+    - debian_importer_v2/chromium/CVE-2023-4358
+    - debian_importer_v2/chromium/CVE-2023-4358
+    - debian_importer_v2/chromium/CVE-2023-4359
+    - debian_importer_v2/chromium/CVE-2023-4359
+    - debian_importer_v2/chromium/CVE-2023-4359
     - debian_importer_v2/chromium/CVE-2023-4359
     - debian_importer_v2/chromium/CVE-2023-4359
     - debian_importer_v2/chromium/CVE-2023-4359
@@ -105,6 +141,12 @@
     - debian_importer_v2/chromium/CVE-2023-4360
     - debian_importer_v2/chromium/CVE-2023-4360
     - debian_importer_v2/chromium/CVE-2023-4360
+    - debian_importer_v2/chromium/CVE-2023-4360
+    - debian_importer_v2/chromium/CVE-2023-4360
+    - debian_importer_v2/chromium/CVE-2023-4360
+    - debian_importer_v2/chromium/CVE-2023-4361
+    - debian_importer_v2/chromium/CVE-2023-4361
+    - debian_importer_v2/chromium/CVE-2023-4361
     - debian_importer_v2/chromium/CVE-2023-4361
     - debian_importer_v2/chromium/CVE-2023-4361
     - debian_importer_v2/chromium/CVE-2023-4361
@@ -121,6 +163,12 @@
     - debian_importer_v2/chromium/CVE-2023-4362
     - debian_importer_v2/chromium/CVE-2023-4362
     - debian_importer_v2/chromium/CVE-2023-4362
+    - debian_importer_v2/chromium/CVE-2023-4362
+    - debian_importer_v2/chromium/CVE-2023-4362
+    - debian_importer_v2/chromium/CVE-2023-4362
+    - debian_importer_v2/chromium/CVE-2023-4363
+    - debian_importer_v2/chromium/CVE-2023-4363
+    - debian_importer_v2/chromium/CVE-2023-4363
     - debian_importer_v2/chromium/CVE-2023-4363
     - debian_importer_v2/chromium/CVE-2023-4363
     - debian_importer_v2/chromium/CVE-2023-4363
@@ -137,6 +185,12 @@
     - debian_importer_v2/chromium/CVE-2023-4364
     - debian_importer_v2/chromium/CVE-2023-4364
     - debian_importer_v2/chromium/CVE-2023-4364
+    - debian_importer_v2/chromium/CVE-2023-4364
+    - debian_importer_v2/chromium/CVE-2023-4364
+    - debian_importer_v2/chromium/CVE-2023-4364
+    - debian_importer_v2/chromium/CVE-2023-4365
+    - debian_importer_v2/chromium/CVE-2023-4365
+    - debian_importer_v2/chromium/CVE-2023-4365
     - debian_importer_v2/chromium/CVE-2023-4365
     - debian_importer_v2/chromium/CVE-2023-4365
     - debian_importer_v2/chromium/CVE-2023-4365
@@ -153,6 +207,9 @@
     - debian_importer_v2/chromium/CVE-2023-4366
     - debian_importer_v2/chromium/CVE-2023-4366
     - debian_importer_v2/chromium/CVE-2023-4366
+    - debian_importer_v2/chromium/CVE-2023-4366
+    - debian_importer_v2/chromium/CVE-2023-4366
+    - debian_importer_v2/chromium/CVE-2023-4366
     - debian_importer_v2/chromium/CVE-2023-4367
     - debian_importer_v2/chromium/CVE-2023-4367
     - debian_importer_v2/chromium/CVE-2023-4367
@@ -161,6 +218,12 @@
     - debian_importer_v2/chromium/CVE-2023-4367
     - debian_importer_v2/chromium/CVE-2023-4367
     - debian_importer_v2/chromium/CVE-2023-4367
+    - debian_importer_v2/chromium/CVE-2023-4367
+    - debian_importer_v2/chromium/CVE-2023-4367
+    - debian_importer_v2/chromium/CVE-2023-4367
+    - debian_importer_v2/chromium/CVE-2023-4368
+    - debian_importer_v2/chromium/CVE-2023-4368
+    - debian_importer_v2/chromium/CVE-2023-4368
     - debian_importer_v2/chromium/CVE-2023-4368
     - debian_importer_v2/chromium/CVE-2023-4368
     - debian_importer_v2/chromium/CVE-2023-4368

@@ -9,6 +9,9 @@
     - debian_importer_v2/chromium/CVE-2024-2173
     - debian_importer_v2/chromium/CVE-2024-2173
     - debian_importer_v2/chromium/CVE-2024-2173
+    - debian_importer_v2/chromium/CVE-2024-2173
+    - debian_importer_v2/chromium/CVE-2024-2173
+    - debian_importer_v2/chromium/CVE-2024-2173
     - debian_importer_v2/chromium/CVE-2024-2174
     - debian_importer_v2/chromium/CVE-2024-2174
     - debian_importer_v2/chromium/CVE-2024-2174
@@ -17,6 +20,12 @@
     - debian_importer_v2/chromium/CVE-2024-2174
     - debian_importer_v2/chromium/CVE-2024-2174
     - debian_importer_v2/chromium/CVE-2024-2174
+    - debian_importer_v2/chromium/CVE-2024-2174
+    - debian_importer_v2/chromium/CVE-2024-2174
+    - debian_importer_v2/chromium/CVE-2024-2174
+    - debian_importer_v2/chromium/CVE-2024-2176
+    - debian_importer_v2/chromium/CVE-2024-2176
+    - debian_importer_v2/chromium/CVE-2024-2176
     - debian_importer_v2/chromium/CVE-2024-2176
     - debian_importer_v2/chromium/CVE-2024-2176
     - debian_importer_v2/chromium/CVE-2024-2176

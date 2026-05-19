@@ -11,6 +11,8 @@
     - gitlab_importer_v2/packagist/phpseclib/phpseclib/CVE-2026-32935
     - gitlab_importer_v2/packagist/phpseclib/phpseclib/CVE-2026-32935
   fixing_advisories:
+    - github_osv_importer_v2/GHSA-2f25-pfq3-c7h8
+    - github_osv_importer_v2/GHSA-jpr7-q523-hx25
     - github_osv_importer_v2/GHSA-jpr7-q523-hx25
     - gitlab_importer_v2/packagist/phpseclib/phpseclib/CVE-2023-49316
     - gitlab_importer_v2/packagist/phpseclib/phpseclib/CVE-2023-49316

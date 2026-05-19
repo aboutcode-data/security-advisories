@@ -5,6 +5,10 @@
     - debian_importer_v2/firefox/CVE-2016-2827
     - debian_importer_v2/firefox/CVE-2016-2827
     - debian_importer_v2/firefox/CVE-2016-2827
+    - debian_importer_v2/firefox/CVE-2016-2827
+    - debian_importer_v2/firefox/CVE-2016-2827
+    - debian_importer_v2/firefox/CVE-2016-5256
+    - debian_importer_v2/firefox/CVE-2016-5256
     - debian_importer_v2/firefox/CVE-2016-5256
     - debian_importer_v2/firefox/CVE-2016-5256
     - debian_importer_v2/firefox/CVE-2016-5256
@@ -13,6 +17,10 @@
     - debian_importer_v2/firefox/CVE-2016-5257
     - debian_importer_v2/firefox/CVE-2016-5257
     - debian_importer_v2/firefox/CVE-2016-5257
+    - debian_importer_v2/firefox/CVE-2016-5257
+    - debian_importer_v2/firefox/CVE-2016-5257
+    - debian_importer_v2/firefox/CVE-2016-5270
+    - debian_importer_v2/firefox/CVE-2016-5270
     - debian_importer_v2/firefox/CVE-2016-5270
     - debian_importer_v2/firefox/CVE-2016-5270
     - debian_importer_v2/firefox/CVE-2016-5270
@@ -21,6 +29,10 @@
     - debian_importer_v2/firefox/CVE-2016-5271
     - debian_importer_v2/firefox/CVE-2016-5271
     - debian_importer_v2/firefox/CVE-2016-5271
+    - debian_importer_v2/firefox/CVE-2016-5271
+    - debian_importer_v2/firefox/CVE-2016-5271
+    - debian_importer_v2/firefox/CVE-2016-5272
+    - debian_importer_v2/firefox/CVE-2016-5272
     - debian_importer_v2/firefox/CVE-2016-5272
     - debian_importer_v2/firefox/CVE-2016-5272
     - debian_importer_v2/firefox/CVE-2016-5272
@@ -29,6 +41,10 @@
     - debian_importer_v2/firefox/CVE-2016-5273
     - debian_importer_v2/firefox/CVE-2016-5273
     - debian_importer_v2/firefox/CVE-2016-5273
+    - debian_importer_v2/firefox/CVE-2016-5273
+    - debian_importer_v2/firefox/CVE-2016-5273
+    - debian_importer_v2/firefox/CVE-2016-5274
+    - debian_importer_v2/firefox/CVE-2016-5274
     - debian_importer_v2/firefox/CVE-2016-5274
     - debian_importer_v2/firefox/CVE-2016-5274
     - debian_importer_v2/firefox/CVE-2016-5274
@@ -37,6 +53,10 @@
     - debian_importer_v2/firefox/CVE-2016-5275
     - debian_importer_v2/firefox/CVE-2016-5275
     - debian_importer_v2/firefox/CVE-2016-5275
+    - debian_importer_v2/firefox/CVE-2016-5275
+    - debian_importer_v2/firefox/CVE-2016-5275
+    - debian_importer_v2/firefox/CVE-2016-5276
+    - debian_importer_v2/firefox/CVE-2016-5276
     - debian_importer_v2/firefox/CVE-2016-5276
     - debian_importer_v2/firefox/CVE-2016-5276
     - debian_importer_v2/firefox/CVE-2016-5276
@@ -45,6 +65,10 @@
     - debian_importer_v2/firefox/CVE-2016-5277
     - debian_importer_v2/firefox/CVE-2016-5277
     - debian_importer_v2/firefox/CVE-2016-5277
+    - debian_importer_v2/firefox/CVE-2016-5277
+    - debian_importer_v2/firefox/CVE-2016-5277
+    - debian_importer_v2/firefox/CVE-2016-5278
+    - debian_importer_v2/firefox/CVE-2016-5278
     - debian_importer_v2/firefox/CVE-2016-5278
     - debian_importer_v2/firefox/CVE-2016-5278
     - debian_importer_v2/firefox/CVE-2016-5278
@@ -53,6 +77,10 @@
     - debian_importer_v2/firefox/CVE-2016-5279
     - debian_importer_v2/firefox/CVE-2016-5279
     - debian_importer_v2/firefox/CVE-2016-5279
+    - debian_importer_v2/firefox/CVE-2016-5279
+    - debian_importer_v2/firefox/CVE-2016-5279
+    - debian_importer_v2/firefox/CVE-2016-5280
+    - debian_importer_v2/firefox/CVE-2016-5280
     - debian_importer_v2/firefox/CVE-2016-5280
     - debian_importer_v2/firefox/CVE-2016-5280
     - debian_importer_v2/firefox/CVE-2016-5280
@@ -61,6 +89,10 @@
     - debian_importer_v2/firefox/CVE-2016-5281
     - debian_importer_v2/firefox/CVE-2016-5281
     - debian_importer_v2/firefox/CVE-2016-5281
+    - debian_importer_v2/firefox/CVE-2016-5281
+    - debian_importer_v2/firefox/CVE-2016-5281
+    - debian_importer_v2/firefox/CVE-2016-5282
+    - debian_importer_v2/firefox/CVE-2016-5282
     - debian_importer_v2/firefox/CVE-2016-5282
     - debian_importer_v2/firefox/CVE-2016-5282
     - debian_importer_v2/firefox/CVE-2016-5282
@@ -69,6 +101,10 @@
     - debian_importer_v2/firefox/CVE-2016-5283
     - debian_importer_v2/firefox/CVE-2016-5283
     - debian_importer_v2/firefox/CVE-2016-5283
+    - debian_importer_v2/firefox/CVE-2016-5283
+    - debian_importer_v2/firefox/CVE-2016-5283
+    - debian_importer_v2/firefox/CVE-2016-5284
+    - debian_importer_v2/firefox/CVE-2016-5284
     - debian_importer_v2/firefox/CVE-2016-5284
     - debian_importer_v2/firefox/CVE-2016-5284
     - debian_importer_v2/firefox/CVE-2016-5284

@@ -9,6 +9,9 @@
     - debian_importer_v2/chromium/CVE-2025-10890
     - debian_importer_v2/chromium/CVE-2025-10890
     - debian_importer_v2/chromium/CVE-2025-10890
+    - debian_importer_v2/chromium/CVE-2025-10890
+    - debian_importer_v2/chromium/CVE-2025-10890
+    - debian_importer_v2/chromium/CVE-2025-10890
     - debian_importer_v2/chromium/CVE-2025-10891
     - debian_importer_v2/chromium/CVE-2025-10891
     - debian_importer_v2/chromium/CVE-2025-10891
@@ -17,6 +20,12 @@
     - debian_importer_v2/chromium/CVE-2025-10891
     - debian_importer_v2/chromium/CVE-2025-10891
     - debian_importer_v2/chromium/CVE-2025-10891
+    - debian_importer_v2/chromium/CVE-2025-10891
+    - debian_importer_v2/chromium/CVE-2025-10891
+    - debian_importer_v2/chromium/CVE-2025-10891
+    - debian_importer_v2/chromium/CVE-2025-10892
+    - debian_importer_v2/chromium/CVE-2025-10892
+    - debian_importer_v2/chromium/CVE-2025-10892
     - debian_importer_v2/chromium/CVE-2025-10892
     - debian_importer_v2/chromium/CVE-2025-10892
     - debian_importer_v2/chromium/CVE-2025-10892

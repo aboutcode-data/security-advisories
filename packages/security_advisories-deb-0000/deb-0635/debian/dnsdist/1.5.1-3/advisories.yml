@@ -14,6 +14,12 @@
     - debian_importer_v2/dnsdist/CVE-2023-44487
     - debian_importer_v2/dnsdist/CVE-2023-44487
     - debian_importer_v2/dnsdist/CVE-2023-44487
+    - debian_importer_v2/dnsdist/CVE-2023-44487
+    - debian_importer_v2/dnsdist/CVE-2023-44487
+    - debian_importer_v2/dnsdist/CVE-2023-44487
+    - debian_importer_v2/dnsdist/CVE-2025-30193
+    - debian_importer_v2/dnsdist/CVE-2025-30193
+    - debian_importer_v2/dnsdist/CVE-2025-30193
     - debian_importer_v2/dnsdist/CVE-2025-30193
     - debian_importer_v2/dnsdist/CVE-2025-30193
     - debian_importer_v2/dnsdist/CVE-2025-30193
@@ -36,6 +42,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-0396
     - debian_importer_v2/dnsdist/CVE-2026-0396
     - debian_importer_v2/dnsdist/CVE-2026-0396
+    - debian_importer_v2/dnsdist/CVE-2026-0396
+    - debian_importer_v2/dnsdist/CVE-2026-0396
+    - debian_importer_v2/dnsdist/CVE-2026-0396
+    - debian_importer_v2/dnsdist/CVE-2026-0397
+    - debian_importer_v2/dnsdist/CVE-2026-0397
+    - debian_importer_v2/dnsdist/CVE-2026-0397
     - debian_importer_v2/dnsdist/CVE-2026-0397
     - debian_importer_v2/dnsdist/CVE-2026-0397
     - debian_importer_v2/dnsdist/CVE-2026-0397
@@ -52,6 +64,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-24028
     - debian_importer_v2/dnsdist/CVE-2026-24028
     - debian_importer_v2/dnsdist/CVE-2026-24028
+    - debian_importer_v2/dnsdist/CVE-2026-24028
+    - debian_importer_v2/dnsdist/CVE-2026-24028
+    - debian_importer_v2/dnsdist/CVE-2026-24028
+    - debian_importer_v2/dnsdist/CVE-2026-24029
+    - debian_importer_v2/dnsdist/CVE-2026-24029
+    - debian_importer_v2/dnsdist/CVE-2026-24029
     - debian_importer_v2/dnsdist/CVE-2026-24029
     - debian_importer_v2/dnsdist/CVE-2026-24029
     - debian_importer_v2/dnsdist/CVE-2026-24029
@@ -68,6 +86,9 @@
     - debian_importer_v2/dnsdist/CVE-2026-24030
     - debian_importer_v2/dnsdist/CVE-2026-24030
     - debian_importer_v2/dnsdist/CVE-2026-24030
+    - debian_importer_v2/dnsdist/CVE-2026-24030
+    - debian_importer_v2/dnsdist/CVE-2026-24030
+    - debian_importer_v2/dnsdist/CVE-2026-24030
     - debian_importer_v2/dnsdist/CVE-2026-27853
     - debian_importer_v2/dnsdist/CVE-2026-27853
     - debian_importer_v2/dnsdist/CVE-2026-27853
@@ -76,6 +97,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-27853
     - debian_importer_v2/dnsdist/CVE-2026-27853
     - debian_importer_v2/dnsdist/CVE-2026-27853
+    - debian_importer_v2/dnsdist/CVE-2026-27853
+    - debian_importer_v2/dnsdist/CVE-2026-27853
+    - debian_importer_v2/dnsdist/CVE-2026-27853
+    - debian_importer_v2/dnsdist/CVE-2026-27854
+    - debian_importer_v2/dnsdist/CVE-2026-27854
+    - debian_importer_v2/dnsdist/CVE-2026-27854
     - debian_importer_v2/dnsdist/CVE-2026-27854
     - debian_importer_v2/dnsdist/CVE-2026-27854
     - debian_importer_v2/dnsdist/CVE-2026-27854
@@ -90,6 +117,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-33254
     - debian_importer_v2/dnsdist/CVE-2026-33254
     - debian_importer_v2/dnsdist/CVE-2026-33254
+    - debian_importer_v2/dnsdist/CVE-2026-33254
+    - debian_importer_v2/dnsdist/CVE-2026-33254
+    - debian_importer_v2/dnsdist/CVE-2026-33254
+    - debian_importer_v2/dnsdist/CVE-2026-33257
+    - debian_importer_v2/dnsdist/CVE-2026-33257
+    - debian_importer_v2/dnsdist/CVE-2026-33257
     - debian_importer_v2/dnsdist/CVE-2026-33257
     - debian_importer_v2/dnsdist/CVE-2026-33257
     - debian_importer_v2/dnsdist/CVE-2026-33257
@@ -102,6 +135,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-33260
     - debian_importer_v2/dnsdist/CVE-2026-33260
     - debian_importer_v2/dnsdist/CVE-2026-33260
+    - debian_importer_v2/dnsdist/CVE-2026-33260
+    - debian_importer_v2/dnsdist/CVE-2026-33260
+    - debian_importer_v2/dnsdist/CVE-2026-33260
+    - debian_importer_v2/dnsdist/CVE-2026-33593
+    - debian_importer_v2/dnsdist/CVE-2026-33593
+    - debian_importer_v2/dnsdist/CVE-2026-33593
     - debian_importer_v2/dnsdist/CVE-2026-33593
     - debian_importer_v2/dnsdist/CVE-2026-33593
     - debian_importer_v2/dnsdist/CVE-2026-33593
@@ -114,6 +153,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-33594
     - debian_importer_v2/dnsdist/CVE-2026-33594
     - debian_importer_v2/dnsdist/CVE-2026-33594
+    - debian_importer_v2/dnsdist/CVE-2026-33594
+    - debian_importer_v2/dnsdist/CVE-2026-33594
+    - debian_importer_v2/dnsdist/CVE-2026-33594
+    - debian_importer_v2/dnsdist/CVE-2026-33595
+    - debian_importer_v2/dnsdist/CVE-2026-33595
+    - debian_importer_v2/dnsdist/CVE-2026-33595
     - debian_importer_v2/dnsdist/CVE-2026-33595
     - debian_importer_v2/dnsdist/CVE-2026-33595
     - debian_importer_v2/dnsdist/CVE-2026-33595
@@ -126,6 +171,12 @@
     - debian_importer_v2/dnsdist/CVE-2026-33596
     - debian_importer_v2/dnsdist/CVE-2026-33596
     - debian_importer_v2/dnsdist/CVE-2026-33596
+    - debian_importer_v2/dnsdist/CVE-2026-33596
+    - debian_importer_v2/dnsdist/CVE-2026-33596
+    - debian_importer_v2/dnsdist/CVE-2026-33596
+    - debian_importer_v2/dnsdist/CVE-2026-33597
+    - debian_importer_v2/dnsdist/CVE-2026-33597
+    - debian_importer_v2/dnsdist/CVE-2026-33597
     - debian_importer_v2/dnsdist/CVE-2026-33597
     - debian_importer_v2/dnsdist/CVE-2026-33597
     - debian_importer_v2/dnsdist/CVE-2026-33597
@@ -138,12 +189,21 @@
     - debian_importer_v2/dnsdist/CVE-2026-33598
     - debian_importer_v2/dnsdist/CVE-2026-33598
     - debian_importer_v2/dnsdist/CVE-2026-33598
+    - debian_importer_v2/dnsdist/CVE-2026-33598
+    - debian_importer_v2/dnsdist/CVE-2026-33598
+    - debian_importer_v2/dnsdist/CVE-2026-33598
     - debian_importer_v2/dnsdist/CVE-2026-33599
     - debian_importer_v2/dnsdist/CVE-2026-33599
     - debian_importer_v2/dnsdist/CVE-2026-33599
     - debian_importer_v2/dnsdist/CVE-2026-33599
     - debian_importer_v2/dnsdist/CVE-2026-33599
     - debian_importer_v2/dnsdist/CVE-2026-33599
+    - debian_importer_v2/dnsdist/CVE-2026-33599
+    - debian_importer_v2/dnsdist/CVE-2026-33599
+    - debian_importer_v2/dnsdist/CVE-2026-33599
+    - debian_importer_v2/dnsdist/CVE-2026-33602
+    - debian_importer_v2/dnsdist/CVE-2026-33602
+    - debian_importer_v2/dnsdist/CVE-2026-33602
     - debian_importer_v2/dnsdist/CVE-2026-33602
     - debian_importer_v2/dnsdist/CVE-2026-33602
     - debian_importer_v2/dnsdist/CVE-2026-33602
@@ -155,6 +215,8 @@
     - debian_importer_v2/dnsdist/CVE-2016-7069
     - debian_importer_v2/dnsdist/CVE-2016-7069
     - debian_importer_v2/dnsdist/CVE-2016-7069
+    - debian_importer_v2/dnsdist/CVE-2016-7069
+    - debian_importer_v2/dnsdist/CVE-2017-7557
     - debian_importer_v2/dnsdist/CVE-2017-7557
     - debian_importer_v2/dnsdist/CVE-2017-7557
     - debian_importer_v2/dnsdist/CVE-2017-7557
@@ -163,6 +225,8 @@
     - debian_importer_v2/dnsdist/CVE-2018-14663
     - debian_importer_v2/dnsdist/CVE-2018-14663
     - debian_importer_v2/dnsdist/CVE-2018-14663
+    - debian_importer_v2/dnsdist/CVE-2018-14663
+    - debian_importer_v2/dnsdist/CVE-2024-25581
     - debian_importer_v2/dnsdist/CVE-2024-25581
     - debian_importer_v2/dnsdist/CVE-2024-25581
     - debian_importer_v2/dnsdist/CVE-2024-25581
@@ -171,6 +235,8 @@
     - debian_importer_v2/dnsdist/CVE-2025-30187
     - debian_importer_v2/dnsdist/CVE-2025-30187
     - debian_importer_v2/dnsdist/CVE-2025-30187
+    - debian_importer_v2/dnsdist/CVE-2025-30187
+    - debian_importer_v2/dnsdist/CVE-2025-30194
     - debian_importer_v2/dnsdist/CVE-2025-30194
     - debian_importer_v2/dnsdist/CVE-2025-30194
     - debian_importer_v2/dnsdist/CVE-2025-30194

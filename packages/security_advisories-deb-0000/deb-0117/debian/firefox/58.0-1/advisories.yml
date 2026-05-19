@@ -5,6 +5,10 @@
     - debian_importer_v2/firefox/CVE-2018-5089
     - debian_importer_v2/firefox/CVE-2018-5089
     - debian_importer_v2/firefox/CVE-2018-5089
+    - debian_importer_v2/firefox/CVE-2018-5089
+    - debian_importer_v2/firefox/CVE-2018-5089
+    - debian_importer_v2/firefox/CVE-2018-5090
+    - debian_importer_v2/firefox/CVE-2018-5090
     - debian_importer_v2/firefox/CVE-2018-5090
     - debian_importer_v2/firefox/CVE-2018-5090
     - debian_importer_v2/firefox/CVE-2018-5090
@@ -13,6 +17,10 @@
     - debian_importer_v2/firefox/CVE-2018-5091
     - debian_importer_v2/firefox/CVE-2018-5091
     - debian_importer_v2/firefox/CVE-2018-5091
+    - debian_importer_v2/firefox/CVE-2018-5091
+    - debian_importer_v2/firefox/CVE-2018-5091
+    - debian_importer_v2/firefox/CVE-2018-5092
+    - debian_importer_v2/firefox/CVE-2018-5092
     - debian_importer_v2/firefox/CVE-2018-5092
     - debian_importer_v2/firefox/CVE-2018-5092
     - debian_importer_v2/firefox/CVE-2018-5092
@@ -21,6 +29,10 @@
     - debian_importer_v2/firefox/CVE-2018-5093
     - debian_importer_v2/firefox/CVE-2018-5093
     - debian_importer_v2/firefox/CVE-2018-5093
+    - debian_importer_v2/firefox/CVE-2018-5093
+    - debian_importer_v2/firefox/CVE-2018-5093
+    - debian_importer_v2/firefox/CVE-2018-5094
+    - debian_importer_v2/firefox/CVE-2018-5094
     - debian_importer_v2/firefox/CVE-2018-5094
     - debian_importer_v2/firefox/CVE-2018-5094
     - debian_importer_v2/firefox/CVE-2018-5094
@@ -29,6 +41,10 @@
     - debian_importer_v2/firefox/CVE-2018-5095
     - debian_importer_v2/firefox/CVE-2018-5095
     - debian_importer_v2/firefox/CVE-2018-5095
+    - debian_importer_v2/firefox/CVE-2018-5095
+    - debian_importer_v2/firefox/CVE-2018-5095
+    - debian_importer_v2/firefox/CVE-2018-5097
+    - debian_importer_v2/firefox/CVE-2018-5097
     - debian_importer_v2/firefox/CVE-2018-5097
     - debian_importer_v2/firefox/CVE-2018-5097
     - debian_importer_v2/firefox/CVE-2018-5097
@@ -37,6 +53,10 @@
     - debian_importer_v2/firefox/CVE-2018-5098
     - debian_importer_v2/firefox/CVE-2018-5098
     - debian_importer_v2/firefox/CVE-2018-5098
+    - debian_importer_v2/firefox/CVE-2018-5098
+    - debian_importer_v2/firefox/CVE-2018-5098
+    - debian_importer_v2/firefox/CVE-2018-5099
+    - debian_importer_v2/firefox/CVE-2018-5099
     - debian_importer_v2/firefox/CVE-2018-5099
     - debian_importer_v2/firefox/CVE-2018-5099
     - debian_importer_v2/firefox/CVE-2018-5099
@@ -45,6 +65,10 @@
     - debian_importer_v2/firefox/CVE-2018-5100
     - debian_importer_v2/firefox/CVE-2018-5100
     - debian_importer_v2/firefox/CVE-2018-5100
+    - debian_importer_v2/firefox/CVE-2018-5100
+    - debian_importer_v2/firefox/CVE-2018-5100
+    - debian_importer_v2/firefox/CVE-2018-5101
+    - debian_importer_v2/firefox/CVE-2018-5101
     - debian_importer_v2/firefox/CVE-2018-5101
     - debian_importer_v2/firefox/CVE-2018-5101
     - debian_importer_v2/firefox/CVE-2018-5101
@@ -53,6 +77,10 @@
     - debian_importer_v2/firefox/CVE-2018-5102
     - debian_importer_v2/firefox/CVE-2018-5102
     - debian_importer_v2/firefox/CVE-2018-5102
+    - debian_importer_v2/firefox/CVE-2018-5102
+    - debian_importer_v2/firefox/CVE-2018-5102
+    - debian_importer_v2/firefox/CVE-2018-5103
+    - debian_importer_v2/firefox/CVE-2018-5103
     - debian_importer_v2/firefox/CVE-2018-5103
     - debian_importer_v2/firefox/CVE-2018-5103
     - debian_importer_v2/firefox/CVE-2018-5103
@@ -61,6 +89,10 @@
     - debian_importer_v2/firefox/CVE-2018-5104
     - debian_importer_v2/firefox/CVE-2018-5104
     - debian_importer_v2/firefox/CVE-2018-5104
+    - debian_importer_v2/firefox/CVE-2018-5104
+    - debian_importer_v2/firefox/CVE-2018-5104
+    - debian_importer_v2/firefox/CVE-2018-5105
+    - debian_importer_v2/firefox/CVE-2018-5105
     - debian_importer_v2/firefox/CVE-2018-5105
     - debian_importer_v2/firefox/CVE-2018-5105
     - debian_importer_v2/firefox/CVE-2018-5105
@@ -69,6 +101,10 @@
     - debian_importer_v2/firefox/CVE-2018-5106
     - debian_importer_v2/firefox/CVE-2018-5106
     - debian_importer_v2/firefox/CVE-2018-5106
+    - debian_importer_v2/firefox/CVE-2018-5106
+    - debian_importer_v2/firefox/CVE-2018-5106
+    - debian_importer_v2/firefox/CVE-2018-5107
+    - debian_importer_v2/firefox/CVE-2018-5107
     - debian_importer_v2/firefox/CVE-2018-5107
     - debian_importer_v2/firefox/CVE-2018-5107
     - debian_importer_v2/firefox/CVE-2018-5107
@@ -77,6 +113,10 @@
     - debian_importer_v2/firefox/CVE-2018-5108
     - debian_importer_v2/firefox/CVE-2018-5108
     - debian_importer_v2/firefox/CVE-2018-5108
+    - debian_importer_v2/firefox/CVE-2018-5108
+    - debian_importer_v2/firefox/CVE-2018-5108
+    - debian_importer_v2/firefox/CVE-2018-5109
+    - debian_importer_v2/firefox/CVE-2018-5109
     - debian_importer_v2/firefox/CVE-2018-5109
     - debian_importer_v2/firefox/CVE-2018-5109
     - debian_importer_v2/firefox/CVE-2018-5109
@@ -85,6 +125,10 @@
     - debian_importer_v2/firefox/CVE-2018-5111
     - debian_importer_v2/firefox/CVE-2018-5111
     - debian_importer_v2/firefox/CVE-2018-5111
+    - debian_importer_v2/firefox/CVE-2018-5111
+    - debian_importer_v2/firefox/CVE-2018-5111
+    - debian_importer_v2/firefox/CVE-2018-5112
+    - debian_importer_v2/firefox/CVE-2018-5112
     - debian_importer_v2/firefox/CVE-2018-5112
     - debian_importer_v2/firefox/CVE-2018-5112
     - debian_importer_v2/firefox/CVE-2018-5112
@@ -93,6 +137,10 @@
     - debian_importer_v2/firefox/CVE-2018-5113
     - debian_importer_v2/firefox/CVE-2018-5113
     - debian_importer_v2/firefox/CVE-2018-5113
+    - debian_importer_v2/firefox/CVE-2018-5113
+    - debian_importer_v2/firefox/CVE-2018-5113
+    - debian_importer_v2/firefox/CVE-2018-5114
+    - debian_importer_v2/firefox/CVE-2018-5114
     - debian_importer_v2/firefox/CVE-2018-5114
     - debian_importer_v2/firefox/CVE-2018-5114
     - debian_importer_v2/firefox/CVE-2018-5114
@@ -101,6 +149,10 @@
     - debian_importer_v2/firefox/CVE-2018-5115
     - debian_importer_v2/firefox/CVE-2018-5115
     - debian_importer_v2/firefox/CVE-2018-5115
+    - debian_importer_v2/firefox/CVE-2018-5115
+    - debian_importer_v2/firefox/CVE-2018-5115
+    - debian_importer_v2/firefox/CVE-2018-5116
+    - debian_importer_v2/firefox/CVE-2018-5116
     - debian_importer_v2/firefox/CVE-2018-5116
     - debian_importer_v2/firefox/CVE-2018-5116
     - debian_importer_v2/firefox/CVE-2018-5116
@@ -109,6 +161,10 @@
     - debian_importer_v2/firefox/CVE-2018-5117
     - debian_importer_v2/firefox/CVE-2018-5117
     - debian_importer_v2/firefox/CVE-2018-5117
+    - debian_importer_v2/firefox/CVE-2018-5117
+    - debian_importer_v2/firefox/CVE-2018-5117
+    - debian_importer_v2/firefox/CVE-2018-5118
+    - debian_importer_v2/firefox/CVE-2018-5118
     - debian_importer_v2/firefox/CVE-2018-5118
     - debian_importer_v2/firefox/CVE-2018-5118
     - debian_importer_v2/firefox/CVE-2018-5118
@@ -117,6 +173,10 @@
     - debian_importer_v2/firefox/CVE-2018-5119
     - debian_importer_v2/firefox/CVE-2018-5119
     - debian_importer_v2/firefox/CVE-2018-5119
+    - debian_importer_v2/firefox/CVE-2018-5119
+    - debian_importer_v2/firefox/CVE-2018-5119
+    - debian_importer_v2/firefox/CVE-2018-5122
+    - debian_importer_v2/firefox/CVE-2018-5122
     - debian_importer_v2/firefox/CVE-2018-5122
     - debian_importer_v2/firefox/CVE-2018-5122
     - debian_importer_v2/firefox/CVE-2018-5122

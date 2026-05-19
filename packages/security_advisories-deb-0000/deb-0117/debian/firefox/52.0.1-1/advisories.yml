@@ -5,6 +5,10 @@
     - debian_importer_v2/firefox/CVE-2017-5428
     - debian_importer_v2/firefox/CVE-2017-5428
     - debian_importer_v2/firefox/CVE-2017-5428
+    - debian_importer_v2/firefox/CVE-2017-5428
+    - debian_importer_v2/firefox/CVE-2017-5428
+    - debian_importer_v2/firefox/CVE-2017-5429
+    - debian_importer_v2/firefox/CVE-2017-5429
     - debian_importer_v2/firefox/CVE-2017-5429
     - debian_importer_v2/firefox/CVE-2017-5429
     - debian_importer_v2/firefox/CVE-2017-5429
@@ -13,6 +17,10 @@
     - debian_importer_v2/firefox/CVE-2017-5430
     - debian_importer_v2/firefox/CVE-2017-5430
     - debian_importer_v2/firefox/CVE-2017-5430
+    - debian_importer_v2/firefox/CVE-2017-5430
+    - debian_importer_v2/firefox/CVE-2017-5430
+    - debian_importer_v2/firefox/CVE-2017-5432
+    - debian_importer_v2/firefox/CVE-2017-5432
     - debian_importer_v2/firefox/CVE-2017-5432
     - debian_importer_v2/firefox/CVE-2017-5432
     - debian_importer_v2/firefox/CVE-2017-5432
@@ -21,6 +29,10 @@
     - debian_importer_v2/firefox/CVE-2017-5433
     - debian_importer_v2/firefox/CVE-2017-5433
     - debian_importer_v2/firefox/CVE-2017-5433
+    - debian_importer_v2/firefox/CVE-2017-5433
+    - debian_importer_v2/firefox/CVE-2017-5433
+    - debian_importer_v2/firefox/CVE-2017-5434
+    - debian_importer_v2/firefox/CVE-2017-5434
     - debian_importer_v2/firefox/CVE-2017-5434
     - debian_importer_v2/firefox/CVE-2017-5434
     - debian_importer_v2/firefox/CVE-2017-5434
@@ -29,6 +41,10 @@
     - debian_importer_v2/firefox/CVE-2017-5435
     - debian_importer_v2/firefox/CVE-2017-5435
     - debian_importer_v2/firefox/CVE-2017-5435
+    - debian_importer_v2/firefox/CVE-2017-5435
+    - debian_importer_v2/firefox/CVE-2017-5435
+    - debian_importer_v2/firefox/CVE-2017-5436
+    - debian_importer_v2/firefox/CVE-2017-5436
     - debian_importer_v2/firefox/CVE-2017-5436
     - debian_importer_v2/firefox/CVE-2017-5436
     - debian_importer_v2/firefox/CVE-2017-5436
@@ -37,6 +53,10 @@
     - debian_importer_v2/firefox/CVE-2017-5438
     - debian_importer_v2/firefox/CVE-2017-5438
     - debian_importer_v2/firefox/CVE-2017-5438
+    - debian_importer_v2/firefox/CVE-2017-5438
+    - debian_importer_v2/firefox/CVE-2017-5438
+    - debian_importer_v2/firefox/CVE-2017-5439
+    - debian_importer_v2/firefox/CVE-2017-5439
     - debian_importer_v2/firefox/CVE-2017-5439
     - debian_importer_v2/firefox/CVE-2017-5439
     - debian_importer_v2/firefox/CVE-2017-5439
@@ -45,6 +65,10 @@
     - debian_importer_v2/firefox/CVE-2017-5440
     - debian_importer_v2/firefox/CVE-2017-5440
     - debian_importer_v2/firefox/CVE-2017-5440
+    - debian_importer_v2/firefox/CVE-2017-5440
+    - debian_importer_v2/firefox/CVE-2017-5440
+    - debian_importer_v2/firefox/CVE-2017-5441
+    - debian_importer_v2/firefox/CVE-2017-5441
     - debian_importer_v2/firefox/CVE-2017-5441
     - debian_importer_v2/firefox/CVE-2017-5441
     - debian_importer_v2/firefox/CVE-2017-5441
@@ -53,6 +77,10 @@
     - debian_importer_v2/firefox/CVE-2017-5442
     - debian_importer_v2/firefox/CVE-2017-5442
     - debian_importer_v2/firefox/CVE-2017-5442
+    - debian_importer_v2/firefox/CVE-2017-5442
+    - debian_importer_v2/firefox/CVE-2017-5442
+    - debian_importer_v2/firefox/CVE-2017-5443
+    - debian_importer_v2/firefox/CVE-2017-5443
     - debian_importer_v2/firefox/CVE-2017-5443
     - debian_importer_v2/firefox/CVE-2017-5443
     - debian_importer_v2/firefox/CVE-2017-5443
@@ -61,6 +89,10 @@
     - debian_importer_v2/firefox/CVE-2017-5444
     - debian_importer_v2/firefox/CVE-2017-5444
     - debian_importer_v2/firefox/CVE-2017-5444
+    - debian_importer_v2/firefox/CVE-2017-5444
+    - debian_importer_v2/firefox/CVE-2017-5444
+    - debian_importer_v2/firefox/CVE-2017-5445
+    - debian_importer_v2/firefox/CVE-2017-5445
     - debian_importer_v2/firefox/CVE-2017-5445
     - debian_importer_v2/firefox/CVE-2017-5445
     - debian_importer_v2/firefox/CVE-2017-5445
@@ -69,6 +101,10 @@
     - debian_importer_v2/firefox/CVE-2017-5446
     - debian_importer_v2/firefox/CVE-2017-5446
     - debian_importer_v2/firefox/CVE-2017-5446
+    - debian_importer_v2/firefox/CVE-2017-5446
+    - debian_importer_v2/firefox/CVE-2017-5446
+    - debian_importer_v2/firefox/CVE-2017-5447
+    - debian_importer_v2/firefox/CVE-2017-5447
     - debian_importer_v2/firefox/CVE-2017-5447
     - debian_importer_v2/firefox/CVE-2017-5447
     - debian_importer_v2/firefox/CVE-2017-5447
@@ -77,6 +113,10 @@
     - debian_importer_v2/firefox/CVE-2017-5448
     - debian_importer_v2/firefox/CVE-2017-5448
     - debian_importer_v2/firefox/CVE-2017-5448
+    - debian_importer_v2/firefox/CVE-2017-5448
+    - debian_importer_v2/firefox/CVE-2017-5448
+    - debian_importer_v2/firefox/CVE-2017-5449
+    - debian_importer_v2/firefox/CVE-2017-5449
     - debian_importer_v2/firefox/CVE-2017-5449
     - debian_importer_v2/firefox/CVE-2017-5449
     - debian_importer_v2/firefox/CVE-2017-5449
@@ -85,6 +125,10 @@
     - debian_importer_v2/firefox/CVE-2017-5450
     - debian_importer_v2/firefox/CVE-2017-5450
     - debian_importer_v2/firefox/CVE-2017-5450
+    - debian_importer_v2/firefox/CVE-2017-5450
+    - debian_importer_v2/firefox/CVE-2017-5450
+    - debian_importer_v2/firefox/CVE-2017-5451
+    - debian_importer_v2/firefox/CVE-2017-5451
     - debian_importer_v2/firefox/CVE-2017-5451
     - debian_importer_v2/firefox/CVE-2017-5451
     - debian_importer_v2/firefox/CVE-2017-5451
@@ -93,6 +137,10 @@
     - debian_importer_v2/firefox/CVE-2017-5453
     - debian_importer_v2/firefox/CVE-2017-5453
     - debian_importer_v2/firefox/CVE-2017-5453
+    - debian_importer_v2/firefox/CVE-2017-5453
+    - debian_importer_v2/firefox/CVE-2017-5453
+    - debian_importer_v2/firefox/CVE-2017-5454
+    - debian_importer_v2/firefox/CVE-2017-5454
     - debian_importer_v2/firefox/CVE-2017-5454
     - debian_importer_v2/firefox/CVE-2017-5454
     - debian_importer_v2/firefox/CVE-2017-5454
@@ -101,6 +149,10 @@
     - debian_importer_v2/firefox/CVE-2017-5455
     - debian_importer_v2/firefox/CVE-2017-5455
     - debian_importer_v2/firefox/CVE-2017-5455
+    - debian_importer_v2/firefox/CVE-2017-5455
+    - debian_importer_v2/firefox/CVE-2017-5455
+    - debian_importer_v2/firefox/CVE-2017-5456
+    - debian_importer_v2/firefox/CVE-2017-5456
     - debian_importer_v2/firefox/CVE-2017-5456
     - debian_importer_v2/firefox/CVE-2017-5456
     - debian_importer_v2/firefox/CVE-2017-5456
@@ -109,6 +161,10 @@
     - debian_importer_v2/firefox/CVE-2017-5458
     - debian_importer_v2/firefox/CVE-2017-5458
     - debian_importer_v2/firefox/CVE-2017-5458
+    - debian_importer_v2/firefox/CVE-2017-5458
+    - debian_importer_v2/firefox/CVE-2017-5458
+    - debian_importer_v2/firefox/CVE-2017-5459
+    - debian_importer_v2/firefox/CVE-2017-5459
     - debian_importer_v2/firefox/CVE-2017-5459
     - debian_importer_v2/firefox/CVE-2017-5459
     - debian_importer_v2/firefox/CVE-2017-5459
@@ -117,6 +173,10 @@
     - debian_importer_v2/firefox/CVE-2017-5460
     - debian_importer_v2/firefox/CVE-2017-5460
     - debian_importer_v2/firefox/CVE-2017-5460
+    - debian_importer_v2/firefox/CVE-2017-5460
+    - debian_importer_v2/firefox/CVE-2017-5460
+    - debian_importer_v2/firefox/CVE-2017-5461
+    - debian_importer_v2/firefox/CVE-2017-5461
     - debian_importer_v2/firefox/CVE-2017-5461
     - debian_importer_v2/firefox/CVE-2017-5461
     - debian_importer_v2/firefox/CVE-2017-5461
@@ -125,6 +185,10 @@
     - debian_importer_v2/firefox/CVE-2017-5462
     - debian_importer_v2/firefox/CVE-2017-5462
     - debian_importer_v2/firefox/CVE-2017-5462
+    - debian_importer_v2/firefox/CVE-2017-5462
+    - debian_importer_v2/firefox/CVE-2017-5462
+    - debian_importer_v2/firefox/CVE-2017-5464
+    - debian_importer_v2/firefox/CVE-2017-5464
     - debian_importer_v2/firefox/CVE-2017-5464
     - debian_importer_v2/firefox/CVE-2017-5464
     - debian_importer_v2/firefox/CVE-2017-5464
@@ -133,6 +197,10 @@
     - debian_importer_v2/firefox/CVE-2017-5465
     - debian_importer_v2/firefox/CVE-2017-5465
     - debian_importer_v2/firefox/CVE-2017-5465
+    - debian_importer_v2/firefox/CVE-2017-5465
+    - debian_importer_v2/firefox/CVE-2017-5465
+    - debian_importer_v2/firefox/CVE-2017-5466
+    - debian_importer_v2/firefox/CVE-2017-5466
     - debian_importer_v2/firefox/CVE-2017-5466
     - debian_importer_v2/firefox/CVE-2017-5466
     - debian_importer_v2/firefox/CVE-2017-5466
@@ -141,10 +209,16 @@
     - debian_importer_v2/firefox/CVE-2017-5467
     - debian_importer_v2/firefox/CVE-2017-5467
     - debian_importer_v2/firefox/CVE-2017-5467
+    - debian_importer_v2/firefox/CVE-2017-5467
+    - debian_importer_v2/firefox/CVE-2017-5467
     - debian_importer_v2/firefox/CVE-2017-5468
     - debian_importer_v2/firefox/CVE-2017-5468
     - debian_importer_v2/firefox/CVE-2017-5468
     - debian_importer_v2/firefox/CVE-2017-5468
+    - debian_importer_v2/firefox/CVE-2017-5468
+    - debian_importer_v2/firefox/CVE-2017-5468
+    - debian_importer_v2/firefox/CVE-2017-5469
+    - debian_importer_v2/firefox/CVE-2017-5469
     - debian_importer_v2/firefox/CVE-2017-5469
     - debian_importer_v2/firefox/CVE-2017-5469
     - debian_importer_v2/firefox/CVE-2017-5469

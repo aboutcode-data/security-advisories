@@ -5,6 +5,10 @@
     - debian_importer_v2/firefox/CVE-2022-45403
     - debian_importer_v2/firefox/CVE-2022-45403
     - debian_importer_v2/firefox/CVE-2022-45403
+    - debian_importer_v2/firefox/CVE-2022-45403
+    - debian_importer_v2/firefox/CVE-2022-45403
+    - debian_importer_v2/firefox/CVE-2022-45404
+    - debian_importer_v2/firefox/CVE-2022-45404
     - debian_importer_v2/firefox/CVE-2022-45404
     - debian_importer_v2/firefox/CVE-2022-45404
     - debian_importer_v2/firefox/CVE-2022-45404
@@ -13,6 +17,10 @@
     - debian_importer_v2/firefox/CVE-2022-45405
     - debian_importer_v2/firefox/CVE-2022-45405
     - debian_importer_v2/firefox/CVE-2022-45405
+    - debian_importer_v2/firefox/CVE-2022-45405
+    - debian_importer_v2/firefox/CVE-2022-45405
+    - debian_importer_v2/firefox/CVE-2022-45406
+    - debian_importer_v2/firefox/CVE-2022-45406
     - debian_importer_v2/firefox/CVE-2022-45406
     - debian_importer_v2/firefox/CVE-2022-45406
     - debian_importer_v2/firefox/CVE-2022-45406
@@ -21,6 +29,10 @@
     - debian_importer_v2/firefox/CVE-2022-45407
     - debian_importer_v2/firefox/CVE-2022-45407
     - debian_importer_v2/firefox/CVE-2022-45407
+    - debian_importer_v2/firefox/CVE-2022-45407
+    - debian_importer_v2/firefox/CVE-2022-45407
+    - debian_importer_v2/firefox/CVE-2022-45408
+    - debian_importer_v2/firefox/CVE-2022-45408
     - debian_importer_v2/firefox/CVE-2022-45408
     - debian_importer_v2/firefox/CVE-2022-45408
     - debian_importer_v2/firefox/CVE-2022-45408
@@ -29,6 +41,10 @@
     - debian_importer_v2/firefox/CVE-2022-45409
     - debian_importer_v2/firefox/CVE-2022-45409
     - debian_importer_v2/firefox/CVE-2022-45409
+    - debian_importer_v2/firefox/CVE-2022-45409
+    - debian_importer_v2/firefox/CVE-2022-45409
+    - debian_importer_v2/firefox/CVE-2022-45410
+    - debian_importer_v2/firefox/CVE-2022-45410
     - debian_importer_v2/firefox/CVE-2022-45410
     - debian_importer_v2/firefox/CVE-2022-45410
     - debian_importer_v2/firefox/CVE-2022-45410
@@ -37,6 +53,10 @@
     - debian_importer_v2/firefox/CVE-2022-45411
     - debian_importer_v2/firefox/CVE-2022-45411
     - debian_importer_v2/firefox/CVE-2022-45411
+    - debian_importer_v2/firefox/CVE-2022-45411
+    - debian_importer_v2/firefox/CVE-2022-45411
+    - debian_importer_v2/firefox/CVE-2022-45412
+    - debian_importer_v2/firefox/CVE-2022-45412
     - debian_importer_v2/firefox/CVE-2022-45412
     - debian_importer_v2/firefox/CVE-2022-45412
     - debian_importer_v2/firefox/CVE-2022-45412
@@ -45,6 +65,10 @@
     - debian_importer_v2/firefox/CVE-2022-45415
     - debian_importer_v2/firefox/CVE-2022-45415
     - debian_importer_v2/firefox/CVE-2022-45415
+    - debian_importer_v2/firefox/CVE-2022-45415
+    - debian_importer_v2/firefox/CVE-2022-45415
+    - debian_importer_v2/firefox/CVE-2022-45416
+    - debian_importer_v2/firefox/CVE-2022-45416
     - debian_importer_v2/firefox/CVE-2022-45416
     - debian_importer_v2/firefox/CVE-2022-45416
     - debian_importer_v2/firefox/CVE-2022-45416
@@ -53,6 +77,10 @@
     - debian_importer_v2/firefox/CVE-2022-45417
     - debian_importer_v2/firefox/CVE-2022-45417
     - debian_importer_v2/firefox/CVE-2022-45417
+    - debian_importer_v2/firefox/CVE-2022-45417
+    - debian_importer_v2/firefox/CVE-2022-45417
+    - debian_importer_v2/firefox/CVE-2022-45418
+    - debian_importer_v2/firefox/CVE-2022-45418
     - debian_importer_v2/firefox/CVE-2022-45418
     - debian_importer_v2/firefox/CVE-2022-45418
     - debian_importer_v2/firefox/CVE-2022-45418
@@ -61,6 +89,10 @@
     - debian_importer_v2/firefox/CVE-2022-45419
     - debian_importer_v2/firefox/CVE-2022-45419
     - debian_importer_v2/firefox/CVE-2022-45419
+    - debian_importer_v2/firefox/CVE-2022-45419
+    - debian_importer_v2/firefox/CVE-2022-45419
+    - debian_importer_v2/firefox/CVE-2022-45420
+    - debian_importer_v2/firefox/CVE-2022-45420
     - debian_importer_v2/firefox/CVE-2022-45420
     - debian_importer_v2/firefox/CVE-2022-45420
     - debian_importer_v2/firefox/CVE-2022-45420
@@ -69,10 +101,16 @@
     - debian_importer_v2/firefox/CVE-2022-45421
     - debian_importer_v2/firefox/CVE-2022-45421
     - debian_importer_v2/firefox/CVE-2022-45421
+    - debian_importer_v2/firefox/CVE-2022-45421
+    - debian_importer_v2/firefox/CVE-2022-45421
     - debian_importer_v2/firefox/CVE-2022-46882
     - debian_importer_v2/firefox/CVE-2022-46882
     - debian_importer_v2/firefox/CVE-2022-46882
     - debian_importer_v2/firefox/CVE-2022-46882
+    - debian_importer_v2/firefox/CVE-2022-46882
+    - debian_importer_v2/firefox/CVE-2022-46882
+    - debian_importer_v2/firefox/CVE-2022-46883
+    - debian_importer_v2/firefox/CVE-2022-46883
     - debian_importer_v2/firefox/CVE-2022-46883
     - debian_importer_v2/firefox/CVE-2022-46883
     - debian_importer_v2/firefox/CVE-2022-46883

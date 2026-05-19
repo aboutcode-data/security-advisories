@@ -5,6 +5,10 @@
     - debian_importer_v2/firefox/CVE-2021-29970
     - debian_importer_v2/firefox/CVE-2021-29970
     - debian_importer_v2/firefox/CVE-2021-29970
+    - debian_importer_v2/firefox/CVE-2021-29970
+    - debian_importer_v2/firefox/CVE-2021-29970
+    - debian_importer_v2/firefox/CVE-2021-29972
+    - debian_importer_v2/firefox/CVE-2021-29972
     - debian_importer_v2/firefox/CVE-2021-29972
     - debian_importer_v2/firefox/CVE-2021-29972
     - debian_importer_v2/firefox/CVE-2021-29972
@@ -13,6 +17,10 @@
     - debian_importer_v2/firefox/CVE-2021-29974
     - debian_importer_v2/firefox/CVE-2021-29974
     - debian_importer_v2/firefox/CVE-2021-29974
+    - debian_importer_v2/firefox/CVE-2021-29974
+    - debian_importer_v2/firefox/CVE-2021-29974
+    - debian_importer_v2/firefox/CVE-2021-29975
+    - debian_importer_v2/firefox/CVE-2021-29975
     - debian_importer_v2/firefox/CVE-2021-29975
     - debian_importer_v2/firefox/CVE-2021-29975
     - debian_importer_v2/firefox/CVE-2021-29975
@@ -21,10 +29,16 @@
     - debian_importer_v2/firefox/CVE-2021-29976
     - debian_importer_v2/firefox/CVE-2021-29976
     - debian_importer_v2/firefox/CVE-2021-29976
+    - debian_importer_v2/firefox/CVE-2021-29976
+    - debian_importer_v2/firefox/CVE-2021-29976
     - debian_importer_v2/firefox/CVE-2021-29977
     - debian_importer_v2/firefox/CVE-2021-29977
     - debian_importer_v2/firefox/CVE-2021-29977
     - debian_importer_v2/firefox/CVE-2021-29977
+    - debian_importer_v2/firefox/CVE-2021-29977
+    - debian_importer_v2/firefox/CVE-2021-29977
+    - debian_importer_v2/firefox/CVE-2021-30547
+    - debian_importer_v2/firefox/CVE-2021-30547
     - debian_importer_v2/firefox/CVE-2021-30547
     - debian_importer_v2/firefox/CVE-2021-30547
     - debian_importer_v2/firefox/CVE-2021-30547

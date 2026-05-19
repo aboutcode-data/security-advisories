@@ -7,6 +7,10 @@
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10198
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10198
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10198
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10198
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10198
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10199
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10199
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10199
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10199
     - debian_importer_v2/gst-plugins-good1.0/CVE-2016-10199
@@ -19,12 +23,18 @@
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5840
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5840
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5840
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5840
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5840
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5841
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5845
+    - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5845
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5845
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5845
     - debian_importer_v2/gst-plugins-good1.0/CVE-2017-5845

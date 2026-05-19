@@ -7,6 +7,12 @@
     - debian_importer_v2/firefox-esr/CVE-2024-43097
     - debian_importer_v2/firefox-esr/CVE-2024-43097
     - debian_importer_v2/firefox-esr/CVE-2024-43097
+    - debian_importer_v2/firefox-esr/CVE-2024-43097
+    - debian_importer_v2/firefox-esr/CVE-2024-43097
+    - debian_importer_v2/firefox-esr/CVE-2024-43097
+    - debian_importer_v2/firefox-esr/CVE-2025-1931
+    - debian_importer_v2/firefox-esr/CVE-2025-1931
+    - debian_importer_v2/firefox-esr/CVE-2025-1931
     - debian_importer_v2/firefox-esr/CVE-2025-1931
     - debian_importer_v2/firefox-esr/CVE-2025-1931
     - debian_importer_v2/firefox-esr/CVE-2025-1931
@@ -19,6 +25,12 @@
     - debian_importer_v2/firefox-esr/CVE-2025-1932
     - debian_importer_v2/firefox-esr/CVE-2025-1932
     - debian_importer_v2/firefox-esr/CVE-2025-1932
+    - debian_importer_v2/firefox-esr/CVE-2025-1932
+    - debian_importer_v2/firefox-esr/CVE-2025-1932
+    - debian_importer_v2/firefox-esr/CVE-2025-1932
+    - debian_importer_v2/firefox-esr/CVE-2025-1933
+    - debian_importer_v2/firefox-esr/CVE-2025-1933
+    - debian_importer_v2/firefox-esr/CVE-2025-1933
     - debian_importer_v2/firefox-esr/CVE-2025-1933
     - debian_importer_v2/firefox-esr/CVE-2025-1933
     - debian_importer_v2/firefox-esr/CVE-2025-1933
@@ -31,6 +43,12 @@
     - debian_importer_v2/firefox-esr/CVE-2025-1934
     - debian_importer_v2/firefox-esr/CVE-2025-1934
     - debian_importer_v2/firefox-esr/CVE-2025-1934
+    - debian_importer_v2/firefox-esr/CVE-2025-1934
+    - debian_importer_v2/firefox-esr/CVE-2025-1934
+    - debian_importer_v2/firefox-esr/CVE-2025-1934
+    - debian_importer_v2/firefox-esr/CVE-2025-1935
+    - debian_importer_v2/firefox-esr/CVE-2025-1935
+    - debian_importer_v2/firefox-esr/CVE-2025-1935
     - debian_importer_v2/firefox-esr/CVE-2025-1935
     - debian_importer_v2/firefox-esr/CVE-2025-1935
     - debian_importer_v2/firefox-esr/CVE-2025-1935
@@ -43,12 +61,21 @@
     - debian_importer_v2/firefox-esr/CVE-2025-1936
     - debian_importer_v2/firefox-esr/CVE-2025-1936
     - debian_importer_v2/firefox-esr/CVE-2025-1936
+    - debian_importer_v2/firefox-esr/CVE-2025-1936
+    - debian_importer_v2/firefox-esr/CVE-2025-1936
+    - debian_importer_v2/firefox-esr/CVE-2025-1936
     - debian_importer_v2/firefox-esr/CVE-2025-1937
     - debian_importer_v2/firefox-esr/CVE-2025-1937
     - debian_importer_v2/firefox-esr/CVE-2025-1937
     - debian_importer_v2/firefox-esr/CVE-2025-1937
     - debian_importer_v2/firefox-esr/CVE-2025-1937
     - debian_importer_v2/firefox-esr/CVE-2025-1937
+    - debian_importer_v2/firefox-esr/CVE-2025-1937
+    - debian_importer_v2/firefox-esr/CVE-2025-1937
+    - debian_importer_v2/firefox-esr/CVE-2025-1937
+    - debian_importer_v2/firefox-esr/CVE-2025-1938
+    - debian_importer_v2/firefox-esr/CVE-2025-1938
+    - debian_importer_v2/firefox-esr/CVE-2025-1938
     - debian_importer_v2/firefox-esr/CVE-2025-1938
     - debian_importer_v2/firefox-esr/CVE-2025-1938
     - debian_importer_v2/firefox-esr/CVE-2025-1938
