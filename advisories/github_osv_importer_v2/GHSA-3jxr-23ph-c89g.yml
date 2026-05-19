@@ -44,3 +44,12 @@ references:
   - url: https://www.gruppotim.it/it/footer/red-team.html
     reference_type: other
     reference_id: red-team.html
+  - url: https://access.redhat.com/errata/RHSA-2026:18054
+    reference_type: advisory
+    reference_id: RHSA-2026:18054
+  - url: https://access.redhat.com/errata/RHSA-2026:18055
+    reference_type: advisory
+    reference_id: RHSA-2026:18055
+  - url: https://access.redhat.com/errata/RHSA-2026:18059
+    reference_type: advisory
+    reference_id: RHSA-2026:18059
