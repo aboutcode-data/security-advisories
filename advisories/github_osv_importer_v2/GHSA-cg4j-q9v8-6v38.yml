@@ -10,6 +10,9 @@ summary: |
 
   ### Releases
   The fixed releases are available at the normal locations.
+
+  ### Credit
+  This issue was responsibly reported by Hackerone researcher [scyoon](https://hackerone.com/scyoon).
 impacted_packages:
   - purl: pkg:gem/activesupport
     affected_versions: vers:gem/>=8.1.0.beta1|<8.1.2.1
@@ -42,6 +45,9 @@ weaknesses:
   - CWE-400
 references:
   - url: https://github.com/rails/rails
+    reference_type:
+    reference_id:
+  - url: https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activesupport/CVE-2026-33169.yml
     reference_type:
     reference_id:
   - url: https://github.com/rails/rails/commit/29154f1097da13d48fdb3200760b3e3da66dcb11

@@ -185,6 +185,9 @@ references:
   - url: https://github.com/pinchtab/pinchtab/commit/c824574c3a05073dec2f5e9c219e22ffff8de445
     reference_type: other
     reference_id: c824574c3a05073dec2f5e9c219e22ffff8de445
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-33619
+    reference_type:
+    reference_id: CVE-2026-33619
   - url: https://github.com/pinchtab/pinchtab/security/advisories/GHSA-xqq2-4j46-vwp7
     reference_type: other
     reference_id: GHSA-xqq2-4j46-vwp7

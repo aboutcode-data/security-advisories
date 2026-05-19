@@ -10,6 +10,9 @@ summary: |
 
   ### Releases
   The fixed releases are available at the normal locations.
+
+  ### Credit
+  This issue was responsibly reported by Hackerone researcher [taise](https://hackerone.com/taise).
 impacted_packages:
   - purl: pkg:gem/actionview
     affected_versions: vers:gem/>=8.1.0.beta1|<8.1.2.1
@@ -41,6 +44,9 @@ weaknesses:
   - CWE-79
 references:
   - url: https://github.com/rails/rails
+    reference_type:
+    reference_id:
+  - url: https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionview/CVE-2026-33168.yml
     reference_type:
     reference_id:
   - url: https://github.com/rails/rails/commit/0b6f8002b52b9c606fd6be9e7915d9f944cf539c

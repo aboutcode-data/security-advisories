@@ -22,6 +22,7 @@ severities:
     url:
 weaknesses:
   - CWE-200
+  - CWE-312
 references:
   - url: https://github.com/grafana/grafana
     reference_type:

@@ -20,6 +20,7 @@ severities:
     url:
 weaknesses:
   - CWE-770
+  - CWE-434
 references:
   - url: https://cs.opensource.google/go/x/image
     reference_type:

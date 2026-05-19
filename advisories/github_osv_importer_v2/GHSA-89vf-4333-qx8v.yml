@@ -46,6 +46,9 @@ references:
   - url: https://github.com/rails/rails
     reference_type:
     reference_id:
+  - url: https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activesupport/CVE-2026-33170.yml
+    reference_type:
+    reference_id:
   - url: https://github.com/rails/rails/commit/50d732af3b7c8aaf63cbcca0becbc00279b215b7
     reference_type: other
     reference_id: 50d732af3b7c8aaf63cbcca0becbc00279b215b7

@@ -10,6 +10,9 @@ summary: |
 
   ### Releases
   The fixed releases are available at the normal locations.
+
+  ### Credit
+  This issue was responsibly reported by Hackerone researcher [ksw9722](https://hackerone.com/ksw9722).
 impacted_packages:
   - purl: pkg:gem/activestorage
     affected_versions: vers:gem/>=8.1.0.beta1|<8.1.2.1
@@ -41,6 +44,9 @@ weaknesses:
   - CWE-22
 references:
   - url: https://github.com/rails/rails
+    reference_type:
+    reference_id:
+  - url: https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activestorage/CVE-2026-33195.yml
     reference_type:
     reference_id:
   - url: https://github.com/rails/rails/commit/4933c1e3b8c1bb04925d60347be9f69270392f2c

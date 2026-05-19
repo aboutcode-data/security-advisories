@@ -12,8 +12,7 @@ summary: |
   The fixed releases are available at the normal locations.
 
   ### Credit
-
-  https://hackerone.com/manun
+  This issue was responsibly reported by Hackerone researcher [manun](https://hackerone.com/manun).
 impacted_packages:
   - purl: pkg:gem/activesupport
     affected_versions: vers:gem/>=8.1.0.beta1|<8.1.2.1
@@ -46,6 +45,9 @@ weaknesses:
   - CWE-770
 references:
   - url: https://github.com/rails/rails
+    reference_type:
+    reference_id:
+  - url: https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activesupport/CVE-2026-33176.yml
     reference_type:
     reference_id:
   - url: https://github.com/rails/rails/commit/19dbab51ca086a657bb86458042bc44314916bcb
