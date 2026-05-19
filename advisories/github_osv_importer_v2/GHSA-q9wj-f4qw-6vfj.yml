@@ -21,6 +21,15 @@ severities:
 weaknesses:
   - CWE-125
 references:
+  - url: https://cert-portal.siemens.com/productcert/html/ssa-028723.html
+    reference_type:
+    reference_id:
+  - url: https://cert-portal.siemens.com/productcert/html/ssa-244969.html
+    reference_type:
+    reference_id:
+  - url: https://cert-portal.siemens.com/productcert/html/ssa-389290.html
+    reference_type:
+    reference_id:
   - url: https://cert-portal.siemens.com/productcert/pdf/ssa-244969.pdf
     reference_type:
     reference_id:
@@ -63,13 +72,13 @@ references:
   - url: https://www.debian.org/security/2021/dsa-4963
     reference_type:
     reference_id:
+  - url: https://www.openwall.com/lists/oss-security/2021/08/26/2
+    reference_type:
+    reference_id:
   - url: https://www.tenable.com/security/tns-2021-16
     reference_type:
     reference_id:
   - url: https://www.tenable.com/security/tns-2022-02
-    reference_type:
-    reference_id:
-  - url: http://www.openwall.com/lists/oss-security/2021/08/26/2
     reference_type:
     reference_id:
   - url: https://git.openssl.org/gitweb/?p=openssl.git;a=commitdiff;h=ccb0a11145ee72b042d10593a64eaf9e8a55ec12
@@ -99,6 +108,9 @@ references:
   - url: https://www.openssl.org/news/secadv/20210824.txt
     reference_type: advisory
     reference_id: OpenSSL Advisory
+  - url: https://cert-portal.siemens.com/productcert/html/ssa-019200.html
+    reference_type: other
+    reference_id: ssa-019200.html
   - url: https://cert-portal.siemens.com/productcert/pdf/ssa-389290.pdf
     reference_type: other
     reference_id: ssa-389290.pdf

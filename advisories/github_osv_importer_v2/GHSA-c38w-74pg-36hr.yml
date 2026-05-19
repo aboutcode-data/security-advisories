@@ -39,6 +39,9 @@ references:
   - url: https://github.com/RustCrypto/RSA
     reference_type:
     reference_id:
+  - url: https://github.com/RustCrypto/RSA/issues/626
+    reference_type:
+    reference_id:
   - url: https://rustsec.org/advisories/RUSTSEC-2023-0071.html
     reference_type:
     reference_id:
