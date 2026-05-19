@@ -88,6 +88,8 @@
     - debian_importer_v2/libvncserver/CVE-2026-32853
     - debian_importer_v2/libvncserver/CVE-2026-32853
     - debian_importer_v2/libvncserver/CVE-2026-32853
+    - debian_importer_v2/libvncserver/CVE-2026-32853
+    - debian_importer_v2/libvncserver/CVE-2026-32854
     - debian_importer_v2/libvncserver/CVE-2026-32854
     - debian_importer_v2/libvncserver/CVE-2026-32854
     - debian_importer_v2/libvncserver/CVE-2026-32854

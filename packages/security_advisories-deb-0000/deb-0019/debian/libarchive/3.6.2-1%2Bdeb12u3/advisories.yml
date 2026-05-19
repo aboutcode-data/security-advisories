@@ -41,10 +41,23 @@
     - debian_importer_v2/libarchive/CVE-2026-4111
     - debian_importer_v2/libarchive/CVE-2026-4111
     - debian_importer_v2/libarchive/CVE-2026-4111
+    - debian_importer_v2/libarchive/CVE-2026-4111
+    - debian_importer_v2/libarchive/CVE-2026-4111
+    - debian_importer_v2/libarchive/CVE-2026-4111
+    - debian_importer_v2/libarchive/CVE-2026-4111
+    - debian_importer_v2/libarchive/CVE-2026-4424
+    - debian_importer_v2/libarchive/CVE-2026-4424
+    - debian_importer_v2/libarchive/CVE-2026-4424
     - debian_importer_v2/libarchive/CVE-2026-4424
     - debian_importer_v2/libarchive/CVE-2026-4424
     - debian_importer_v2/libarchive/CVE-2026-4426
     - debian_importer_v2/libarchive/CVE-2026-4426
+    - debian_importer_v2/libarchive/CVE-2026-4426
+    - debian_importer_v2/libarchive/CVE-2026-4426
+    - debian_importer_v2/libarchive/CVE-2026-4426
+    - debian_importer_v2/libarchive/CVE-2026-5121
+    - debian_importer_v2/libarchive/CVE-2026-5121
+    - debian_importer_v2/libarchive/CVE-2026-5121
     - debian_importer_v2/libarchive/CVE-2026-5121
     - debian_importer_v2/libarchive/CVE-2026-5121
   fixing_advisories:
@@ -270,12 +283,16 @@
     - debian_importer_v2/libarchive/CVE-2025-5914
     - debian_importer_v2/libarchive/CVE-2025-5914
     - debian_importer_v2/libarchive/CVE-2025-5914
+    - debian_importer_v2/libarchive/CVE-2025-5914
+    - debian_importer_v2/libarchive/CVE-2025-5915
     - debian_importer_v2/libarchive/CVE-2025-5915
     - debian_importer_v2/libarchive/CVE-2025-5915
     - debian_importer_v2/libarchive/CVE-2025-5915
     - debian_importer_v2/libarchive/CVE-2025-5916
     - debian_importer_v2/libarchive/CVE-2025-5916
     - debian_importer_v2/libarchive/CVE-2025-5916
+    - debian_importer_v2/libarchive/CVE-2025-5916
+    - debian_importer_v2/libarchive/CVE-2025-5917
     - debian_importer_v2/libarchive/CVE-2025-5917
     - debian_importer_v2/libarchive/CVE-2025-5917
     - debian_importer_v2/libarchive/CVE-2025-5917

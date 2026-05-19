@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2016-9604
     - debian_importer_v2/linux/CVE-2016-9604
     - debian_importer_v2/linux/CVE-2016-9604
+    - debian_importer_v2/linux/CVE-2016-9604
+    - debian_importer_v2/linux/CVE-2016-9604
+    - debian_importer_v2/linux/CVE-2016-9604
+    - debian_importer_v2/linux/CVE-2017-2671
+    - debian_importer_v2/linux/CVE-2017-2671
+    - debian_importer_v2/linux/CVE-2017-2671
     - debian_importer_v2/linux/CVE-2017-2671
     - debian_importer_v2/linux/CVE-2017-2671
     - debian_importer_v2/linux/CVE-2017-2671
@@ -22,6 +28,12 @@
     - debian_importer_v2/linux/CVE-2017-7374
     - debian_importer_v2/linux/CVE-2017-7374
     - debian_importer_v2/linux/CVE-2017-7374
+    - debian_importer_v2/linux/CVE-2017-7374
+    - debian_importer_v2/linux/CVE-2017-7374
+    - debian_importer_v2/linux/CVE-2017-7374
+    - debian_importer_v2/linux/CVE-2017-7472
+    - debian_importer_v2/linux/CVE-2017-7472
+    - debian_importer_v2/linux/CVE-2017-7472
     - debian_importer_v2/linux/CVE-2017-7472
     - debian_importer_v2/linux/CVE-2017-7472
     - debian_importer_v2/linux/CVE-2017-7472
@@ -36,6 +48,12 @@
     - debian_importer_v2/linux/CVE-2017-7477
     - debian_importer_v2/linux/CVE-2017-7477
     - debian_importer_v2/linux/CVE-2017-7477
+    - debian_importer_v2/linux/CVE-2017-7477
+    - debian_importer_v2/linux/CVE-2017-7477
+    - debian_importer_v2/linux/CVE-2017-7477
+    - debian_importer_v2/linux/CVE-2017-7616
+    - debian_importer_v2/linux/CVE-2017-7616
+    - debian_importer_v2/linux/CVE-2017-7616
     - debian_importer_v2/linux/CVE-2017-7616
     - debian_importer_v2/linux/CVE-2017-7616
     - debian_importer_v2/linux/CVE-2017-7616
@@ -50,6 +68,12 @@
     - debian_importer_v2/linux/CVE-2017-7618
     - debian_importer_v2/linux/CVE-2017-7618
     - debian_importer_v2/linux/CVE-2017-7618
+    - debian_importer_v2/linux/CVE-2017-7618
+    - debian_importer_v2/linux/CVE-2017-7618
+    - debian_importer_v2/linux/CVE-2017-7618
+    - debian_importer_v2/linux/CVE-2017-7645
+    - debian_importer_v2/linux/CVE-2017-7645
+    - debian_importer_v2/linux/CVE-2017-7645
     - debian_importer_v2/linux/CVE-2017-7645
     - debian_importer_v2/linux/CVE-2017-7645
     - debian_importer_v2/linux/CVE-2017-7645
@@ -64,6 +88,12 @@
     - debian_importer_v2/linux/CVE-2017-7889
     - debian_importer_v2/linux/CVE-2017-7889
     - debian_importer_v2/linux/CVE-2017-7889
+    - debian_importer_v2/linux/CVE-2017-7889
+    - debian_importer_v2/linux/CVE-2017-7889
+    - debian_importer_v2/linux/CVE-2017-7889
+    - debian_importer_v2/linux/CVE-2017-7895
+    - debian_importer_v2/linux/CVE-2017-7895
+    - debian_importer_v2/linux/CVE-2017-7895
     - debian_importer_v2/linux/CVE-2017-7895
     - debian_importer_v2/linux/CVE-2017-7895
     - debian_importer_v2/linux/CVE-2017-7895
@@ -78,6 +108,12 @@
     - debian_importer_v2/linux/CVE-2017-8061
     - debian_importer_v2/linux/CVE-2017-8061
     - debian_importer_v2/linux/CVE-2017-8061
+    - debian_importer_v2/linux/CVE-2017-8061
+    - debian_importer_v2/linux/CVE-2017-8061
+    - debian_importer_v2/linux/CVE-2017-8061
+    - debian_importer_v2/linux/CVE-2017-8063
+    - debian_importer_v2/linux/CVE-2017-8063
+    - debian_importer_v2/linux/CVE-2017-8063
     - debian_importer_v2/linux/CVE-2017-8063
     - debian_importer_v2/linux/CVE-2017-8063
     - debian_importer_v2/linux/CVE-2017-8063
@@ -92,6 +128,12 @@
     - debian_importer_v2/linux/CVE-2017-8064
     - debian_importer_v2/linux/CVE-2017-8064
     - debian_importer_v2/linux/CVE-2017-8064
+    - debian_importer_v2/linux/CVE-2017-8064
+    - debian_importer_v2/linux/CVE-2017-8064
+    - debian_importer_v2/linux/CVE-2017-8064
+    - debian_importer_v2/linux/CVE-2017-8067
+    - debian_importer_v2/linux/CVE-2017-8067
+    - debian_importer_v2/linux/CVE-2017-8067
     - debian_importer_v2/linux/CVE-2017-8067
     - debian_importer_v2/linux/CVE-2017-8067
     - debian_importer_v2/linux/CVE-2017-8067

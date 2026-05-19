@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2024-43884
     - debian_importer_v2/linux/CVE-2024-43884
     - debian_importer_v2/linux/CVE-2024-43884
+    - debian_importer_v2/linux/CVE-2024-43884
+    - debian_importer_v2/linux/CVE-2024-43884
+    - debian_importer_v2/linux/CVE-2024-43884
+    - debian_importer_v2/linux/CVE-2024-44945
+    - debian_importer_v2/linux/CVE-2024-44945
+    - debian_importer_v2/linux/CVE-2024-44945
     - debian_importer_v2/linux/CVE-2024-44945
     - debian_importer_v2/linux/CVE-2024-44945
     - debian_importer_v2/linux/CVE-2024-44945
@@ -22,6 +28,12 @@
     - debian_importer_v2/linux/CVE-2024-44946
     - debian_importer_v2/linux/CVE-2024-44946
     - debian_importer_v2/linux/CVE-2024-44946
+    - debian_importer_v2/linux/CVE-2024-44946
+    - debian_importer_v2/linux/CVE-2024-44946
+    - debian_importer_v2/linux/CVE-2024-44946
+    - debian_importer_v2/linux/CVE-2024-44947
+    - debian_importer_v2/linux/CVE-2024-44947
+    - debian_importer_v2/linux/CVE-2024-44947
     - debian_importer_v2/linux/CVE-2024-44947
     - debian_importer_v2/linux/CVE-2024-44947
     - debian_importer_v2/linux/CVE-2024-44947
@@ -36,6 +48,12 @@
     - debian_importer_v2/linux/CVE-2024-44974
     - debian_importer_v2/linux/CVE-2024-44974
     - debian_importer_v2/linux/CVE-2024-44974
+    - debian_importer_v2/linux/CVE-2024-44974
+    - debian_importer_v2/linux/CVE-2024-44974
+    - debian_importer_v2/linux/CVE-2024-44974
+    - debian_importer_v2/linux/CVE-2024-44975
+    - debian_importer_v2/linux/CVE-2024-44975
+    - debian_importer_v2/linux/CVE-2024-44975
     - debian_importer_v2/linux/CVE-2024-44975
     - debian_importer_v2/linux/CVE-2024-44975
     - debian_importer_v2/linux/CVE-2024-44975
@@ -50,6 +68,12 @@
     - debian_importer_v2/linux/CVE-2024-44976
     - debian_importer_v2/linux/CVE-2024-44976
     - debian_importer_v2/linux/CVE-2024-44976
+    - debian_importer_v2/linux/CVE-2024-44976
+    - debian_importer_v2/linux/CVE-2024-44976
+    - debian_importer_v2/linux/CVE-2024-44976
+    - debian_importer_v2/linux/CVE-2024-44977
+    - debian_importer_v2/linux/CVE-2024-44977
+    - debian_importer_v2/linux/CVE-2024-44977
     - debian_importer_v2/linux/CVE-2024-44977
     - debian_importer_v2/linux/CVE-2024-44977
     - debian_importer_v2/linux/CVE-2024-44977
@@ -64,6 +88,12 @@
     - debian_importer_v2/linux/CVE-2024-44978
     - debian_importer_v2/linux/CVE-2024-44978
     - debian_importer_v2/linux/CVE-2024-44978
+    - debian_importer_v2/linux/CVE-2024-44978
+    - debian_importer_v2/linux/CVE-2024-44978
+    - debian_importer_v2/linux/CVE-2024-44978
+    - debian_importer_v2/linux/CVE-2024-44979
+    - debian_importer_v2/linux/CVE-2024-44979
+    - debian_importer_v2/linux/CVE-2024-44979
     - debian_importer_v2/linux/CVE-2024-44979
     - debian_importer_v2/linux/CVE-2024-44979
     - debian_importer_v2/linux/CVE-2024-44979
@@ -78,6 +108,12 @@
     - debian_importer_v2/linux/CVE-2024-44980
     - debian_importer_v2/linux/CVE-2024-44980
     - debian_importer_v2/linux/CVE-2024-44980
+    - debian_importer_v2/linux/CVE-2024-44980
+    - debian_importer_v2/linux/CVE-2024-44980
+    - debian_importer_v2/linux/CVE-2024-44980
+    - debian_importer_v2/linux/CVE-2024-44981
+    - debian_importer_v2/linux/CVE-2024-44981
+    - debian_importer_v2/linux/CVE-2024-44981
     - debian_importer_v2/linux/CVE-2024-44981
     - debian_importer_v2/linux/CVE-2024-44981
     - debian_importer_v2/linux/CVE-2024-44981
@@ -92,6 +128,12 @@
     - debian_importer_v2/linux/CVE-2024-44982
     - debian_importer_v2/linux/CVE-2024-44982
     - debian_importer_v2/linux/CVE-2024-44982
+    - debian_importer_v2/linux/CVE-2024-44982
+    - debian_importer_v2/linux/CVE-2024-44982
+    - debian_importer_v2/linux/CVE-2024-44982
+    - debian_importer_v2/linux/CVE-2024-44983
+    - debian_importer_v2/linux/CVE-2024-44983
+    - debian_importer_v2/linux/CVE-2024-44983
     - debian_importer_v2/linux/CVE-2024-44983
     - debian_importer_v2/linux/CVE-2024-44983
     - debian_importer_v2/linux/CVE-2024-44983
@@ -106,6 +148,12 @@
     - debian_importer_v2/linux/CVE-2024-44984
     - debian_importer_v2/linux/CVE-2024-44984
     - debian_importer_v2/linux/CVE-2024-44984
+    - debian_importer_v2/linux/CVE-2024-44984
+    - debian_importer_v2/linux/CVE-2024-44984
+    - debian_importer_v2/linux/CVE-2024-44984
+    - debian_importer_v2/linux/CVE-2024-44985
+    - debian_importer_v2/linux/CVE-2024-44985
+    - debian_importer_v2/linux/CVE-2024-44985
     - debian_importer_v2/linux/CVE-2024-44985
     - debian_importer_v2/linux/CVE-2024-44985
     - debian_importer_v2/linux/CVE-2024-44985
@@ -120,6 +168,12 @@
     - debian_importer_v2/linux/CVE-2024-44986
     - debian_importer_v2/linux/CVE-2024-44986
     - debian_importer_v2/linux/CVE-2024-44986
+    - debian_importer_v2/linux/CVE-2024-44986
+    - debian_importer_v2/linux/CVE-2024-44986
+    - debian_importer_v2/linux/CVE-2024-44986
+    - debian_importer_v2/linux/CVE-2024-44987
+    - debian_importer_v2/linux/CVE-2024-44987
+    - debian_importer_v2/linux/CVE-2024-44987
     - debian_importer_v2/linux/CVE-2024-44987
     - debian_importer_v2/linux/CVE-2024-44987
     - debian_importer_v2/linux/CVE-2024-44987
@@ -134,6 +188,12 @@
     - debian_importer_v2/linux/CVE-2024-44988
     - debian_importer_v2/linux/CVE-2024-44988
     - debian_importer_v2/linux/CVE-2024-44988
+    - debian_importer_v2/linux/CVE-2024-44988
+    - debian_importer_v2/linux/CVE-2024-44988
+    - debian_importer_v2/linux/CVE-2024-44988
+    - debian_importer_v2/linux/CVE-2024-44989
+    - debian_importer_v2/linux/CVE-2024-44989
+    - debian_importer_v2/linux/CVE-2024-44989
     - debian_importer_v2/linux/CVE-2024-44989
     - debian_importer_v2/linux/CVE-2024-44989
     - debian_importer_v2/linux/CVE-2024-44989
@@ -148,6 +208,12 @@
     - debian_importer_v2/linux/CVE-2024-44990
     - debian_importer_v2/linux/CVE-2024-44990
     - debian_importer_v2/linux/CVE-2024-44990
+    - debian_importer_v2/linux/CVE-2024-44990
+    - debian_importer_v2/linux/CVE-2024-44990
+    - debian_importer_v2/linux/CVE-2024-44990
+    - debian_importer_v2/linux/CVE-2024-44991
+    - debian_importer_v2/linux/CVE-2024-44991
+    - debian_importer_v2/linux/CVE-2024-44991
     - debian_importer_v2/linux/CVE-2024-44991
     - debian_importer_v2/linux/CVE-2024-44991
     - debian_importer_v2/linux/CVE-2024-44991
@@ -162,6 +228,12 @@
     - debian_importer_v2/linux/CVE-2024-44992
     - debian_importer_v2/linux/CVE-2024-44992
     - debian_importer_v2/linux/CVE-2024-44992
+    - debian_importer_v2/linux/CVE-2024-44992
+    - debian_importer_v2/linux/CVE-2024-44992
+    - debian_importer_v2/linux/CVE-2024-44992
+    - debian_importer_v2/linux/CVE-2024-44993
+    - debian_importer_v2/linux/CVE-2024-44993
+    - debian_importer_v2/linux/CVE-2024-44993
     - debian_importer_v2/linux/CVE-2024-44993
     - debian_importer_v2/linux/CVE-2024-44993
     - debian_importer_v2/linux/CVE-2024-44993
@@ -176,6 +248,12 @@
     - debian_importer_v2/linux/CVE-2024-44994
     - debian_importer_v2/linux/CVE-2024-44994
     - debian_importer_v2/linux/CVE-2024-44994
+    - debian_importer_v2/linux/CVE-2024-44994
+    - debian_importer_v2/linux/CVE-2024-44994
+    - debian_importer_v2/linux/CVE-2024-44994
+    - debian_importer_v2/linux/CVE-2024-44995
+    - debian_importer_v2/linux/CVE-2024-44995
+    - debian_importer_v2/linux/CVE-2024-44995
     - debian_importer_v2/linux/CVE-2024-44995
     - debian_importer_v2/linux/CVE-2024-44995
     - debian_importer_v2/linux/CVE-2024-44995
@@ -190,6 +268,12 @@
     - debian_importer_v2/linux/CVE-2024-44996
     - debian_importer_v2/linux/CVE-2024-44996
     - debian_importer_v2/linux/CVE-2024-44996
+    - debian_importer_v2/linux/CVE-2024-44996
+    - debian_importer_v2/linux/CVE-2024-44996
+    - debian_importer_v2/linux/CVE-2024-44996
+    - debian_importer_v2/linux/CVE-2024-44997
+    - debian_importer_v2/linux/CVE-2024-44997
+    - debian_importer_v2/linux/CVE-2024-44997
     - debian_importer_v2/linux/CVE-2024-44997
     - debian_importer_v2/linux/CVE-2024-44997
     - debian_importer_v2/linux/CVE-2024-44997
@@ -204,6 +288,12 @@
     - debian_importer_v2/linux/CVE-2024-44998
     - debian_importer_v2/linux/CVE-2024-44998
     - debian_importer_v2/linux/CVE-2024-44998
+    - debian_importer_v2/linux/CVE-2024-44998
+    - debian_importer_v2/linux/CVE-2024-44998
+    - debian_importer_v2/linux/CVE-2024-44998
+    - debian_importer_v2/linux/CVE-2024-44999
+    - debian_importer_v2/linux/CVE-2024-44999
+    - debian_importer_v2/linux/CVE-2024-44999
     - debian_importer_v2/linux/CVE-2024-44999
     - debian_importer_v2/linux/CVE-2024-44999
     - debian_importer_v2/linux/CVE-2024-44999
@@ -218,6 +308,12 @@
     - debian_importer_v2/linux/CVE-2024-45000
     - debian_importer_v2/linux/CVE-2024-45000
     - debian_importer_v2/linux/CVE-2024-45000
+    - debian_importer_v2/linux/CVE-2024-45000
+    - debian_importer_v2/linux/CVE-2024-45000
+    - debian_importer_v2/linux/CVE-2024-45000
+    - debian_importer_v2/linux/CVE-2024-45001
+    - debian_importer_v2/linux/CVE-2024-45001
+    - debian_importer_v2/linux/CVE-2024-45001
     - debian_importer_v2/linux/CVE-2024-45001
     - debian_importer_v2/linux/CVE-2024-45001
     - debian_importer_v2/linux/CVE-2024-45001
@@ -232,6 +328,12 @@
     - debian_importer_v2/linux/CVE-2024-45002
     - debian_importer_v2/linux/CVE-2024-45002
     - debian_importer_v2/linux/CVE-2024-45002
+    - debian_importer_v2/linux/CVE-2024-45002
+    - debian_importer_v2/linux/CVE-2024-45002
+    - debian_importer_v2/linux/CVE-2024-45002
+    - debian_importer_v2/linux/CVE-2024-45003
+    - debian_importer_v2/linux/CVE-2024-45003
+    - debian_importer_v2/linux/CVE-2024-45003
     - debian_importer_v2/linux/CVE-2024-45003
     - debian_importer_v2/linux/CVE-2024-45003
     - debian_importer_v2/linux/CVE-2024-45003
@@ -246,6 +348,12 @@
     - debian_importer_v2/linux/CVE-2024-45004
     - debian_importer_v2/linux/CVE-2024-45004
     - debian_importer_v2/linux/CVE-2024-45004
+    - debian_importer_v2/linux/CVE-2024-45004
+    - debian_importer_v2/linux/CVE-2024-45004
+    - debian_importer_v2/linux/CVE-2024-45004
+    - debian_importer_v2/linux/CVE-2024-45005
+    - debian_importer_v2/linux/CVE-2024-45005
+    - debian_importer_v2/linux/CVE-2024-45005
     - debian_importer_v2/linux/CVE-2024-45005
     - debian_importer_v2/linux/CVE-2024-45005
     - debian_importer_v2/linux/CVE-2024-45005
@@ -260,6 +368,12 @@
     - debian_importer_v2/linux/CVE-2024-45006
     - debian_importer_v2/linux/CVE-2024-45006
     - debian_importer_v2/linux/CVE-2024-45006
+    - debian_importer_v2/linux/CVE-2024-45006
+    - debian_importer_v2/linux/CVE-2024-45006
+    - debian_importer_v2/linux/CVE-2024-45006
+    - debian_importer_v2/linux/CVE-2024-45007
+    - debian_importer_v2/linux/CVE-2024-45007
+    - debian_importer_v2/linux/CVE-2024-45007
     - debian_importer_v2/linux/CVE-2024-45007
     - debian_importer_v2/linux/CVE-2024-45007
     - debian_importer_v2/linux/CVE-2024-45007
@@ -274,6 +388,12 @@
     - debian_importer_v2/linux/CVE-2024-45008
     - debian_importer_v2/linux/CVE-2024-45008
     - debian_importer_v2/linux/CVE-2024-45008
+    - debian_importer_v2/linux/CVE-2024-45008
+    - debian_importer_v2/linux/CVE-2024-45008
+    - debian_importer_v2/linux/CVE-2024-45008
+    - debian_importer_v2/linux/CVE-2024-45009
+    - debian_importer_v2/linux/CVE-2024-45009
+    - debian_importer_v2/linux/CVE-2024-45009
     - debian_importer_v2/linux/CVE-2024-45009
     - debian_importer_v2/linux/CVE-2024-45009
     - debian_importer_v2/linux/CVE-2024-45009
@@ -288,6 +408,12 @@
     - debian_importer_v2/linux/CVE-2024-45010
     - debian_importer_v2/linux/CVE-2024-45010
     - debian_importer_v2/linux/CVE-2024-45010
+    - debian_importer_v2/linux/CVE-2024-45010
+    - debian_importer_v2/linux/CVE-2024-45010
+    - debian_importer_v2/linux/CVE-2024-45010
+    - debian_importer_v2/linux/CVE-2024-45011
+    - debian_importer_v2/linux/CVE-2024-45011
+    - debian_importer_v2/linux/CVE-2024-45011
     - debian_importer_v2/linux/CVE-2024-45011
     - debian_importer_v2/linux/CVE-2024-45011
     - debian_importer_v2/linux/CVE-2024-45011
@@ -302,6 +428,12 @@
     - debian_importer_v2/linux/CVE-2024-45012
     - debian_importer_v2/linux/CVE-2024-45012
     - debian_importer_v2/linux/CVE-2024-45012
+    - debian_importer_v2/linux/CVE-2024-45012
+    - debian_importer_v2/linux/CVE-2024-45012
+    - debian_importer_v2/linux/CVE-2024-45012
+    - debian_importer_v2/linux/CVE-2024-45013
+    - debian_importer_v2/linux/CVE-2024-45013
+    - debian_importer_v2/linux/CVE-2024-45013
     - debian_importer_v2/linux/CVE-2024-45013
     - debian_importer_v2/linux/CVE-2024-45013
     - debian_importer_v2/linux/CVE-2024-45013
@@ -316,6 +448,12 @@
     - debian_importer_v2/linux/CVE-2024-45014
     - debian_importer_v2/linux/CVE-2024-45014
     - debian_importer_v2/linux/CVE-2024-45014
+    - debian_importer_v2/linux/CVE-2024-45014
+    - debian_importer_v2/linux/CVE-2024-45014
+    - debian_importer_v2/linux/CVE-2024-45014
+    - debian_importer_v2/linux/CVE-2024-45015
+    - debian_importer_v2/linux/CVE-2024-45015
+    - debian_importer_v2/linux/CVE-2024-45015
     - debian_importer_v2/linux/CVE-2024-45015
     - debian_importer_v2/linux/CVE-2024-45015
     - debian_importer_v2/linux/CVE-2024-45015
@@ -330,6 +468,12 @@
     - debian_importer_v2/linux/CVE-2024-45016
     - debian_importer_v2/linux/CVE-2024-45016
     - debian_importer_v2/linux/CVE-2024-45016
+    - debian_importer_v2/linux/CVE-2024-45016
+    - debian_importer_v2/linux/CVE-2024-45016
+    - debian_importer_v2/linux/CVE-2024-45016
+    - debian_importer_v2/linux/CVE-2024-45017
+    - debian_importer_v2/linux/CVE-2024-45017
+    - debian_importer_v2/linux/CVE-2024-45017
     - debian_importer_v2/linux/CVE-2024-45017
     - debian_importer_v2/linux/CVE-2024-45017
     - debian_importer_v2/linux/CVE-2024-45017
@@ -344,6 +488,12 @@
     - debian_importer_v2/linux/CVE-2024-45018
     - debian_importer_v2/linux/CVE-2024-45018
     - debian_importer_v2/linux/CVE-2024-45018
+    - debian_importer_v2/linux/CVE-2024-45018
+    - debian_importer_v2/linux/CVE-2024-45018
+    - debian_importer_v2/linux/CVE-2024-45018
+    - debian_importer_v2/linux/CVE-2024-45019
+    - debian_importer_v2/linux/CVE-2024-45019
+    - debian_importer_v2/linux/CVE-2024-45019
     - debian_importer_v2/linux/CVE-2024-45019
     - debian_importer_v2/linux/CVE-2024-45019
     - debian_importer_v2/linux/CVE-2024-45019
@@ -358,6 +508,12 @@
     - debian_importer_v2/linux/CVE-2024-45020
     - debian_importer_v2/linux/CVE-2024-45020
     - debian_importer_v2/linux/CVE-2024-45020
+    - debian_importer_v2/linux/CVE-2024-45020
+    - debian_importer_v2/linux/CVE-2024-45020
+    - debian_importer_v2/linux/CVE-2024-45020
+    - debian_importer_v2/linux/CVE-2024-45021
+    - debian_importer_v2/linux/CVE-2024-45021
+    - debian_importer_v2/linux/CVE-2024-45021
     - debian_importer_v2/linux/CVE-2024-45021
     - debian_importer_v2/linux/CVE-2024-45021
     - debian_importer_v2/linux/CVE-2024-45021
@@ -372,6 +528,12 @@
     - debian_importer_v2/linux/CVE-2024-45022
     - debian_importer_v2/linux/CVE-2024-45022
     - debian_importer_v2/linux/CVE-2024-45022
+    - debian_importer_v2/linux/CVE-2024-45022
+    - debian_importer_v2/linux/CVE-2024-45022
+    - debian_importer_v2/linux/CVE-2024-45022
+    - debian_importer_v2/linux/CVE-2024-45023
+    - debian_importer_v2/linux/CVE-2024-45023
+    - debian_importer_v2/linux/CVE-2024-45023
     - debian_importer_v2/linux/CVE-2024-45023
     - debian_importer_v2/linux/CVE-2024-45023
     - debian_importer_v2/linux/CVE-2024-45023
@@ -386,6 +548,12 @@
     - debian_importer_v2/linux/CVE-2024-45024
     - debian_importer_v2/linux/CVE-2024-45024
     - debian_importer_v2/linux/CVE-2024-45024
+    - debian_importer_v2/linux/CVE-2024-45024
+    - debian_importer_v2/linux/CVE-2024-45024
+    - debian_importer_v2/linux/CVE-2024-45024
+    - debian_importer_v2/linux/CVE-2024-45025
+    - debian_importer_v2/linux/CVE-2024-45025
+    - debian_importer_v2/linux/CVE-2024-45025
     - debian_importer_v2/linux/CVE-2024-45025
     - debian_importer_v2/linux/CVE-2024-45025
     - debian_importer_v2/linux/CVE-2024-45025
@@ -400,6 +568,12 @@
     - debian_importer_v2/linux/CVE-2024-45026
     - debian_importer_v2/linux/CVE-2024-45026
     - debian_importer_v2/linux/CVE-2024-45026
+    - debian_importer_v2/linux/CVE-2024-45026
+    - debian_importer_v2/linux/CVE-2024-45026
+    - debian_importer_v2/linux/CVE-2024-45026
+    - debian_importer_v2/linux/CVE-2024-45027
+    - debian_importer_v2/linux/CVE-2024-45027
+    - debian_importer_v2/linux/CVE-2024-45027
     - debian_importer_v2/linux/CVE-2024-45027
     - debian_importer_v2/linux/CVE-2024-45027
     - debian_importer_v2/linux/CVE-2024-45027
@@ -414,6 +588,12 @@
     - debian_importer_v2/linux/CVE-2024-45028
     - debian_importer_v2/linux/CVE-2024-45028
     - debian_importer_v2/linux/CVE-2024-45028
+    - debian_importer_v2/linux/CVE-2024-45028
+    - debian_importer_v2/linux/CVE-2024-45028
+    - debian_importer_v2/linux/CVE-2024-45028
+    - debian_importer_v2/linux/CVE-2024-45029
+    - debian_importer_v2/linux/CVE-2024-45029
+    - debian_importer_v2/linux/CVE-2024-45029
     - debian_importer_v2/linux/CVE-2024-45029
     - debian_importer_v2/linux/CVE-2024-45029
     - debian_importer_v2/linux/CVE-2024-45029
@@ -428,6 +608,12 @@
     - debian_importer_v2/linux/CVE-2024-45030
     - debian_importer_v2/linux/CVE-2024-45030
     - debian_importer_v2/linux/CVE-2024-45030
+    - debian_importer_v2/linux/CVE-2024-45030
+    - debian_importer_v2/linux/CVE-2024-45030
+    - debian_importer_v2/linux/CVE-2024-45030
+    - debian_importer_v2/linux/CVE-2024-46672
+    - debian_importer_v2/linux/CVE-2024-46672
+    - debian_importer_v2/linux/CVE-2024-46672
     - debian_importer_v2/linux/CVE-2024-46672
     - debian_importer_v2/linux/CVE-2024-46672
     - debian_importer_v2/linux/CVE-2024-46672
@@ -442,6 +628,12 @@
     - debian_importer_v2/linux/CVE-2024-46701
     - debian_importer_v2/linux/CVE-2024-46701
     - debian_importer_v2/linux/CVE-2024-46701
+    - debian_importer_v2/linux/CVE-2024-46701
+    - debian_importer_v2/linux/CVE-2024-46701
+    - debian_importer_v2/linux/CVE-2024-46701
+    - debian_importer_v2/linux/CVE-2024-46702
+    - debian_importer_v2/linux/CVE-2024-46702
+    - debian_importer_v2/linux/CVE-2024-46702
     - debian_importer_v2/linux/CVE-2024-46702
     - debian_importer_v2/linux/CVE-2024-46702
     - debian_importer_v2/linux/CVE-2024-46702
@@ -456,6 +648,12 @@
     - debian_importer_v2/linux/CVE-2024-46703
     - debian_importer_v2/linux/CVE-2024-46703
     - debian_importer_v2/linux/CVE-2024-46703
+    - debian_importer_v2/linux/CVE-2024-46703
+    - debian_importer_v2/linux/CVE-2024-46703
+    - debian_importer_v2/linux/CVE-2024-46703
+    - debian_importer_v2/linux/CVE-2024-46704
+    - debian_importer_v2/linux/CVE-2024-46704
+    - debian_importer_v2/linux/CVE-2024-46704
     - debian_importer_v2/linux/CVE-2024-46704
     - debian_importer_v2/linux/CVE-2024-46704
     - debian_importer_v2/linux/CVE-2024-46704
@@ -470,6 +668,9 @@
     - debian_importer_v2/linux/CVE-2024-46705
     - debian_importer_v2/linux/CVE-2024-46705
     - debian_importer_v2/linux/CVE-2024-46705
+    - debian_importer_v2/linux/CVE-2024-46705
+    - debian_importer_v2/linux/CVE-2024-46705
+    - debian_importer_v2/linux/CVE-2024-46705
     - debian_importer_v2/linux/CVE-2024-46706
     - debian_importer_v2/linux/CVE-2024-46706
     - debian_importer_v2/linux/CVE-2024-46706
@@ -477,6 +678,12 @@
     - debian_importer_v2/linux/CVE-2024-46706
     - debian_importer_v2/linux/CVE-2024-46706
     - debian_importer_v2/linux/CVE-2024-46706
+    - debian_importer_v2/linux/CVE-2024-46706
+    - debian_importer_v2/linux/CVE-2024-46706
+    - debian_importer_v2/linux/CVE-2024-46706
+    - debian_importer_v2/linux/CVE-2024-46707
+    - debian_importer_v2/linux/CVE-2024-46707
+    - debian_importer_v2/linux/CVE-2024-46707
     - debian_importer_v2/linux/CVE-2024-46707
     - debian_importer_v2/linux/CVE-2024-46707
     - debian_importer_v2/linux/CVE-2024-46707

@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2012-2669
     - debian_importer_v2/linux/CVE-2012-2669
     - debian_importer_v2/linux/CVE-2012-2669
+    - debian_importer_v2/linux/CVE-2012-2669
+    - debian_importer_v2/linux/CVE-2012-2669
+    - debian_importer_v2/linux/CVE-2012-2669
+    - debian_importer_v2/linux/CVE-2012-3364
+    - debian_importer_v2/linux/CVE-2012-3364
+    - debian_importer_v2/linux/CVE-2012-3364
     - debian_importer_v2/linux/CVE-2012-3364
     - debian_importer_v2/linux/CVE-2012-3364
     - debian_importer_v2/linux/CVE-2012-3364
@@ -22,6 +28,9 @@
     - debian_importer_v2/linux/CVE-2012-3375
     - debian_importer_v2/linux/CVE-2012-3375
     - debian_importer_v2/linux/CVE-2012-3375
+    - debian_importer_v2/linux/CVE-2012-3375
+    - debian_importer_v2/linux/CVE-2012-3375
+    - debian_importer_v2/linux/CVE-2012-3375
     - debian_importer_v2/linux/CVE-2012-3400
     - debian_importer_v2/linux/CVE-2012-3400
     - debian_importer_v2/linux/CVE-2012-3400
@@ -29,6 +38,12 @@
     - debian_importer_v2/linux/CVE-2012-3400
     - debian_importer_v2/linux/CVE-2012-3400
     - debian_importer_v2/linux/CVE-2012-3400
+    - debian_importer_v2/linux/CVE-2012-3400
+    - debian_importer_v2/linux/CVE-2012-3400
+    - debian_importer_v2/linux/CVE-2012-3400
+    - debian_importer_v2/linux/CVE-2012-3511
+    - debian_importer_v2/linux/CVE-2012-3511
+    - debian_importer_v2/linux/CVE-2012-3511
     - debian_importer_v2/linux/CVE-2012-3511
     - debian_importer_v2/linux/CVE-2012-3511
     - debian_importer_v2/linux/CVE-2012-3511

@@ -5,9 +5,15 @@
     - debian_importer_v2/nodejs/CVE-2025-55130
     - debian_importer_v2/nodejs/CVE-2025-55130
     - debian_importer_v2/nodejs/CVE-2025-55130
+    - debian_importer_v2/nodejs/CVE-2025-55130
+    - debian_importer_v2/nodejs/CVE-2025-55130
     - debian_importer_v2/nodejs/CVE-2025-55131
     - debian_importer_v2/nodejs/CVE-2025-55131
     - debian_importer_v2/nodejs/CVE-2025-55131
+    - debian_importer_v2/nodejs/CVE-2025-55131
+    - debian_importer_v2/nodejs/CVE-2025-55131
+    - debian_importer_v2/nodejs/CVE-2025-55132
+    - debian_importer_v2/nodejs/CVE-2025-55132
     - debian_importer_v2/nodejs/CVE-2025-55132
     - debian_importer_v2/nodejs/CVE-2025-55132
     - debian_importer_v2/nodejs/CVE-2025-55132
@@ -15,6 +21,10 @@
     - debian_importer_v2/nodejs/CVE-2025-59465
     - debian_importer_v2/nodejs/CVE-2025-59465
     - debian_importer_v2/nodejs/CVE-2025-59465
+    - debian_importer_v2/nodejs/CVE-2025-59465
+    - debian_importer_v2/nodejs/CVE-2025-59465
+    - debian_importer_v2/nodejs/CVE-2025-59466
+    - debian_importer_v2/nodejs/CVE-2025-59466
     - debian_importer_v2/nodejs/CVE-2025-59466
     - debian_importer_v2/nodejs/CVE-2025-59466
     - debian_importer_v2/nodejs/CVE-2025-59466

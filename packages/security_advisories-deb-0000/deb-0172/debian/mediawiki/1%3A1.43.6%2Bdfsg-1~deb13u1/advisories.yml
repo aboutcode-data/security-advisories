@@ -1042,10 +1042,13 @@
     - debian_importer_v2/mediawiki/CVE-2025-11173
     - debian_importer_v2/mediawiki/CVE-2025-11173
     - debian_importer_v2/mediawiki/CVE-2025-11173
+    - debian_importer_v2/mediawiki/CVE-2025-11173
     - debian_importer_v2/mediawiki/CVE-2025-11175
     - debian_importer_v2/mediawiki/CVE-2025-11175
     - debian_importer_v2/mediawiki/CVE-2025-11175
     - debian_importer_v2/mediawiki/CVE-2025-11175
+    - debian_importer_v2/mediawiki/CVE-2025-11175
+    - debian_importer_v2/mediawiki/CVE-2025-11261
     - debian_importer_v2/mediawiki/CVE-2025-11261
     - debian_importer_v2/mediawiki/CVE-2025-11261
     - debian_importer_v2/mediawiki/CVE-2025-11261
@@ -1082,6 +1085,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61634
     - debian_importer_v2/mediawiki/CVE-2025-61634
     - debian_importer_v2/mediawiki/CVE-2025-61634
+    - debian_importer_v2/mediawiki/CVE-2025-61634
+    - debian_importer_v2/mediawiki/CVE-2025-61635
     - debian_importer_v2/mediawiki/CVE-2025-61635
     - debian_importer_v2/mediawiki/CVE-2025-61635
     - debian_importer_v2/mediawiki/CVE-2025-61635
@@ -1090,6 +1095,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61636
     - debian_importer_v2/mediawiki/CVE-2025-61636
     - debian_importer_v2/mediawiki/CVE-2025-61636
+    - debian_importer_v2/mediawiki/CVE-2025-61636
+    - debian_importer_v2/mediawiki/CVE-2025-61637
     - debian_importer_v2/mediawiki/CVE-2025-61637
     - debian_importer_v2/mediawiki/CVE-2025-61637
     - debian_importer_v2/mediawiki/CVE-2025-61637
@@ -1098,6 +1105,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61638
     - debian_importer_v2/mediawiki/CVE-2025-61638
     - debian_importer_v2/mediawiki/CVE-2025-61638
+    - debian_importer_v2/mediawiki/CVE-2025-61638
+    - debian_importer_v2/mediawiki/CVE-2025-61639
     - debian_importer_v2/mediawiki/CVE-2025-61639
     - debian_importer_v2/mediawiki/CVE-2025-61639
     - debian_importer_v2/mediawiki/CVE-2025-61639
@@ -1106,6 +1115,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61640
     - debian_importer_v2/mediawiki/CVE-2025-61640
     - debian_importer_v2/mediawiki/CVE-2025-61640
+    - debian_importer_v2/mediawiki/CVE-2025-61640
+    - debian_importer_v2/mediawiki/CVE-2025-61641
     - debian_importer_v2/mediawiki/CVE-2025-61641
     - debian_importer_v2/mediawiki/CVE-2025-61641
     - debian_importer_v2/mediawiki/CVE-2025-61641
@@ -1114,6 +1125,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61642
     - debian_importer_v2/mediawiki/CVE-2025-61642
     - debian_importer_v2/mediawiki/CVE-2025-61642
+    - debian_importer_v2/mediawiki/CVE-2025-61642
+    - debian_importer_v2/mediawiki/CVE-2025-61643
     - debian_importer_v2/mediawiki/CVE-2025-61643
     - debian_importer_v2/mediawiki/CVE-2025-61643
     - debian_importer_v2/mediawiki/CVE-2025-61643
@@ -1130,6 +1143,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61646
     - debian_importer_v2/mediawiki/CVE-2025-61646
     - debian_importer_v2/mediawiki/CVE-2025-61646
+    - debian_importer_v2/mediawiki/CVE-2025-61646
+    - debian_importer_v2/mediawiki/CVE-2025-61652
     - debian_importer_v2/mediawiki/CVE-2025-61652
     - debian_importer_v2/mediawiki/CVE-2025-61652
     - debian_importer_v2/mediawiki/CVE-2025-61652
@@ -1138,6 +1153,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-61653
     - debian_importer_v2/mediawiki/CVE-2025-61653
     - debian_importer_v2/mediawiki/CVE-2025-61653
+    - debian_importer_v2/mediawiki/CVE-2025-61653
+    - debian_importer_v2/mediawiki/CVE-2025-61654
     - debian_importer_v2/mediawiki/CVE-2025-61654
     - debian_importer_v2/mediawiki/CVE-2025-61654
     - debian_importer_v2/mediawiki/CVE-2025-61654
@@ -1146,10 +1163,13 @@
     - debian_importer_v2/mediawiki/CVE-2025-61655
     - debian_importer_v2/mediawiki/CVE-2025-61655
     - debian_importer_v2/mediawiki/CVE-2025-61655
+    - debian_importer_v2/mediawiki/CVE-2025-61655
     - debian_importer_v2/mediawiki/CVE-2025-61656
     - debian_importer_v2/mediawiki/CVE-2025-61656
     - debian_importer_v2/mediawiki/CVE-2025-61656
     - debian_importer_v2/mediawiki/CVE-2025-61656
+    - debian_importer_v2/mediawiki/CVE-2025-61656
+    - debian_importer_v2/mediawiki/CVE-2025-61657
     - debian_importer_v2/mediawiki/CVE-2025-61657
     - debian_importer_v2/mediawiki/CVE-2025-61657
     - debian_importer_v2/mediawiki/CVE-2025-61657
@@ -1194,6 +1214,7 @@
     - debian_importer_v2/mediawiki/CVE-2025-67475
     - debian_importer_v2/mediawiki/CVE-2025-67475
     - debian_importer_v2/mediawiki/CVE-2025-67475
+    - debian_importer_v2/mediawiki/CVE-2025-67475
     - debian_importer_v2/mediawiki/CVE-2025-67476
     - debian_importer_v2/mediawiki/CVE-2025-67476
     - debian_importer_v2/mediawiki/CVE-2025-67476
@@ -1202,6 +1223,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-67477
     - debian_importer_v2/mediawiki/CVE-2025-67477
     - debian_importer_v2/mediawiki/CVE-2025-67477
+    - debian_importer_v2/mediawiki/CVE-2025-67477
+    - debian_importer_v2/mediawiki/CVE-2025-67478
     - debian_importer_v2/mediawiki/CVE-2025-67478
     - debian_importer_v2/mediawiki/CVE-2025-67478
     - debian_importer_v2/mediawiki/CVE-2025-67478
@@ -1210,6 +1233,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-67479
     - debian_importer_v2/mediawiki/CVE-2025-67479
     - debian_importer_v2/mediawiki/CVE-2025-67479
+    - debian_importer_v2/mediawiki/CVE-2025-67479
+    - debian_importer_v2/mediawiki/CVE-2025-67480
     - debian_importer_v2/mediawiki/CVE-2025-67480
     - debian_importer_v2/mediawiki/CVE-2025-67480
     - debian_importer_v2/mediawiki/CVE-2025-67480
@@ -1218,6 +1243,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-67481
     - debian_importer_v2/mediawiki/CVE-2025-67481
     - debian_importer_v2/mediawiki/CVE-2025-67481
+    - debian_importer_v2/mediawiki/CVE-2025-67481
+    - debian_importer_v2/mediawiki/CVE-2025-67482
     - debian_importer_v2/mediawiki/CVE-2025-67482
     - debian_importer_v2/mediawiki/CVE-2025-67482
     - debian_importer_v2/mediawiki/CVE-2025-67482
@@ -1226,6 +1253,8 @@
     - debian_importer_v2/mediawiki/CVE-2025-67483
     - debian_importer_v2/mediawiki/CVE-2025-67483
     - debian_importer_v2/mediawiki/CVE-2025-67483
+    - debian_importer_v2/mediawiki/CVE-2025-67483
+    - debian_importer_v2/mediawiki/CVE-2025-67484
     - debian_importer_v2/mediawiki/CVE-2025-67484
     - debian_importer_v2/mediawiki/CVE-2025-67484
     - debian_importer_v2/mediawiki/CVE-2025-67484
@@ -1239,22 +1268,33 @@
     - debian_importer_v2/mediawiki/CVE-2025-6927
     - debian_importer_v2/mediawiki/CVE-2025-6927
     - debian_importer_v2/mediawiki/CVE-2026-34086
+    - debian_importer_v2/mediawiki/CVE-2026-34086
     - debian_importer_v2/mediawiki/CVE-2026-34087
+    - debian_importer_v2/mediawiki/CVE-2026-34087
+    - debian_importer_v2/mediawiki/CVE-2026-34088
     - debian_importer_v2/mediawiki/CVE-2026-34088
     - debian_importer_v2/mediawiki/CVE-2026-34089
     - debian_importer_v2/mediawiki/CVE-2026-34089
     - debian_importer_v2/mediawiki/CVE-2026-34089
     - debian_importer_v2/mediawiki/CVE-2026-34089
+    - debian_importer_v2/mediawiki/CVE-2026-34089
+    - debian_importer_v2/mediawiki/CVE-2026-34090
     - debian_importer_v2/mediawiki/CVE-2026-34090
     - debian_importer_v2/mediawiki/CVE-2026-34090
     - debian_importer_v2/mediawiki/CVE-2026-34090
     - debian_importer_v2/mediawiki/CVE-2026-34090
     - debian_importer_v2/mediawiki/CVE-2026-34091
+    - debian_importer_v2/mediawiki/CVE-2026-34091
+    - debian_importer_v2/mediawiki/CVE-2026-34092
     - debian_importer_v2/mediawiki/CVE-2026-34092
     - debian_importer_v2/mediawiki/CVE-2026-34092
     - debian_importer_v2/mediawiki/CVE-2026-34093
+    - debian_importer_v2/mediawiki/CVE-2026-34093
+    - debian_importer_v2/mediawiki/CVE-2026-34094
     - debian_importer_v2/mediawiki/CVE-2026-34094
     - debian_importer_v2/mediawiki/CVE-2026-34095
+    - debian_importer_v2/mediawiki/CVE-2026-34095
+    - debian_importer_v2/mediawiki/CVE-2026-5266
     - debian_importer_v2/mediawiki/CVE-2026-5266
     - debian_importer_v2/mediawiki/TEMP-0000000-8B87A6
     - debian_importer_v2/mediawiki/TEMP-0000000-8B87A6

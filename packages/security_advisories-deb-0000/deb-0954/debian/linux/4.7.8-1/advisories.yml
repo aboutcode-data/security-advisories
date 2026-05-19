@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2016-10044
     - debian_importer_v2/linux/CVE-2016-10044
     - debian_importer_v2/linux/CVE-2016-10044
+    - debian_importer_v2/linux/CVE-2016-10044
+    - debian_importer_v2/linux/CVE-2016-10044
+    - debian_importer_v2/linux/CVE-2016-10044
+    - debian_importer_v2/linux/CVE-2016-5195
+    - debian_importer_v2/linux/CVE-2016-5195
+    - debian_importer_v2/linux/CVE-2016-5195
     - debian_importer_v2/linux/CVE-2016-5195
     - debian_importer_v2/linux/CVE-2016-5195
     - debian_importer_v2/linux/CVE-2016-5195
@@ -22,6 +28,12 @@
     - debian_importer_v2/linux/CVE-2016-7039
     - debian_importer_v2/linux/CVE-2016-7039
     - debian_importer_v2/linux/CVE-2016-7039
+    - debian_importer_v2/linux/CVE-2016-7039
+    - debian_importer_v2/linux/CVE-2016-7039
+    - debian_importer_v2/linux/CVE-2016-7039
+    - debian_importer_v2/linux/CVE-2016-7042
+    - debian_importer_v2/linux/CVE-2016-7042
+    - debian_importer_v2/linux/CVE-2016-7042
     - debian_importer_v2/linux/CVE-2016-7042
     - debian_importer_v2/linux/CVE-2016-7042
     - debian_importer_v2/linux/CVE-2016-7042
@@ -36,6 +48,9 @@
     - debian_importer_v2/linux/CVE-2016-7097
     - debian_importer_v2/linux/CVE-2016-7097
     - debian_importer_v2/linux/CVE-2016-7097
+    - debian_importer_v2/linux/CVE-2016-7097
+    - debian_importer_v2/linux/CVE-2016-7097
+    - debian_importer_v2/linux/CVE-2016-7097
     - debian_importer_v2/linux/CVE-2016-7425
     - debian_importer_v2/linux/CVE-2016-7425
     - debian_importer_v2/linux/CVE-2016-7425
@@ -43,6 +58,12 @@
     - debian_importer_v2/linux/CVE-2016-7425
     - debian_importer_v2/linux/CVE-2016-7425
     - debian_importer_v2/linux/CVE-2016-7425
+    - debian_importer_v2/linux/CVE-2016-7425
+    - debian_importer_v2/linux/CVE-2016-7425
+    - debian_importer_v2/linux/CVE-2016-7425
+    - debian_importer_v2/linux/CVE-2017-15102
+    - debian_importer_v2/linux/CVE-2017-15102
+    - debian_importer_v2/linux/CVE-2017-15102
     - debian_importer_v2/linux/CVE-2017-15102
     - debian_importer_v2/linux/CVE-2017-15102
     - debian_importer_v2/linux/CVE-2017-15102

@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2020-12351
     - debian_importer_v2/linux/CVE-2020-12351
     - debian_importer_v2/linux/CVE-2020-12351
+    - debian_importer_v2/linux/CVE-2020-12351
+    - debian_importer_v2/linux/CVE-2020-12351
+    - debian_importer_v2/linux/CVE-2020-12351
+    - debian_importer_v2/linux/CVE-2020-12352
+    - debian_importer_v2/linux/CVE-2020-12352
+    - debian_importer_v2/linux/CVE-2020-12352
     - debian_importer_v2/linux/CVE-2020-12352
     - debian_importer_v2/linux/CVE-2020-12352
     - debian_importer_v2/linux/CVE-2020-12352
@@ -22,6 +28,9 @@
     - debian_importer_v2/linux/CVE-2020-27194
     - debian_importer_v2/linux/CVE-2020-27194
     - debian_importer_v2/linux/CVE-2020-27194
+    - debian_importer_v2/linux/CVE-2020-27194
+    - debian_importer_v2/linux/CVE-2020-27194
+    - debian_importer_v2/linux/CVE-2020-27194
     - debian_importer_v2/linux/CVE-2020-28915
     - debian_importer_v2/linux/CVE-2020-28915
     - debian_importer_v2/linux/CVE-2020-28915
@@ -29,6 +38,12 @@
     - debian_importer_v2/linux/CVE-2020-28915
     - debian_importer_v2/linux/CVE-2020-28915
     - debian_importer_v2/linux/CVE-2020-28915
+    - debian_importer_v2/linux/CVE-2020-28915
+    - debian_importer_v2/linux/CVE-2020-28915
+    - debian_importer_v2/linux/CVE-2020-28915
+    - debian_importer_v2/linux/CVE-2020-36311
+    - debian_importer_v2/linux/CVE-2020-36311
+    - debian_importer_v2/linux/CVE-2020-36311
     - debian_importer_v2/linux/CVE-2020-36311
     - debian_importer_v2/linux/CVE-2020-36311
     - debian_importer_v2/linux/CVE-2020-36311

@@ -8,6 +8,12 @@
     - debian_importer_v2/linux/CVE-2015-1420
     - debian_importer_v2/linux/CVE-2015-1420
     - debian_importer_v2/linux/CVE-2015-1420
+    - debian_importer_v2/linux/CVE-2015-1420
+    - debian_importer_v2/linux/CVE-2015-1420
+    - debian_importer_v2/linux/CVE-2015-1420
+    - debian_importer_v2/linux/CVE-2015-1465
+    - debian_importer_v2/linux/CVE-2015-1465
+    - debian_importer_v2/linux/CVE-2015-1465
     - debian_importer_v2/linux/CVE-2015-1465
     - debian_importer_v2/linux/CVE-2015-1465
     - debian_importer_v2/linux/CVE-2015-1465
@@ -22,6 +28,9 @@
     - debian_importer_v2/linux/CVE-2015-1593
     - debian_importer_v2/linux/CVE-2015-1593
     - debian_importer_v2/linux/CVE-2015-1593
+    - debian_importer_v2/linux/CVE-2015-1593
+    - debian_importer_v2/linux/CVE-2015-1593
+    - debian_importer_v2/linux/CVE-2015-1593
     - debian_importer_v2/linux/CVE-2015-9004
     - debian_importer_v2/linux/CVE-2015-9004
     - debian_importer_v2/linux/CVE-2015-9004
@@ -29,6 +38,12 @@
     - debian_importer_v2/linux/CVE-2015-9004
     - debian_importer_v2/linux/CVE-2015-9004
     - debian_importer_v2/linux/CVE-2015-9004
+    - debian_importer_v2/linux/CVE-2015-9004
+    - debian_importer_v2/linux/CVE-2015-9004
+    - debian_importer_v2/linux/CVE-2015-9004
+    - debian_importer_v2/linux/TEMP-0000000-3D1157
+    - debian_importer_v2/linux/TEMP-0000000-3D1157
+    - debian_importer_v2/linux/TEMP-0000000-3D1157
     - debian_importer_v2/linux/TEMP-0000000-3D1157
     - debian_importer_v2/linux/TEMP-0000000-3D1157
     - debian_importer_v2/linux/TEMP-0000000-3D1157

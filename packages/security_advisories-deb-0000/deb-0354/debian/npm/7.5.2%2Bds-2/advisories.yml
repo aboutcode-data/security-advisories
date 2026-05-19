@@ -23,6 +23,11 @@
     - debian_importer_v2/npm/CVE-2021-39134
     - debian_importer_v2/npm/CVE-2021-39134
     - debian_importer_v2/npm/CVE-2021-39134
+    - debian_importer_v2/npm/CVE-2021-39134
+    - debian_importer_v2/npm/CVE-2021-39134
+    - debian_importer_v2/npm/CVE-2021-39134
+    - debian_importer_v2/npm/CVE-2021-39134
+    - debian_importer_v2/npm/CVE-2021-39134
     - debian_importer_v2/npm/CVE-2021-39135
     - debian_importer_v2/npm/CVE-2021-39135
     - debian_importer_v2/npm/CVE-2021-39135
@@ -46,6 +51,16 @@
     - debian_importer_v2/npm/CVE-2021-39135
     - debian_importer_v2/npm/CVE-2021-39135
     - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-39135
+    - debian_importer_v2/npm/CVE-2021-43616
+    - debian_importer_v2/npm/CVE-2021-43616
+    - debian_importer_v2/npm/CVE-2021-43616
+    - debian_importer_v2/npm/CVE-2021-43616
+    - debian_importer_v2/npm/CVE-2021-43616
     - debian_importer_v2/npm/CVE-2021-43616
     - debian_importer_v2/npm/CVE-2021-43616
     - debian_importer_v2/npm/CVE-2021-43616
@@ -75,6 +90,8 @@
     - debian_importer_v2/npm/CVE-2013-4116
     - debian_importer_v2/npm/CVE-2013-4116
     - debian_importer_v2/npm/CVE-2013-4116
+    - debian_importer_v2/npm/CVE-2013-4116
+    - debian_importer_v2/npm/CVE-2016-3956
     - debian_importer_v2/npm/CVE-2016-3956
     - debian_importer_v2/npm/CVE-2016-3956
     - debian_importer_v2/npm/CVE-2016-3956
@@ -85,6 +102,8 @@
     - debian_importer_v2/npm/CVE-2018-7408
     - debian_importer_v2/npm/CVE-2018-7408
     - debian_importer_v2/npm/CVE-2018-7408
+    - debian_importer_v2/npm/CVE-2018-7408
+    - debian_importer_v2/npm/CVE-2019-16775
     - debian_importer_v2/npm/CVE-2019-16775
     - debian_importer_v2/npm/CVE-2019-16775
     - debian_importer_v2/npm/CVE-2019-16775
@@ -95,11 +114,14 @@
     - debian_importer_v2/npm/CVE-2019-16776
     - debian_importer_v2/npm/CVE-2019-16776
     - debian_importer_v2/npm/CVE-2019-16776
+    - debian_importer_v2/npm/CVE-2019-16776
     - debian_importer_v2/npm/CVE-2019-16777
     - debian_importer_v2/npm/CVE-2019-16777
     - debian_importer_v2/npm/CVE-2019-16777
     - debian_importer_v2/npm/CVE-2019-16777
     - debian_importer_v2/npm/CVE-2019-16777
+    - debian_importer_v2/npm/CVE-2019-16777
+    - debian_importer_v2/npm/CVE-2020-15095
     - debian_importer_v2/npm/CVE-2020-15095
     - debian_importer_v2/npm/CVE-2020-15095
     - debian_importer_v2/npm/CVE-2020-15095

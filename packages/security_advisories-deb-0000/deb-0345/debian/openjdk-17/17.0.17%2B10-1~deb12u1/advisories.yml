@@ -352,6 +352,8 @@
     - debian_importer_v2/openjdk-17/CVE-2025-53057
     - debian_importer_v2/openjdk-17/CVE-2025-53057
     - debian_importer_v2/openjdk-17/CVE-2025-53057
+    - debian_importer_v2/openjdk-17/CVE-2025-53057
+    - debian_importer_v2/openjdk-17/CVE-2025-53066
     - debian_importer_v2/openjdk-17/CVE-2025-53066
     - debian_importer_v2/openjdk-17/CVE-2025-53066
     - debian_importer_v2/openjdk-17/CVE-2025-53066
@@ -373,10 +375,17 @@
     - debian_importer_v2/openjdk-17/CVE-2026-21945
     - debian_importer_v2/openjdk-17/CVE-2026-21945
     - debian_importer_v2/openjdk-17/CVE-2026-22007
+    - debian_importer_v2/openjdk-17/CVE-2026-22007
+    - debian_importer_v2/openjdk-17/CVE-2026-22013
     - debian_importer_v2/openjdk-17/CVE-2026-22013
     - debian_importer_v2/openjdk-17/CVE-2026-22016
+    - debian_importer_v2/openjdk-17/CVE-2026-22016
+    - debian_importer_v2/openjdk-17/CVE-2026-22018
     - debian_importer_v2/openjdk-17/CVE-2026-22018
     - debian_importer_v2/openjdk-17/CVE-2026-22020
     - debian_importer_v2/openjdk-17/CVE-2026-22021
+    - debian_importer_v2/openjdk-17/CVE-2026-22021
     - debian_importer_v2/openjdk-17/CVE-2026-34268
+    - debian_importer_v2/openjdk-17/CVE-2026-34268
+    - debian_importer_v2/openjdk-17/CVE-2026-34282
     - debian_importer_v2/openjdk-17/CVE-2026-34282

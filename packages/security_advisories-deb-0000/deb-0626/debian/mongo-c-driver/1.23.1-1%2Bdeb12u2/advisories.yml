@@ -27,6 +27,8 @@
     - debian_importer_v2/mongo-c-driver/CVE-2026-6231
     - debian_importer_v2/mongo-c-driver/CVE-2026-6691
     - debian_importer_v2/mongo-c-driver/CVE-2026-6691
+    - debian_importer_v2/mongo-c-driver/CVE-2026-6691
+    - debian_importer_v2/mongo-c-driver/CVE-2026-6691
   fixing_advisories:
     - debian_importer_v2/mongo-c-driver/CVE-2018-16790
     - debian_importer_v2/mongo-c-driver/CVE-2018-16790
@@ -58,6 +60,7 @@
     - debian_importer_v2/mongo-c-driver/CVE-2025-0755
     - debian_importer_v2/mongo-c-driver/CVE-2025-0755
     - debian_importer_v2/mongo-c-driver/CVE-2025-0755
+    - debian_importer_v2/mongo-c-driver/CVE-2025-12119
     - debian_importer_v2/mongo-c-driver/CVE-2025-12119
     - debian_importer_v2/mongo-c-driver/CVE-2025-12119
     - debian_importer_v2/mongo-c-driver/CVE-2025-12119

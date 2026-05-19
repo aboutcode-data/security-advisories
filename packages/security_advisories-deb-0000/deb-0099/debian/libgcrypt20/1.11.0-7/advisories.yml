@@ -2,6 +2,9 @@
   affected_by_advisories:
     - debian_importer_v2/libgcrypt20/CVE-2026-41989
     - debian_importer_v2/libgcrypt20/CVE-2026-41989
+    - debian_importer_v2/libgcrypt20/CVE-2026-41989
+    - debian_importer_v2/libgcrypt20/CVE-2026-41989
+    - debian_importer_v2/libgcrypt20/CVE-2026-41989
     - debian_importer_v2/libgcrypt20/TEMP-0000000-C4058C
   fixing_advisories:
     - debian_importer_v2/libgcrypt20/CVE-2014-3591

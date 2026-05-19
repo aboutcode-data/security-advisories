@@ -3,5 +3,9 @@
   fixing_advisories:
     - debian_importer_v2/mapserver/CVE-2009-0840
     - debian_importer_v2/mapserver/CVE-2009-0840
+    - debian_importer_v2/mapserver/CVE-2009-0840
+    - debian_importer_v2/mapserver/CVE-2009-0840
+    - debian_importer_v2/mapserver/CVE-2009-2281
+    - debian_importer_v2/mapserver/CVE-2009-2281
     - debian_importer_v2/mapserver/CVE-2009-2281
     - debian_importer_v2/mapserver/CVE-2009-2281

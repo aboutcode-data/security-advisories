@@ -26,6 +26,18 @@
     - debian_importer_v2/orthanc/CVE-2024-22725
     - debian_importer_v2/orthanc/CVE-2024-22725
     - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2024-22725
+    - debian_importer_v2/orthanc/CVE-2026-5437
+    - debian_importer_v2/orthanc/CVE-2026-5437
+    - debian_importer_v2/orthanc/CVE-2026-5437
+    - debian_importer_v2/orthanc/CVE-2026-5437
+    - debian_importer_v2/orthanc/CVE-2026-5437
     - debian_importer_v2/orthanc/CVE-2026-5437
     - debian_importer_v2/orthanc/CVE-2026-5437
     - debian_importer_v2/orthanc/CVE-2026-5437
@@ -52,6 +64,16 @@
     - debian_importer_v2/orthanc/CVE-2026-5438
     - debian_importer_v2/orthanc/CVE-2026-5438
     - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5438
+    - debian_importer_v2/orthanc/CVE-2026-5439
+    - debian_importer_v2/orthanc/CVE-2026-5439
+    - debian_importer_v2/orthanc/CVE-2026-5439
+    - debian_importer_v2/orthanc/CVE-2026-5439
+    - debian_importer_v2/orthanc/CVE-2026-5439
     - debian_importer_v2/orthanc/CVE-2026-5439
     - debian_importer_v2/orthanc/CVE-2026-5439
     - debian_importer_v2/orthanc/CVE-2026-5439
@@ -78,6 +100,16 @@
     - debian_importer_v2/orthanc/CVE-2026-5440
     - debian_importer_v2/orthanc/CVE-2026-5440
     - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5440
+    - debian_importer_v2/orthanc/CVE-2026-5441
+    - debian_importer_v2/orthanc/CVE-2026-5441
+    - debian_importer_v2/orthanc/CVE-2026-5441
+    - debian_importer_v2/orthanc/CVE-2026-5441
+    - debian_importer_v2/orthanc/CVE-2026-5441
     - debian_importer_v2/orthanc/CVE-2026-5441
     - debian_importer_v2/orthanc/CVE-2026-5441
     - debian_importer_v2/orthanc/CVE-2026-5441
@@ -104,6 +136,16 @@
     - debian_importer_v2/orthanc/CVE-2026-5442
     - debian_importer_v2/orthanc/CVE-2026-5442
     - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5442
+    - debian_importer_v2/orthanc/CVE-2026-5443
+    - debian_importer_v2/orthanc/CVE-2026-5443
+    - debian_importer_v2/orthanc/CVE-2026-5443
+    - debian_importer_v2/orthanc/CVE-2026-5443
+    - debian_importer_v2/orthanc/CVE-2026-5443
     - debian_importer_v2/orthanc/CVE-2026-5443
     - debian_importer_v2/orthanc/CVE-2026-5443
     - debian_importer_v2/orthanc/CVE-2026-5443
@@ -130,6 +172,16 @@
     - debian_importer_v2/orthanc/CVE-2026-5444
     - debian_importer_v2/orthanc/CVE-2026-5444
     - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5444
+    - debian_importer_v2/orthanc/CVE-2026-5445
+    - debian_importer_v2/orthanc/CVE-2026-5445
+    - debian_importer_v2/orthanc/CVE-2026-5445
+    - debian_importer_v2/orthanc/CVE-2026-5445
+    - debian_importer_v2/orthanc/CVE-2026-5445
     - debian_importer_v2/orthanc/CVE-2026-5445
     - debian_importer_v2/orthanc/CVE-2026-5445
     - debian_importer_v2/orthanc/CVE-2026-5445
@@ -151,6 +203,8 @@
     - debian_importer_v2/orthanc/CVE-2023-33466
     - debian_importer_v2/orthanc/CVE-2023-33466
     - debian_importer_v2/orthanc/CVE-2023-33466
+    - debian_importer_v2/orthanc/CVE-2023-33466
+    - debian_importer_v2/orthanc/CVE-2023-33466
     - debian_importer_v2/orthanc/CVE-2025-0896
     - debian_importer_v2/orthanc/CVE-2025-0896
     - debian_importer_v2/orthanc/CVE-2025-0896
@@ -158,6 +212,10 @@
     - debian_importer_v2/orthanc/CVE-2025-0896
     - debian_importer_v2/orthanc/CVE-2025-0896
     - debian_importer_v2/orthanc/CVE-2025-0896
+    - debian_importer_v2/orthanc/CVE-2025-0896
+    - debian_importer_v2/orthanc/CVE-2025-0896
+    - debian_importer_v2/orthanc/CVE-2025-15581
+    - debian_importer_v2/orthanc/CVE-2025-15581
     - debian_importer_v2/orthanc/CVE-2025-15581
     - debian_importer_v2/orthanc/CVE-2025-15581
     - debian_importer_v2/orthanc/CVE-2025-15581
