@@ -1,0 +1,4 @@
+- purl: pkg:nuget/Microsoft.WindowsDesktop.App.Runtime.win-x64@8.0.27
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-8x9c-mqxv-q2pp

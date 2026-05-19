@@ -2,5 +2,8 @@
   affected_by_advisories: []
   fixing_advisories:
     - github_osv_importer_v2/GHSA-2cjr-5v3h-v2w4
+    - github_osv_importer_v2/GHSA-2cjr-5v3h-v2w4
     - github_osv_importer_v2/GHSA-j5w5-568x-rq53
+    - github_osv_importer_v2/GHSA-j5w5-568x-rq53
+    - github_osv_importer_v2/GHSA-r466-rxw4-3j9j
     - github_osv_importer_v2/GHSA-r466-rxw4-3j9j
