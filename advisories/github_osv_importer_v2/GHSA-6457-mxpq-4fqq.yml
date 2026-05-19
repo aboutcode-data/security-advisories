@@ -1,7 +1,8 @@
 advisory_id: GHSA-6457-mxpq-4fqq
 datasource_id: github_osv_importer_v2/GHSA-6457-mxpq-4fqq
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-6457-mxpq-4fqq/GHSA-6457-mxpq-4fqq.json
-aliases: []
+aliases:
+  - CVE-2026-41692
 summary: |
   i18nextify has DOM XSS via javascript:/data: URL schemes in translated href/src attributes
   ### Summary
@@ -65,3 +66,9 @@ references:
   - url: https://github.com/i18next/i18nextify/security/advisories/GHSA-6457-mxpq-4fqq
     reference_type:
     reference_id:
+  - url: https://github.com/i18next/i18nextify/commit/16f23dbcdcf893673587f7a03355bf7ce0a0e49e
+    reference_type: other
+    reference_id: 16f23dbcdcf893673587f7a03355bf7ce0a0e49e
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41692
+    reference_type:
+    reference_id: CVE-2026-41692

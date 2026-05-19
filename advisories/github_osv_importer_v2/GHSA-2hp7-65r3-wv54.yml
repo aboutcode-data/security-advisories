@@ -1,7 +1,8 @@
 advisory_id: GHSA-2hp7-65r3-wv54
 datasource_id: github_osv_importer_v2/GHSA-2hp7-65r3-wv54
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-2hp7-65r3-wv54/GHSA-2hp7-65r3-wv54.json
-aliases: []
+aliases:
+  - CVE-2026-42072
 summary: |
   NornicDB has Improper Network Binding in its Bolt Server, allowing unauthorized remote access
   ## Summary
@@ -110,3 +111,9 @@ references:
   - url: https://github.com/orneryd/NornicDB/security/advisories/GHSA-2hp7-65r3-wv54
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-42072
+    reference_type:
+    reference_id: CVE-2026-42072
+  - url: https://github.com/orneryd/NornicDB/releases/tag/v1.0.42
+    reference_type: other
+    reference_id: v1.0.42

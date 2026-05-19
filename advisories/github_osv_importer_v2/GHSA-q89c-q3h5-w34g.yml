@@ -1,7 +1,8 @@
 advisory_id: GHSA-q89c-q3h5-w34g
 datasource_id: github_osv_importer_v2/GHSA-q89c-q3h5-w34g
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-q89c-q3h5-w34g/GHSA-q89c-q3h5-w34g.json
-aliases: []
+aliases:
+  - CVE-2026-41691
 summary: |
   i18next-http-backend has Path Traversal & URL Injection via Unsanitised lng/ns
   ### Summary
@@ -80,3 +81,9 @@ references:
   - url: https://github.com/i18next/i18next-http-backend/security/advisories/GHSA-q89c-q3h5-w34g
     reference_type:
     reference_id:
+  - url: https://github.com/i18next/i18next-http-backend/commit/4cee84f229c637b9c182366d3156f726d407a621
+    reference_type: other
+    reference_id: 4cee84f229c637b9c182366d3156f726d407a621
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41691
+    reference_type:
+    reference_id: CVE-2026-41691

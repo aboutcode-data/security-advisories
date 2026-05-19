@@ -1,7 +1,8 @@
 advisory_id: GHSA-vqx2-fgx2-5wq9
 datasource_id: github_osv_importer_v2/GHSA-vqx2-fgx2-5wq9
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-vqx2-fgx2-5wq9/GHSA-vqx2-fgx2-5wq9.json
-aliases: []
+aliases:
+  - CVE-2026-41248
 summary: |
   Official Clerk JavaScript SDKs: Middleware-based route protection bypass
   ## Summary
@@ -79,6 +80,11 @@ summary: |
 
   Thanks to [Christiaan Swiers](https://github.com/YouGina) for the responsible disclosure of this vulnerability.
 impacted_packages:
+  - purl: pkg:npm/%40clerk/nextjs
+    affected_versions: vers:npm/>=5.0.0|<5.7.6
+    fixed_versions: vers:npm/5.7.6
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:npm/%40clerk/nuxt
     affected_versions: vers:npm/>=1.1.0|<1.13.28
     fixed_versions: vers:npm/1.13.28
@@ -119,11 +125,6 @@ impacted_packages:
     fixed_versions: vers:npm/3.0.15
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:npm/%40clerk/nextjs
-    affected_versions: vers:npm/>=5.0.0|<5.7.6
-    fixed_versions: vers:npm/5.7.6
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:npm/%40clerk/shared
     affected_versions: vers:npm/>=3.0.0-canary.v20250225091530|<3.47.4
     fixed_versions: vers:npm/3.47.4
@@ -155,3 +156,6 @@ references:
   - url: https://github.com/clerk/javascript/security/advisories/GHSA-vqx2-fgx2-5wq9
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41248
+    reference_type:
+    reference_id: CVE-2026-41248

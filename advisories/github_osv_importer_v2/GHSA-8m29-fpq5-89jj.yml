@@ -1,10 +1,11 @@
 advisory_id: GHSA-8m29-fpq5-89jj
 datasource_id: github_osv_importer_v2/GHSA-8m29-fpq5-89jj
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-8m29-fpq5-89jj/GHSA-8m29-fpq5-89jj.json
-aliases: []
+aliases:
+  - CVE-2026-41583
 summary: |
   Zebra Vulnerable to Consensus Divergence in Transparent Sighash Hash-Type Handling
-  # Consensus Divergence in Transparent Sighash Hash-Type Handling
+  # CVE-2026-41583: Consensus Divergence in Transparent Sighash Hash-Type Handling
 
   ## Summary
 
@@ -56,6 +57,11 @@ summary: |
   Thanks Alex “Scalar” Sol for finding and reporting the issue, and to @sangsoo-osec who independently found the same issue and demonstrated that the V4 variant was also exploitable.
 impacted_packages: []
 severities:
+  - score: '9.1'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:H
+    published_at: None
+    url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-8m29-fpq5-89jj/GHSA-8m29-fpq5-89jj.json
   - score: '9.3'
     scoring_system: cvssv4
     scoring_elements: CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:H/VA:H/SC:N/SI:H/SA:H
@@ -72,6 +78,12 @@ references:
   - url: https://github.com/ZcashFoundation/zebra
     reference_type:
     reference_id:
+  - url: https://github.com/ZcashFoundation/zebra/commit/1f605eca5c55e3b65229fa01a97d9aa84fd37447
+    reference_type:
+    reference_id:
   - url: https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-8m29-fpq5-89jj
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41583
+    reference_type:
+    reference_id: CVE-2026-41583

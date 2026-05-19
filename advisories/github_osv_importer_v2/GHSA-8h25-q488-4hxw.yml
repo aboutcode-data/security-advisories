@@ -41,3 +41,9 @@ references:
   - url: https://github.com/th30d4y/OpenLearnX/security/advisories/GHSA-8h25-q488-4hxw
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41900
+    reference_type:
+    reference_id: CVE-2026-41900
+  - url: https://github.com/th30d4y/OpenLearnX/releases/tag/v2.0.3-security-fix
+    reference_type: other
+    reference_id: v2.0.3-security-fix

@@ -1,7 +1,8 @@
 advisory_id: GHSA-29x4-r6jv-ff4w
 datasource_id: github_osv_importer_v2/GHSA-29x4-r6jv-ff4w
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-29x4-r6jv-ff4w/GHSA-29x4-r6jv-ff4w.json
-aliases: []
+aliases:
+  - CVE-2026-41585
 summary: |
   Zebra Vulnerable to Denial of Service via Interrupted JSON-RPC Requests from Authenticated Clients
   A vulnerability in Zebra's JSON-RPC HTTP middleware allows an authenticated RPC client to cause a Zebra node to crash by disconnecting before the request body is fully received. The node treats the failure to read the HTTP request body as an unrecoverable error and aborts the process instead of returning an error response.
@@ -40,6 +41,11 @@ summary: |
   Thanks to [shieldedonly](https://github.com/shieldedonly) who discovered this issue and reported it via our coordinated disclosure process.
 impacted_packages: []
 severities:
+  - score: '6.5'
+    scoring_system: cvssv3.1
+    scoring_elements: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H
+    published_at: None
+    url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-29x4-r6jv-ff4w/GHSA-29x4-r6jv-ff4w.json
   - score: '6.9'
     scoring_system: cvssv4
     scoring_elements: CVSS:4.0/AV:N/AC:L/AT:P/PR:H/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H
@@ -60,3 +66,6 @@ references:
   - url: https://github.com/ZcashFoundation/zebra/security/advisories/GHSA-29x4-r6jv-ff4w
     reference_type:
     reference_id:
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-41585
+    reference_type:
+    reference_id: CVE-2026-41585

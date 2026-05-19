@@ -1,7 +1,8 @@
 advisory_id: GHSA-h6hf-9846-xwrq
 datasource_id: github_osv_importer_v2/GHSA-h6hf-9846-xwrq
 datasource_url: https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2026/04/GHSA-h6hf-9846-xwrq/GHSA-h6hf-9846-xwrq.json
-aliases: []
+aliases:
+  - CVE-2026-42181
 summary: |
   Lemmy has SSRF and internal image disclosure in post link metadata via unvalidated og:image
   ### Summary
@@ -135,3 +136,9 @@ references:
   - url: https://join-lemmy.org/news/2026-04-20_-_Lemmy_Release_v0.19.18
     reference_type:
     reference_id:
+  - url: https://github.com/LemmyNet/lemmy/releases/tag/0.19.18
+    reference_type: other
+    reference_id: 0.19.18
+  - url: https://nvd.nist.gov/vuln/detail/CVE-2026-42181
+    reference_type:
+    reference_id: CVE-2026-42181

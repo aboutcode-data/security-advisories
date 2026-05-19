@@ -97,6 +97,7 @@ severities:
 weaknesses:
   - CWE-200
   - CWE-215
+  - CWE-522
 references:
   - url: https://github.com/dgraph-io/dgraph
     reference_type:
