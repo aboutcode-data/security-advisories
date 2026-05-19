@@ -2,3 +2,4 @@
   affected_by_advisories: []
   fixing_advisories:
     - github_osv_importer_v2/GHSA-pfm2-2mhg-8wpx
+    - github_osv_importer_v2/GHSA-pfm2-2mhg-8wpx

@@ -1,0 +1,5 @@
+- purl: pkg:npm/n8n@2.21.1
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-6h4j-wcr9-2vg7
+    - github_osv_importer_v2/GHSA-mhrx-qhrj-673w
