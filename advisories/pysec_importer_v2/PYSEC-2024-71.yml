@@ -4,6 +4,7 @@ datasource_url: https://osv-vulnerabilities.storage.googleapis.com/PyPI/all.zip
 aliases:
   - CVE-2024-6221
   - GHSA-hxwh-jpp2-84pm
+  - PYSEC-2024-260
 summary: A vulnerability in corydolphin/flask-cors up to version 4.0.1 allows the `Access-Control-Allow-Private-Network`
   CORS header to be set to true by default, without any configuration option. This behavior
   can expose private network resources to unauthorized external access, leading to significant
