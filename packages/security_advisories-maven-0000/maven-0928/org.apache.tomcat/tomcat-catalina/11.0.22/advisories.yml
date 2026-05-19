@@ -1,0 +1,8 @@
+- purl: pkg:maven/org.apache.tomcat/tomcat-catalina@11.0.22
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-5mp6-jrq3-r938
+    - github_osv_importer_v2/GHSA-fv25-8xcx-gqjc
+    - github_osv_importer_v2/GHSA-gx5v-xp9w-j4cg
+    - github_osv_importer_v2/GHSA-h6fc-48rj-7qqh
+    - github_osv_importer_v2/GHSA-r29c-68gh-xp6x

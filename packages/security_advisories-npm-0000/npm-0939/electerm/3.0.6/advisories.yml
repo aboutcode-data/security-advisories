@@ -1,4 +1,5 @@
 - purl: pkg:npm/electerm@3.0.6
   affected_by_advisories:
+    - github_osv_importer_v2/GHSA-mpm8-cx2p-626q
     - github_osv_importer_v2/GHSA-wxw2-rwmh-vr8f
   fixing_advisories: []

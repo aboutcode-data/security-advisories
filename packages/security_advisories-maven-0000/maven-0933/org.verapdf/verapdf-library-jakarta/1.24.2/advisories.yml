@@ -5,5 +5,6 @@
     - gitlab_importer_v2/maven/org.verapdf/verapdf-library-jakarta/CVE-2024-52800
   fixing_advisories:
     - github_osv_importer_v2/GHSA-qxqf-2mfx-x8jw
+    - github_osv_importer_v2/GHSA-qxqf-2mfx-x8jw
     - gitlab_importer_v2/maven/org.verapdf/verapdf-library-jakarta/CVE-2024-28109
     - gitlab_importer_v2/maven/org.verapdf/verapdf-library-jakarta/CVE-2024-28109
