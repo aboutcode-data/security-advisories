@@ -20,3 +20,4 @@
     - gitlab_importer_v2/pypi/protobuf/CVE-2015-5237
     - pypa_importer_v2/protobuf/PYSEC-2017-65
     - pysec_importer_v2/PYSEC-2017-65
+    - pysec_importer_v2/PYSEC-2017-65

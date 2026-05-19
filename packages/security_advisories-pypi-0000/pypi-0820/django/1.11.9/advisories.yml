@@ -104,5 +104,6 @@
     - pysec_importer_v2/PYSEC-2019-9
     - pysec_importer_v2/PYSEC-2020-35
     - pysec_importer_v2/PYSEC-2020-36
+    - pysec_importer_v2/PYSEC-2020-36
     - pysec_importer_v2/PYSEC-2021-98
   fixing_advisories: []

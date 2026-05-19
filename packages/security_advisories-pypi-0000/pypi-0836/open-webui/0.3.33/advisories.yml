@@ -34,6 +34,7 @@
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-29071
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-34222
   fixing_advisories:
+    - github_osv_importer_v2/GHSA-6xcp-7mpr-m7wm
     - github_osv_importer_v2/GHSA-85jc-8h5p-8vw8
     - gitlab_importer_v2/pypi/open-webui/CVE-2024-7806
     - gitlab_importer_v2/pypi/open-webui/CVE-2024-7806

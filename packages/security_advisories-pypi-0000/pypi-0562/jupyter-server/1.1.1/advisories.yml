@@ -36,3 +36,4 @@
     - gitlab_importer_v2/pypi/jupyter-server/CVE-2020-26275
     - pypa_importer_v2/jupyter-server/PYSEC-2020-50
     - pysec_importer_v2/PYSEC-2020-50
+    - pysec_importer_v2/PYSEC-2020-50

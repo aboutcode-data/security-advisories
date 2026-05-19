@@ -29,3 +29,4 @@
     - gitlab_importer_v2/pypi/Django/CVE-2020-9402
     - pypa_importer_v2/django/PYSEC-2020-36
     - pysec_importer_v2/PYSEC-2020-36
+    - pysec_importer_v2/PYSEC-2020-36

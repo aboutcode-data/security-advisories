@@ -86,6 +86,7 @@
     - pysec_importer_v2/PYSEC-2019-9
     - pysec_importer_v2/PYSEC-2020-35
     - pysec_importer_v2/PYSEC-2020-36
+    - pysec_importer_v2/PYSEC-2020-36
     - pysec_importer_v2/PYSEC-2021-98
   fixing_advisories:
     - github_osv_importer_v2/GHSA-5hg3-6c2f-f3wr

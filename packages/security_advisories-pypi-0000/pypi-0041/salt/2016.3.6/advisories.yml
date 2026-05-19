@@ -123,6 +123,7 @@
     - pypa_importer_v2/salt/PYSEC-2023-169
     - pypa_importer_v2/salt/PYSEC-2023-47
     - pysec_importer_v2/PYSEC-2017-35
+    - pysec_importer_v2/PYSEC-2017-35
     - pysec_importer_v2/PYSEC-2017-36
     - pysec_importer_v2/PYSEC-2017-37
     - pysec_importer_v2/PYSEC-2018-29

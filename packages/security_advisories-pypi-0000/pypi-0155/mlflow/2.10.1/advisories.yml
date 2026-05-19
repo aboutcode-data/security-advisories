@@ -104,6 +104,7 @@
     - pysec_importer_v2/PYSEC-2024-244
     - pysec_importer_v2/PYSEC-2025-17
     - pysec_importer_v2/PYSEC-2025-52
+    - pysec_importer_v2/PYSEC-2025-52
   fixing_advisories:
     - github_osv_importer_v2/GHSA-p4jx-q62p-x5jr
     - gitlab_importer_v2/pypi/mlflow/CVE-2024-4263

@@ -216,6 +216,7 @@
     - pysec_importer_v2/PYSEC-2024-51
     - pysec_importer_v2/PYSEC-2025-17
     - pysec_importer_v2/PYSEC-2025-52
+    - pysec_importer_v2/PYSEC-2025-52
   fixing_advisories:
     - github_osv_importer_v2/GHSA-vqj2-4v8m-8vrq
     - gitlab_importer_v2/pypi/mlflow/CVE-2022-0736

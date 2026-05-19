@@ -32,6 +32,7 @@
     - pypa_importer_v2/django/PYSEC-2021-98
     - pysec_importer_v2/PYSEC-2020-35
     - pysec_importer_v2/PYSEC-2020-36
+    - pysec_importer_v2/PYSEC-2020-36
     - pysec_importer_v2/PYSEC-2021-98
   fixing_advisories:
     - github_osv_importer_v2/GHSA-vfq6-hq5r-27r6

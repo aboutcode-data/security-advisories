@@ -22,4 +22,5 @@
     - pypa_importer_v2/flask-cors/PYSEC-2024-71
     - pysec_importer_v2/PYSEC-2020-43
     - pysec_importer_v2/PYSEC-2024-71
+    - pysec_importer_v2/PYSEC-2024-71
   fixing_advisories: []

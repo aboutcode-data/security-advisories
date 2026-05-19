@@ -182,3 +182,4 @@
     - gitlab_importer_v2/pypi/salt/CVE-2017-12791
     - pypa_importer_v2/salt/PYSEC-2017-35
     - pysec_importer_v2/PYSEC-2017-35
+    - pysec_importer_v2/PYSEC-2017-35

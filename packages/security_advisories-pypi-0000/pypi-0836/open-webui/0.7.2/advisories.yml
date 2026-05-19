@@ -4,6 +4,8 @@
     - github_osv_importer_v2/GHSA-7429-hxcv-268m
     - github_osv_importer_v2/GHSA-7429-hxcv-268m
     - github_osv_importer_v2/GHSA-jjp7-g2jw-wh3j
+    - github_osv_importer_v2/GHSA-jwf8-pv5p-vhmc
+    - github_osv_importer_v2/GHSA-m69w-p7m4-585j
     - github_osv_importer_v2/GHSA-vvxm-vxmr-624h
     - github_osv_importer_v2/GHSA-w9f8-gxf9-rhvw
     - gitlab_importer_v2/pypi/open-webui/CVE-2026-28786

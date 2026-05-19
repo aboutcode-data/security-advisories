@@ -16,3 +16,4 @@
     - gitlab_importer_v2/pypi/fava/CVE-2022-2514
     - pypa_importer_v2/fava/PYSEC-2022-239
     - pysec_importer_v2/PYSEC-2022-239
+    - pysec_importer_v2/PYSEC-2022-239

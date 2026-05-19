@@ -1,0 +1,8 @@
+- purl: pkg:pypi/open-webui@0.9.3
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-3856-3vxq-m6fc
+    - github_osv_importer_v2/GHSA-hcwp-82g6-8wxc
+    - github_osv_importer_v2/GHSA-j6w6-986j-2m2m
+    - github_osv_importer_v2/GHSA-jx2x-j75f-xq3j
+    - github_osv_importer_v2/GHSA-m8f9-9whg-f4xr

@@ -212,6 +212,7 @@
     - pysec_importer_v2/PYSEC-2024-51
     - pysec_importer_v2/PYSEC-2025-17
     - pysec_importer_v2/PYSEC-2025-52
+    - pysec_importer_v2/PYSEC-2025-52
   fixing_advisories:
     - github_osv_importer_v2/GHSA-wp72-7hj9-5265
     - github_osv_importer_v2/GHSA-xg73-94fp-g449

@@ -15,3 +15,4 @@
     - gitlab_importer_v2/pypi/flask-cors/CVE-2024-6221
     - pypa_importer_v2/flask-cors/PYSEC-2024-71
     - pysec_importer_v2/PYSEC-2024-71
+    - pysec_importer_v2/PYSEC-2024-71

@@ -5,4 +5,5 @@
     - gitlab_importer_v2/pypi/py/CVE-2022-42969
     - pypa_importer_v2/py/PYSEC-2022-42969
     - pysec_importer_v2/PYSEC-2022-42969
+    - pysec_importer_v2/PYSEC-2022-42969
   fixing_advisories: []

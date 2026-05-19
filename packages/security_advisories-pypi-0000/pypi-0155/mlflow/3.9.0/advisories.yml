@@ -5,4 +5,6 @@
     - github_osv_importer_v2/GHSA-7qhf-v65m-g5f3
     - github_osv_importer_v2/GHSA-fh64-r2vc-xvhr
     - github_osv_importer_v2/GHSA-fh64-r2vc-xvhr
-  fixing_advisories: []
+    - gitlab_importer_v2/pypi/mlflow/CVE-2026-0545
+  fixing_advisories:
+    - github_osv_importer_v2/GHSA-65h7-c7c4-mghx

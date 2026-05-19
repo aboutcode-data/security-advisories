@@ -20,4 +20,5 @@
     - gitlab_importer_v2/pypi/flask-cors/CVE-2024-6866
     - pysec_importer_v2/PYSEC-2020-43
     - pysec_importer_v2/PYSEC-2024-71
+    - pysec_importer_v2/PYSEC-2024-71
   fixing_advisories: []
