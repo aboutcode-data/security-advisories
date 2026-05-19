@@ -30,6 +30,7 @@
     - debian_importer_v2/tomcat10/CVE-2025-48988
     - debian_importer_v2/tomcat10/CVE-2025-48989
     - debian_importer_v2/tomcat10/CVE-2025-48989
+    - debian_importer_v2/tomcat10/CVE-2025-48989
     - debian_importer_v2/tomcat10/CVE-2025-49124
     - debian_importer_v2/tomcat10/CVE-2025-49125
     - debian_importer_v2/tomcat10/CVE-2025-52520
@@ -39,10 +40,14 @@
     - debian_importer_v2/tomcat10/CVE-2025-55754
     - debian_importer_v2/tomcat10/CVE-2025-61795
     - debian_importer_v2/tomcat10/CVE-2025-61795
+    - debian_importer_v2/tomcat10/CVE-2025-61795
+    - debian_importer_v2/tomcat10/CVE-2025-66614
     - debian_importer_v2/tomcat10/CVE-2025-66614
     - debian_importer_v2/tomcat10/CVE-2025-66614
     - debian_importer_v2/tomcat10/CVE-2026-24733
     - debian_importer_v2/tomcat10/CVE-2026-24733
+    - debian_importer_v2/tomcat10/CVE-2026-24733
+    - debian_importer_v2/tomcat10/CVE-2026-24734
     - debian_importer_v2/tomcat10/CVE-2026-24734
     - debian_importer_v2/tomcat10/CVE-2026-24734
     - debian_importer_v2/tomcat10/CVE-2026-34486

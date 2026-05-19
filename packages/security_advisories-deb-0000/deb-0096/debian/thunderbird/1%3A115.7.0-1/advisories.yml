@@ -6,6 +6,12 @@
     - debian_importer_v2/thunderbird/CVE-2024-0741
     - debian_importer_v2/thunderbird/CVE-2024-0741
     - debian_importer_v2/thunderbird/CVE-2024-0741
+    - debian_importer_v2/thunderbird/CVE-2024-0741
+    - debian_importer_v2/thunderbird/CVE-2024-0741
+    - debian_importer_v2/thunderbird/CVE-2024-0741
+    - debian_importer_v2/thunderbird/CVE-2024-0742
+    - debian_importer_v2/thunderbird/CVE-2024-0742
+    - debian_importer_v2/thunderbird/CVE-2024-0742
     - debian_importer_v2/thunderbird/CVE-2024-0742
     - debian_importer_v2/thunderbird/CVE-2024-0742
     - debian_importer_v2/thunderbird/CVE-2024-0742
@@ -16,6 +22,12 @@
     - debian_importer_v2/thunderbird/CVE-2024-0746
     - debian_importer_v2/thunderbird/CVE-2024-0746
     - debian_importer_v2/thunderbird/CVE-2024-0746
+    - debian_importer_v2/thunderbird/CVE-2024-0746
+    - debian_importer_v2/thunderbird/CVE-2024-0746
+    - debian_importer_v2/thunderbird/CVE-2024-0746
+    - debian_importer_v2/thunderbird/CVE-2024-0747
+    - debian_importer_v2/thunderbird/CVE-2024-0747
+    - debian_importer_v2/thunderbird/CVE-2024-0747
     - debian_importer_v2/thunderbird/CVE-2024-0747
     - debian_importer_v2/thunderbird/CVE-2024-0747
     - debian_importer_v2/thunderbird/CVE-2024-0747
@@ -26,6 +38,12 @@
     - debian_importer_v2/thunderbird/CVE-2024-0749
     - debian_importer_v2/thunderbird/CVE-2024-0749
     - debian_importer_v2/thunderbird/CVE-2024-0749
+    - debian_importer_v2/thunderbird/CVE-2024-0749
+    - debian_importer_v2/thunderbird/CVE-2024-0749
+    - debian_importer_v2/thunderbird/CVE-2024-0749
+    - debian_importer_v2/thunderbird/CVE-2024-0750
+    - debian_importer_v2/thunderbird/CVE-2024-0750
+    - debian_importer_v2/thunderbird/CVE-2024-0750
     - debian_importer_v2/thunderbird/CVE-2024-0750
     - debian_importer_v2/thunderbird/CVE-2024-0750
     - debian_importer_v2/thunderbird/CVE-2024-0750
@@ -36,11 +54,20 @@
     - debian_importer_v2/thunderbird/CVE-2024-0751
     - debian_importer_v2/thunderbird/CVE-2024-0751
     - debian_importer_v2/thunderbird/CVE-2024-0751
+    - debian_importer_v2/thunderbird/CVE-2024-0751
+    - debian_importer_v2/thunderbird/CVE-2024-0751
+    - debian_importer_v2/thunderbird/CVE-2024-0751
     - debian_importer_v2/thunderbird/CVE-2024-0753
     - debian_importer_v2/thunderbird/CVE-2024-0753
     - debian_importer_v2/thunderbird/CVE-2024-0753
     - debian_importer_v2/thunderbird/CVE-2024-0753
     - debian_importer_v2/thunderbird/CVE-2024-0753
+    - debian_importer_v2/thunderbird/CVE-2024-0753
+    - debian_importer_v2/thunderbird/CVE-2024-0753
+    - debian_importer_v2/thunderbird/CVE-2024-0753
+    - debian_importer_v2/thunderbird/CVE-2024-0755
+    - debian_importer_v2/thunderbird/CVE-2024-0755
+    - debian_importer_v2/thunderbird/CVE-2024-0755
     - debian_importer_v2/thunderbird/CVE-2024-0755
     - debian_importer_v2/thunderbird/CVE-2024-0755
     - debian_importer_v2/thunderbird/CVE-2024-0755

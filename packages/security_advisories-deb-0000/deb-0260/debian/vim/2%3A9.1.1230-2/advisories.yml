@@ -13,6 +13,10 @@
     - debian_importer_v2/vim/CVE-2025-53905
     - debian_importer_v2/vim/CVE-2025-53905
     - debian_importer_v2/vim/CVE-2025-53905
+    - debian_importer_v2/vim/CVE-2025-53905
+    - debian_importer_v2/vim/CVE-2025-53905
+    - debian_importer_v2/vim/CVE-2025-53906
+    - debian_importer_v2/vim/CVE-2025-53906
     - debian_importer_v2/vim/CVE-2025-53906
     - debian_importer_v2/vim/CVE-2025-53906
     - debian_importer_v2/vim/CVE-2025-53906
@@ -49,6 +53,10 @@
     - debian_importer_v2/vim/CVE-2026-25749
     - debian_importer_v2/vim/CVE-2026-25749
     - debian_importer_v2/vim/CVE-2026-25749
+    - debian_importer_v2/vim/CVE-2026-25749
+    - debian_importer_v2/vim/CVE-2026-25749
+    - debian_importer_v2/vim/CVE-2026-26269
+    - debian_importer_v2/vim/CVE-2026-26269
     - debian_importer_v2/vim/CVE-2026-26269
     - debian_importer_v2/vim/CVE-2026-26269
     - debian_importer_v2/vim/CVE-2026-26269
@@ -75,6 +83,10 @@
     - debian_importer_v2/vim/CVE-2026-28417
     - debian_importer_v2/vim/CVE-2026-28417
     - debian_importer_v2/vim/CVE-2026-28417
+    - debian_importer_v2/vim/CVE-2026-28417
+    - debian_importer_v2/vim/CVE-2026-28417
+    - debian_importer_v2/vim/CVE-2026-28418
+    - debian_importer_v2/vim/CVE-2026-28418
     - debian_importer_v2/vim/CVE-2026-28418
     - debian_importer_v2/vim/CVE-2026-28418
     - debian_importer_v2/vim/CVE-2026-28418
@@ -101,6 +113,10 @@
     - debian_importer_v2/vim/CVE-2026-28419
     - debian_importer_v2/vim/CVE-2026-28419
     - debian_importer_v2/vim/CVE-2026-28419
+    - debian_importer_v2/vim/CVE-2026-28419
+    - debian_importer_v2/vim/CVE-2026-28419
+    - debian_importer_v2/vim/CVE-2026-28420
+    - debian_importer_v2/vim/CVE-2026-28420
     - debian_importer_v2/vim/CVE-2026-28420
     - debian_importer_v2/vim/CVE-2026-28420
     - debian_importer_v2/vim/CVE-2026-28420
@@ -127,6 +143,8 @@
     - debian_importer_v2/vim/CVE-2026-28421
     - debian_importer_v2/vim/CVE-2026-28421
     - debian_importer_v2/vim/CVE-2026-28421
+    - debian_importer_v2/vim/CVE-2026-28421
+    - debian_importer_v2/vim/CVE-2026-28421
     - debian_importer_v2/vim/CVE-2026-28422
     - debian_importer_v2/vim/CVE-2026-28422
     - debian_importer_v2/vim/CVE-2026-28422
@@ -140,6 +158,8 @@
     - debian_importer_v2/vim/CVE-2026-28422
     - debian_importer_v2/vim/CVE-2026-28422
     - debian_importer_v2/vim/CVE-2026-28422
+    - debian_importer_v2/vim/CVE-2026-28422
+    - debian_importer_v2/vim/CVE-2026-28422
     - debian_importer_v2/vim/CVE-2026-32249
     - debian_importer_v2/vim/CVE-2026-32249
     - debian_importer_v2/vim/CVE-2026-32249
@@ -165,6 +185,13 @@
     - debian_importer_v2/vim/CVE-2026-32249
     - debian_importer_v2/vim/CVE-2026-32249
     - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-32249
+    - debian_importer_v2/vim/CVE-2026-33412
+    - debian_importer_v2/vim/CVE-2026-33412
     - debian_importer_v2/vim/CVE-2026-33412
     - debian_importer_v2/vim/CVE-2026-33412
     - debian_importer_v2/vim/CVE-2026-33412
@@ -183,6 +210,8 @@
     - debian_importer_v2/vim/CVE-2026-34982
     - debian_importer_v2/vim/CVE-2026-34982
     - debian_importer_v2/vim/CVE-2026-34982
+    - debian_importer_v2/vim/CVE-2026-34982
+    - debian_importer_v2/vim/CVE-2026-34982
     - debian_importer_v2/vim/CVE-2026-35177
     - debian_importer_v2/vim/CVE-2026-35177
     - debian_importer_v2/vim/CVE-2026-35177
@@ -191,18 +220,30 @@
     - debian_importer_v2/vim/CVE-2026-35177
     - debian_importer_v2/vim/CVE-2026-35177
     - debian_importer_v2/vim/CVE-2026-35177
+    - debian_importer_v2/vim/CVE-2026-35177
+    - debian_importer_v2/vim/CVE-2026-35177
+    - debian_importer_v2/vim/CVE-2026-39881
+    - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-39881
     - debian_importer_v2/vim/CVE-2026-41411
+    - debian_importer_v2/vim/CVE-2026-41411
+    - debian_importer_v2/vim/CVE-2026-41411
+    - debian_importer_v2/vim/CVE-2026-42307
+    - debian_importer_v2/vim/CVE-2026-42307
+    - debian_importer_v2/vim/CVE-2026-44656
+    - debian_importer_v2/vim/CVE-2026-45130
   fixing_advisories:
     - debian_importer_v2/vim/CVE-2002-1377
     - debian_importer_v2/vim/CVE-2002-1377
     - debian_importer_v2/vim/CVE-2002-1377
     - debian_importer_v2/vim/CVE-2002-1377
     - debian_importer_v2/vim/CVE-2002-1377
+    - debian_importer_v2/vim/CVE-2002-1377
+    - debian_importer_v2/vim/CVE-2004-1138
     - debian_importer_v2/vim/CVE-2004-1138
     - debian_importer_v2/vim/CVE-2004-1138
     - debian_importer_v2/vim/CVE-2004-1138
@@ -213,6 +254,8 @@
     - debian_importer_v2/vim/CVE-2005-0069
     - debian_importer_v2/vim/CVE-2005-0069
     - debian_importer_v2/vim/CVE-2005-0069
+    - debian_importer_v2/vim/CVE-2005-0069
+    - debian_importer_v2/vim/CVE-2005-2368
     - debian_importer_v2/vim/CVE-2005-2368
     - debian_importer_v2/vim/CVE-2005-2368
     - debian_importer_v2/vim/CVE-2005-2368
@@ -223,6 +266,8 @@
     - debian_importer_v2/vim/CVE-2007-2438
     - debian_importer_v2/vim/CVE-2007-2438
     - debian_importer_v2/vim/CVE-2007-2438
+    - debian_importer_v2/vim/CVE-2007-2438
+    - debian_importer_v2/vim/CVE-2007-2953
     - debian_importer_v2/vim/CVE-2007-2953
     - debian_importer_v2/vim/CVE-2007-2953
     - debian_importer_v2/vim/CVE-2007-2953
@@ -233,6 +278,8 @@
     - debian_importer_v2/vim/CVE-2008-2712
     - debian_importer_v2/vim/CVE-2008-2712
     - debian_importer_v2/vim/CVE-2008-2712
+    - debian_importer_v2/vim/CVE-2008-2712
+    - debian_importer_v2/vim/CVE-2008-3074
     - debian_importer_v2/vim/CVE-2008-3074
     - debian_importer_v2/vim/CVE-2008-3074
     - debian_importer_v2/vim/CVE-2008-3074
@@ -243,6 +290,8 @@
     - debian_importer_v2/vim/CVE-2008-3075
     - debian_importer_v2/vim/CVE-2008-3075
     - debian_importer_v2/vim/CVE-2008-3075
+    - debian_importer_v2/vim/CVE-2008-3075
+    - debian_importer_v2/vim/CVE-2008-3076
     - debian_importer_v2/vim/CVE-2008-3076
     - debian_importer_v2/vim/CVE-2008-3076
     - debian_importer_v2/vim/CVE-2008-3076
@@ -253,6 +302,8 @@
     - debian_importer_v2/vim/CVE-2008-3294
     - debian_importer_v2/vim/CVE-2008-3294
     - debian_importer_v2/vim/CVE-2008-3294
+    - debian_importer_v2/vim/CVE-2008-3294
+    - debian_importer_v2/vim/CVE-2008-3432
     - debian_importer_v2/vim/CVE-2008-3432
     - debian_importer_v2/vim/CVE-2008-3432
     - debian_importer_v2/vim/CVE-2008-3432
@@ -263,6 +314,8 @@
     - debian_importer_v2/vim/CVE-2008-4101
     - debian_importer_v2/vim/CVE-2008-4101
     - debian_importer_v2/vim/CVE-2008-4101
+    - debian_importer_v2/vim/CVE-2008-4101
+    - debian_importer_v2/vim/CVE-2008-6235
     - debian_importer_v2/vim/CVE-2008-6235
     - debian_importer_v2/vim/CVE-2008-6235
     - debian_importer_v2/vim/CVE-2008-6235
@@ -273,6 +326,8 @@
     - debian_importer_v2/vim/CVE-2009-0316
     - debian_importer_v2/vim/CVE-2009-0316
     - debian_importer_v2/vim/CVE-2009-0316
+    - debian_importer_v2/vim/CVE-2009-0316
+    - debian_importer_v2/vim/CVE-2010-3914
     - debian_importer_v2/vim/CVE-2010-3914
     - debian_importer_v2/vim/CVE-2010-3914
     - debian_importer_v2/vim/CVE-2010-3914
@@ -283,6 +338,8 @@
     - debian_importer_v2/vim/CVE-2016-1248
     - debian_importer_v2/vim/CVE-2016-1248
     - debian_importer_v2/vim/CVE-2016-1248
+    - debian_importer_v2/vim/CVE-2016-1248
+    - debian_importer_v2/vim/CVE-2017-11109
     - debian_importer_v2/vim/CVE-2017-11109
     - debian_importer_v2/vim/CVE-2017-11109
     - debian_importer_v2/vim/CVE-2017-11109
@@ -293,6 +350,8 @@
     - debian_importer_v2/vim/CVE-2017-17087
     - debian_importer_v2/vim/CVE-2017-17087
     - debian_importer_v2/vim/CVE-2017-17087
+    - debian_importer_v2/vim/CVE-2017-17087
+    - debian_importer_v2/vim/CVE-2017-5953
     - debian_importer_v2/vim/CVE-2017-5953
     - debian_importer_v2/vim/CVE-2017-5953
     - debian_importer_v2/vim/CVE-2017-5953
@@ -303,6 +362,8 @@
     - debian_importer_v2/vim/CVE-2017-6349
     - debian_importer_v2/vim/CVE-2017-6349
     - debian_importer_v2/vim/CVE-2017-6349
+    - debian_importer_v2/vim/CVE-2017-6349
+    - debian_importer_v2/vim/CVE-2017-6350
     - debian_importer_v2/vim/CVE-2017-6350
     - debian_importer_v2/vim/CVE-2017-6350
     - debian_importer_v2/vim/CVE-2017-6350
@@ -313,6 +374,8 @@
     - debian_importer_v2/vim/CVE-2018-20786
     - debian_importer_v2/vim/CVE-2018-20786
     - debian_importer_v2/vim/CVE-2018-20786
+    - debian_importer_v2/vim/CVE-2018-20786
+    - debian_importer_v2/vim/CVE-2019-12735
     - debian_importer_v2/vim/CVE-2019-12735
     - debian_importer_v2/vim/CVE-2019-12735
     - debian_importer_v2/vim/CVE-2019-12735
@@ -323,6 +386,8 @@
     - debian_importer_v2/vim/CVE-2019-20079
     - debian_importer_v2/vim/CVE-2019-20079
     - debian_importer_v2/vim/CVE-2019-20079
+    - debian_importer_v2/vim/CVE-2019-20079
+    - debian_importer_v2/vim/CVE-2019-20807
     - debian_importer_v2/vim/CVE-2019-20807
     - debian_importer_v2/vim/CVE-2019-20807
     - debian_importer_v2/vim/CVE-2019-20807
@@ -333,6 +398,8 @@
     - debian_importer_v2/vim/CVE-2020-20703
     - debian_importer_v2/vim/CVE-2020-20703
     - debian_importer_v2/vim/CVE-2020-20703
+    - debian_importer_v2/vim/CVE-2020-20703
+    - debian_importer_v2/vim/CVE-2021-3236
     - debian_importer_v2/vim/CVE-2021-3236
     - debian_importer_v2/vim/CVE-2021-3236
     - debian_importer_v2/vim/CVE-2021-3236
@@ -343,6 +410,8 @@
     - debian_importer_v2/vim/CVE-2021-3770
     - debian_importer_v2/vim/CVE-2021-3770
     - debian_importer_v2/vim/CVE-2021-3770
+    - debian_importer_v2/vim/CVE-2021-3770
+    - debian_importer_v2/vim/CVE-2021-3778
     - debian_importer_v2/vim/CVE-2021-3778
     - debian_importer_v2/vim/CVE-2021-3778
     - debian_importer_v2/vim/CVE-2021-3778
@@ -353,6 +422,8 @@
     - debian_importer_v2/vim/CVE-2021-3796
     - debian_importer_v2/vim/CVE-2021-3796
     - debian_importer_v2/vim/CVE-2021-3796
+    - debian_importer_v2/vim/CVE-2021-3796
+    - debian_importer_v2/vim/CVE-2021-3872
     - debian_importer_v2/vim/CVE-2021-3872
     - debian_importer_v2/vim/CVE-2021-3872
     - debian_importer_v2/vim/CVE-2021-3872
@@ -363,6 +434,8 @@
     - debian_importer_v2/vim/CVE-2021-3875
     - debian_importer_v2/vim/CVE-2021-3875
     - debian_importer_v2/vim/CVE-2021-3875
+    - debian_importer_v2/vim/CVE-2021-3875
+    - debian_importer_v2/vim/CVE-2021-3903
     - debian_importer_v2/vim/CVE-2021-3903
     - debian_importer_v2/vim/CVE-2021-3903
     - debian_importer_v2/vim/CVE-2021-3903
@@ -373,6 +446,8 @@
     - debian_importer_v2/vim/CVE-2021-3927
     - debian_importer_v2/vim/CVE-2021-3927
     - debian_importer_v2/vim/CVE-2021-3927
+    - debian_importer_v2/vim/CVE-2021-3927
+    - debian_importer_v2/vim/CVE-2021-3928
     - debian_importer_v2/vim/CVE-2021-3928
     - debian_importer_v2/vim/CVE-2021-3928
     - debian_importer_v2/vim/CVE-2021-3928
@@ -383,6 +458,8 @@
     - debian_importer_v2/vim/CVE-2021-3968
     - debian_importer_v2/vim/CVE-2021-3968
     - debian_importer_v2/vim/CVE-2021-3968
+    - debian_importer_v2/vim/CVE-2021-3968
+    - debian_importer_v2/vim/CVE-2021-3973
     - debian_importer_v2/vim/CVE-2021-3973
     - debian_importer_v2/vim/CVE-2021-3973
     - debian_importer_v2/vim/CVE-2021-3973
@@ -393,6 +470,8 @@
     - debian_importer_v2/vim/CVE-2021-3974
     - debian_importer_v2/vim/CVE-2021-3974
     - debian_importer_v2/vim/CVE-2021-3974
+    - debian_importer_v2/vim/CVE-2021-3974
+    - debian_importer_v2/vim/CVE-2021-3984
     - debian_importer_v2/vim/CVE-2021-3984
     - debian_importer_v2/vim/CVE-2021-3984
     - debian_importer_v2/vim/CVE-2021-3984
@@ -403,6 +482,8 @@
     - debian_importer_v2/vim/CVE-2021-4019
     - debian_importer_v2/vim/CVE-2021-4019
     - debian_importer_v2/vim/CVE-2021-4019
+    - debian_importer_v2/vim/CVE-2021-4019
+    - debian_importer_v2/vim/CVE-2021-4069
     - debian_importer_v2/vim/CVE-2021-4069
     - debian_importer_v2/vim/CVE-2021-4069
     - debian_importer_v2/vim/CVE-2021-4069
@@ -413,6 +494,8 @@
     - debian_importer_v2/vim/CVE-2021-4136
     - debian_importer_v2/vim/CVE-2021-4136
     - debian_importer_v2/vim/CVE-2021-4136
+    - debian_importer_v2/vim/CVE-2021-4136
+    - debian_importer_v2/vim/CVE-2021-4166
     - debian_importer_v2/vim/CVE-2021-4166
     - debian_importer_v2/vim/CVE-2021-4166
     - debian_importer_v2/vim/CVE-2021-4166
@@ -423,6 +506,8 @@
     - debian_importer_v2/vim/CVE-2021-4173
     - debian_importer_v2/vim/CVE-2021-4173
     - debian_importer_v2/vim/CVE-2021-4173
+    - debian_importer_v2/vim/CVE-2021-4173
+    - debian_importer_v2/vim/CVE-2021-4187
     - debian_importer_v2/vim/CVE-2021-4187
     - debian_importer_v2/vim/CVE-2021-4187
     - debian_importer_v2/vim/CVE-2021-4187
@@ -433,6 +518,8 @@
     - debian_importer_v2/vim/CVE-2021-4192
     - debian_importer_v2/vim/CVE-2021-4192
     - debian_importer_v2/vim/CVE-2021-4192
+    - debian_importer_v2/vim/CVE-2021-4192
+    - debian_importer_v2/vim/CVE-2021-4193
     - debian_importer_v2/vim/CVE-2021-4193
     - debian_importer_v2/vim/CVE-2021-4193
     - debian_importer_v2/vim/CVE-2021-4193
@@ -443,6 +530,8 @@
     - debian_importer_v2/vim/CVE-2022-0128
     - debian_importer_v2/vim/CVE-2022-0128
     - debian_importer_v2/vim/CVE-2022-0128
+    - debian_importer_v2/vim/CVE-2022-0128
+    - debian_importer_v2/vim/CVE-2022-0156
     - debian_importer_v2/vim/CVE-2022-0156
     - debian_importer_v2/vim/CVE-2022-0156
     - debian_importer_v2/vim/CVE-2022-0156
@@ -453,6 +542,8 @@
     - debian_importer_v2/vim/CVE-2022-0158
     - debian_importer_v2/vim/CVE-2022-0158
     - debian_importer_v2/vim/CVE-2022-0158
+    - debian_importer_v2/vim/CVE-2022-0158
+    - debian_importer_v2/vim/CVE-2022-0213
     - debian_importer_v2/vim/CVE-2022-0213
     - debian_importer_v2/vim/CVE-2022-0213
     - debian_importer_v2/vim/CVE-2022-0213
@@ -463,6 +554,8 @@
     - debian_importer_v2/vim/CVE-2022-0261
     - debian_importer_v2/vim/CVE-2022-0261
     - debian_importer_v2/vim/CVE-2022-0261
+    - debian_importer_v2/vim/CVE-2022-0261
+    - debian_importer_v2/vim/CVE-2022-0318
     - debian_importer_v2/vim/CVE-2022-0318
     - debian_importer_v2/vim/CVE-2022-0318
     - debian_importer_v2/vim/CVE-2022-0318
@@ -473,6 +566,8 @@
     - debian_importer_v2/vim/CVE-2022-0319
     - debian_importer_v2/vim/CVE-2022-0319
     - debian_importer_v2/vim/CVE-2022-0319
+    - debian_importer_v2/vim/CVE-2022-0319
+    - debian_importer_v2/vim/CVE-2022-0351
     - debian_importer_v2/vim/CVE-2022-0351
     - debian_importer_v2/vim/CVE-2022-0351
     - debian_importer_v2/vim/CVE-2022-0351
@@ -483,6 +578,8 @@
     - debian_importer_v2/vim/CVE-2022-0359
     - debian_importer_v2/vim/CVE-2022-0359
     - debian_importer_v2/vim/CVE-2022-0359
+    - debian_importer_v2/vim/CVE-2022-0359
+    - debian_importer_v2/vim/CVE-2022-0361
     - debian_importer_v2/vim/CVE-2022-0361
     - debian_importer_v2/vim/CVE-2022-0361
     - debian_importer_v2/vim/CVE-2022-0361
@@ -493,6 +590,8 @@
     - debian_importer_v2/vim/CVE-2022-0368
     - debian_importer_v2/vim/CVE-2022-0368
     - debian_importer_v2/vim/CVE-2022-0368
+    - debian_importer_v2/vim/CVE-2022-0368
+    - debian_importer_v2/vim/CVE-2022-0392
     - debian_importer_v2/vim/CVE-2022-0392
     - debian_importer_v2/vim/CVE-2022-0392
     - debian_importer_v2/vim/CVE-2022-0392
@@ -503,6 +602,8 @@
     - debian_importer_v2/vim/CVE-2022-0393
     - debian_importer_v2/vim/CVE-2022-0393
     - debian_importer_v2/vim/CVE-2022-0393
+    - debian_importer_v2/vim/CVE-2022-0393
+    - debian_importer_v2/vim/CVE-2022-0407
     - debian_importer_v2/vim/CVE-2022-0407
     - debian_importer_v2/vim/CVE-2022-0407
     - debian_importer_v2/vim/CVE-2022-0407
@@ -513,6 +614,8 @@
     - debian_importer_v2/vim/CVE-2022-0408
     - debian_importer_v2/vim/CVE-2022-0408
     - debian_importer_v2/vim/CVE-2022-0408
+    - debian_importer_v2/vim/CVE-2022-0408
+    - debian_importer_v2/vim/CVE-2022-0413
     - debian_importer_v2/vim/CVE-2022-0413
     - debian_importer_v2/vim/CVE-2022-0413
     - debian_importer_v2/vim/CVE-2022-0413
@@ -523,6 +626,8 @@
     - debian_importer_v2/vim/CVE-2022-0417
     - debian_importer_v2/vim/CVE-2022-0417
     - debian_importer_v2/vim/CVE-2022-0417
+    - debian_importer_v2/vim/CVE-2022-0417
+    - debian_importer_v2/vim/CVE-2022-0443
     - debian_importer_v2/vim/CVE-2022-0443
     - debian_importer_v2/vim/CVE-2022-0443
     - debian_importer_v2/vim/CVE-2022-0443
@@ -533,6 +638,8 @@
     - debian_importer_v2/vim/CVE-2022-0554
     - debian_importer_v2/vim/CVE-2022-0554
     - debian_importer_v2/vim/CVE-2022-0554
+    - debian_importer_v2/vim/CVE-2022-0554
+    - debian_importer_v2/vim/CVE-2022-0572
     - debian_importer_v2/vim/CVE-2022-0572
     - debian_importer_v2/vim/CVE-2022-0572
     - debian_importer_v2/vim/CVE-2022-0572
@@ -543,6 +650,8 @@
     - debian_importer_v2/vim/CVE-2022-0629
     - debian_importer_v2/vim/CVE-2022-0629
     - debian_importer_v2/vim/CVE-2022-0629
+    - debian_importer_v2/vim/CVE-2022-0629
+    - debian_importer_v2/vim/CVE-2022-0685
     - debian_importer_v2/vim/CVE-2022-0685
     - debian_importer_v2/vim/CVE-2022-0685
     - debian_importer_v2/vim/CVE-2022-0685
@@ -553,6 +662,8 @@
     - debian_importer_v2/vim/CVE-2022-0696
     - debian_importer_v2/vim/CVE-2022-0696
     - debian_importer_v2/vim/CVE-2022-0696
+    - debian_importer_v2/vim/CVE-2022-0696
+    - debian_importer_v2/vim/CVE-2022-0714
     - debian_importer_v2/vim/CVE-2022-0714
     - debian_importer_v2/vim/CVE-2022-0714
     - debian_importer_v2/vim/CVE-2022-0714
@@ -563,6 +674,8 @@
     - debian_importer_v2/vim/CVE-2022-0729
     - debian_importer_v2/vim/CVE-2022-0729
     - debian_importer_v2/vim/CVE-2022-0729
+    - debian_importer_v2/vim/CVE-2022-0729
+    - debian_importer_v2/vim/CVE-2022-0943
     - debian_importer_v2/vim/CVE-2022-0943
     - debian_importer_v2/vim/CVE-2022-0943
     - debian_importer_v2/vim/CVE-2022-0943
@@ -573,6 +686,8 @@
     - debian_importer_v2/vim/CVE-2022-1154
     - debian_importer_v2/vim/CVE-2022-1154
     - debian_importer_v2/vim/CVE-2022-1154
+    - debian_importer_v2/vim/CVE-2022-1154
+    - debian_importer_v2/vim/CVE-2022-1160
     - debian_importer_v2/vim/CVE-2022-1160
     - debian_importer_v2/vim/CVE-2022-1160
     - debian_importer_v2/vim/CVE-2022-1160
@@ -583,6 +698,8 @@
     - debian_importer_v2/vim/CVE-2022-1381
     - debian_importer_v2/vim/CVE-2022-1381
     - debian_importer_v2/vim/CVE-2022-1381
+    - debian_importer_v2/vim/CVE-2022-1381
+    - debian_importer_v2/vim/CVE-2022-1420
     - debian_importer_v2/vim/CVE-2022-1420
     - debian_importer_v2/vim/CVE-2022-1420
     - debian_importer_v2/vim/CVE-2022-1420
@@ -593,6 +710,8 @@
     - debian_importer_v2/vim/CVE-2022-1616
     - debian_importer_v2/vim/CVE-2022-1616
     - debian_importer_v2/vim/CVE-2022-1616
+    - debian_importer_v2/vim/CVE-2022-1616
+    - debian_importer_v2/vim/CVE-2022-1619
     - debian_importer_v2/vim/CVE-2022-1619
     - debian_importer_v2/vim/CVE-2022-1619
     - debian_importer_v2/vim/CVE-2022-1619
@@ -603,6 +722,8 @@
     - debian_importer_v2/vim/CVE-2022-1620
     - debian_importer_v2/vim/CVE-2022-1620
     - debian_importer_v2/vim/CVE-2022-1620
+    - debian_importer_v2/vim/CVE-2022-1620
+    - debian_importer_v2/vim/CVE-2022-1621
     - debian_importer_v2/vim/CVE-2022-1621
     - debian_importer_v2/vim/CVE-2022-1621
     - debian_importer_v2/vim/CVE-2022-1621
@@ -613,6 +734,8 @@
     - debian_importer_v2/vim/CVE-2022-1629
     - debian_importer_v2/vim/CVE-2022-1629
     - debian_importer_v2/vim/CVE-2022-1629
+    - debian_importer_v2/vim/CVE-2022-1629
+    - debian_importer_v2/vim/CVE-2022-1674
     - debian_importer_v2/vim/CVE-2022-1674
     - debian_importer_v2/vim/CVE-2022-1674
     - debian_importer_v2/vim/CVE-2022-1674
@@ -623,6 +746,8 @@
     - debian_importer_v2/vim/CVE-2022-1720
     - debian_importer_v2/vim/CVE-2022-1720
     - debian_importer_v2/vim/CVE-2022-1720
+    - debian_importer_v2/vim/CVE-2022-1720
+    - debian_importer_v2/vim/CVE-2022-1725
     - debian_importer_v2/vim/CVE-2022-1725
     - debian_importer_v2/vim/CVE-2022-1725
     - debian_importer_v2/vim/CVE-2022-1725
@@ -633,6 +758,8 @@
     - debian_importer_v2/vim/CVE-2022-1733
     - debian_importer_v2/vim/CVE-2022-1733
     - debian_importer_v2/vim/CVE-2022-1733
+    - debian_importer_v2/vim/CVE-2022-1733
+    - debian_importer_v2/vim/CVE-2022-1735
     - debian_importer_v2/vim/CVE-2022-1735
     - debian_importer_v2/vim/CVE-2022-1735
     - debian_importer_v2/vim/CVE-2022-1735
@@ -643,6 +770,8 @@
     - debian_importer_v2/vim/CVE-2022-1769
     - debian_importer_v2/vim/CVE-2022-1769
     - debian_importer_v2/vim/CVE-2022-1769
+    - debian_importer_v2/vim/CVE-2022-1769
+    - debian_importer_v2/vim/CVE-2022-1771
     - debian_importer_v2/vim/CVE-2022-1771
     - debian_importer_v2/vim/CVE-2022-1771
     - debian_importer_v2/vim/CVE-2022-1771
@@ -653,6 +782,8 @@
     - debian_importer_v2/vim/CVE-2022-1785
     - debian_importer_v2/vim/CVE-2022-1785
     - debian_importer_v2/vim/CVE-2022-1785
+    - debian_importer_v2/vim/CVE-2022-1785
+    - debian_importer_v2/vim/CVE-2022-1796
     - debian_importer_v2/vim/CVE-2022-1796
     - debian_importer_v2/vim/CVE-2022-1796
     - debian_importer_v2/vim/CVE-2022-1796
@@ -663,6 +794,8 @@
     - debian_importer_v2/vim/CVE-2022-1851
     - debian_importer_v2/vim/CVE-2022-1851
     - debian_importer_v2/vim/CVE-2022-1851
+    - debian_importer_v2/vim/CVE-2022-1851
+    - debian_importer_v2/vim/CVE-2022-1886
     - debian_importer_v2/vim/CVE-2022-1886
     - debian_importer_v2/vim/CVE-2022-1886
     - debian_importer_v2/vim/CVE-2022-1886
@@ -673,6 +806,8 @@
     - debian_importer_v2/vim/CVE-2022-1897
     - debian_importer_v2/vim/CVE-2022-1897
     - debian_importer_v2/vim/CVE-2022-1897
+    - debian_importer_v2/vim/CVE-2022-1897
+    - debian_importer_v2/vim/CVE-2022-1898
     - debian_importer_v2/vim/CVE-2022-1898
     - debian_importer_v2/vim/CVE-2022-1898
     - debian_importer_v2/vim/CVE-2022-1898
@@ -683,6 +818,8 @@
     - debian_importer_v2/vim/CVE-2022-1927
     - debian_importer_v2/vim/CVE-2022-1927
     - debian_importer_v2/vim/CVE-2022-1927
+    - debian_importer_v2/vim/CVE-2022-1927
+    - debian_importer_v2/vim/CVE-2022-1942
     - debian_importer_v2/vim/CVE-2022-1942
     - debian_importer_v2/vim/CVE-2022-1942
     - debian_importer_v2/vim/CVE-2022-1942
@@ -693,6 +830,8 @@
     - debian_importer_v2/vim/CVE-2022-1968
     - debian_importer_v2/vim/CVE-2022-1968
     - debian_importer_v2/vim/CVE-2022-1968
+    - debian_importer_v2/vim/CVE-2022-1968
+    - debian_importer_v2/vim/CVE-2022-2000
     - debian_importer_v2/vim/CVE-2022-2000
     - debian_importer_v2/vim/CVE-2022-2000
     - debian_importer_v2/vim/CVE-2022-2000
@@ -703,6 +842,8 @@
     - debian_importer_v2/vim/CVE-2022-2042
     - debian_importer_v2/vim/CVE-2022-2042
     - debian_importer_v2/vim/CVE-2022-2042
+    - debian_importer_v2/vim/CVE-2022-2042
+    - debian_importer_v2/vim/CVE-2022-2124
     - debian_importer_v2/vim/CVE-2022-2124
     - debian_importer_v2/vim/CVE-2022-2124
     - debian_importer_v2/vim/CVE-2022-2124
@@ -713,6 +854,8 @@
     - debian_importer_v2/vim/CVE-2022-2125
     - debian_importer_v2/vim/CVE-2022-2125
     - debian_importer_v2/vim/CVE-2022-2125
+    - debian_importer_v2/vim/CVE-2022-2125
+    - debian_importer_v2/vim/CVE-2022-2126
     - debian_importer_v2/vim/CVE-2022-2126
     - debian_importer_v2/vim/CVE-2022-2126
     - debian_importer_v2/vim/CVE-2022-2126
@@ -723,6 +866,8 @@
     - debian_importer_v2/vim/CVE-2022-2129
     - debian_importer_v2/vim/CVE-2022-2129
     - debian_importer_v2/vim/CVE-2022-2129
+    - debian_importer_v2/vim/CVE-2022-2129
+    - debian_importer_v2/vim/CVE-2022-2175
     - debian_importer_v2/vim/CVE-2022-2175
     - debian_importer_v2/vim/CVE-2022-2175
     - debian_importer_v2/vim/CVE-2022-2175
@@ -733,6 +878,8 @@
     - debian_importer_v2/vim/CVE-2022-2182
     - debian_importer_v2/vim/CVE-2022-2182
     - debian_importer_v2/vim/CVE-2022-2182
+    - debian_importer_v2/vim/CVE-2022-2182
+    - debian_importer_v2/vim/CVE-2022-2183
     - debian_importer_v2/vim/CVE-2022-2183
     - debian_importer_v2/vim/CVE-2022-2183
     - debian_importer_v2/vim/CVE-2022-2183
@@ -743,6 +890,8 @@
     - debian_importer_v2/vim/CVE-2022-2206
     - debian_importer_v2/vim/CVE-2022-2206
     - debian_importer_v2/vim/CVE-2022-2206
+    - debian_importer_v2/vim/CVE-2022-2206
+    - debian_importer_v2/vim/CVE-2022-2207
     - debian_importer_v2/vim/CVE-2022-2207
     - debian_importer_v2/vim/CVE-2022-2207
     - debian_importer_v2/vim/CVE-2022-2207
@@ -753,6 +902,8 @@
     - debian_importer_v2/vim/CVE-2022-2208
     - debian_importer_v2/vim/CVE-2022-2208
     - debian_importer_v2/vim/CVE-2022-2208
+    - debian_importer_v2/vim/CVE-2022-2208
+    - debian_importer_v2/vim/CVE-2022-2210
     - debian_importer_v2/vim/CVE-2022-2210
     - debian_importer_v2/vim/CVE-2022-2210
     - debian_importer_v2/vim/CVE-2022-2210
@@ -763,6 +914,8 @@
     - debian_importer_v2/vim/CVE-2022-2231
     - debian_importer_v2/vim/CVE-2022-2231
     - debian_importer_v2/vim/CVE-2022-2231
+    - debian_importer_v2/vim/CVE-2022-2231
+    - debian_importer_v2/vim/CVE-2022-2257
     - debian_importer_v2/vim/CVE-2022-2257
     - debian_importer_v2/vim/CVE-2022-2257
     - debian_importer_v2/vim/CVE-2022-2257
@@ -773,6 +926,8 @@
     - debian_importer_v2/vim/CVE-2022-2264
     - debian_importer_v2/vim/CVE-2022-2264
     - debian_importer_v2/vim/CVE-2022-2264
+    - debian_importer_v2/vim/CVE-2022-2264
+    - debian_importer_v2/vim/CVE-2022-2284
     - debian_importer_v2/vim/CVE-2022-2284
     - debian_importer_v2/vim/CVE-2022-2284
     - debian_importer_v2/vim/CVE-2022-2284
@@ -783,6 +938,8 @@
     - debian_importer_v2/vim/CVE-2022-2285
     - debian_importer_v2/vim/CVE-2022-2285
     - debian_importer_v2/vim/CVE-2022-2285
+    - debian_importer_v2/vim/CVE-2022-2285
+    - debian_importer_v2/vim/CVE-2022-2286
     - debian_importer_v2/vim/CVE-2022-2286
     - debian_importer_v2/vim/CVE-2022-2286
     - debian_importer_v2/vim/CVE-2022-2286
@@ -793,6 +950,8 @@
     - debian_importer_v2/vim/CVE-2022-2287
     - debian_importer_v2/vim/CVE-2022-2287
     - debian_importer_v2/vim/CVE-2022-2287
+    - debian_importer_v2/vim/CVE-2022-2287
+    - debian_importer_v2/vim/CVE-2022-2288
     - debian_importer_v2/vim/CVE-2022-2288
     - debian_importer_v2/vim/CVE-2022-2288
     - debian_importer_v2/vim/CVE-2022-2288
@@ -803,6 +962,8 @@
     - debian_importer_v2/vim/CVE-2022-2289
     - debian_importer_v2/vim/CVE-2022-2289
     - debian_importer_v2/vim/CVE-2022-2289
+    - debian_importer_v2/vim/CVE-2022-2289
+    - debian_importer_v2/vim/CVE-2022-2304
     - debian_importer_v2/vim/CVE-2022-2304
     - debian_importer_v2/vim/CVE-2022-2304
     - debian_importer_v2/vim/CVE-2022-2304
@@ -813,6 +974,8 @@
     - debian_importer_v2/vim/CVE-2022-2343
     - debian_importer_v2/vim/CVE-2022-2343
     - debian_importer_v2/vim/CVE-2022-2343
+    - debian_importer_v2/vim/CVE-2022-2343
+    - debian_importer_v2/vim/CVE-2022-2344
     - debian_importer_v2/vim/CVE-2022-2344
     - debian_importer_v2/vim/CVE-2022-2344
     - debian_importer_v2/vim/CVE-2022-2344
@@ -823,6 +986,8 @@
     - debian_importer_v2/vim/CVE-2022-2345
     - debian_importer_v2/vim/CVE-2022-2345
     - debian_importer_v2/vim/CVE-2022-2345
+    - debian_importer_v2/vim/CVE-2022-2345
+    - debian_importer_v2/vim/CVE-2022-2522
     - debian_importer_v2/vim/CVE-2022-2522
     - debian_importer_v2/vim/CVE-2022-2522
     - debian_importer_v2/vim/CVE-2022-2522
@@ -833,6 +998,8 @@
     - debian_importer_v2/vim/CVE-2022-2571
     - debian_importer_v2/vim/CVE-2022-2571
     - debian_importer_v2/vim/CVE-2022-2571
+    - debian_importer_v2/vim/CVE-2022-2571
+    - debian_importer_v2/vim/CVE-2022-2580
     - debian_importer_v2/vim/CVE-2022-2580
     - debian_importer_v2/vim/CVE-2022-2580
     - debian_importer_v2/vim/CVE-2022-2580
@@ -843,6 +1010,8 @@
     - debian_importer_v2/vim/CVE-2022-2581
     - debian_importer_v2/vim/CVE-2022-2581
     - debian_importer_v2/vim/CVE-2022-2581
+    - debian_importer_v2/vim/CVE-2022-2581
+    - debian_importer_v2/vim/CVE-2022-2598
     - debian_importer_v2/vim/CVE-2022-2598
     - debian_importer_v2/vim/CVE-2022-2598
     - debian_importer_v2/vim/CVE-2022-2598
@@ -853,6 +1022,8 @@
     - debian_importer_v2/vim/CVE-2022-2816
     - debian_importer_v2/vim/CVE-2022-2816
     - debian_importer_v2/vim/CVE-2022-2816
+    - debian_importer_v2/vim/CVE-2022-2816
+    - debian_importer_v2/vim/CVE-2022-2817
     - debian_importer_v2/vim/CVE-2022-2817
     - debian_importer_v2/vim/CVE-2022-2817
     - debian_importer_v2/vim/CVE-2022-2817
@@ -863,6 +1034,8 @@
     - debian_importer_v2/vim/CVE-2022-2819
     - debian_importer_v2/vim/CVE-2022-2819
     - debian_importer_v2/vim/CVE-2022-2819
+    - debian_importer_v2/vim/CVE-2022-2819
+    - debian_importer_v2/vim/CVE-2022-2845
     - debian_importer_v2/vim/CVE-2022-2845
     - debian_importer_v2/vim/CVE-2022-2845
     - debian_importer_v2/vim/CVE-2022-2845
@@ -873,6 +1046,8 @@
     - debian_importer_v2/vim/CVE-2022-2849
     - debian_importer_v2/vim/CVE-2022-2849
     - debian_importer_v2/vim/CVE-2022-2849
+    - debian_importer_v2/vim/CVE-2022-2849
+    - debian_importer_v2/vim/CVE-2022-2862
     - debian_importer_v2/vim/CVE-2022-2862
     - debian_importer_v2/vim/CVE-2022-2862
     - debian_importer_v2/vim/CVE-2022-2862
@@ -883,6 +1058,8 @@
     - debian_importer_v2/vim/CVE-2022-2874
     - debian_importer_v2/vim/CVE-2022-2874
     - debian_importer_v2/vim/CVE-2022-2874
+    - debian_importer_v2/vim/CVE-2022-2874
+    - debian_importer_v2/vim/CVE-2022-2889
     - debian_importer_v2/vim/CVE-2022-2889
     - debian_importer_v2/vim/CVE-2022-2889
     - debian_importer_v2/vim/CVE-2022-2889
@@ -893,6 +1070,8 @@
     - debian_importer_v2/vim/CVE-2022-2923
     - debian_importer_v2/vim/CVE-2022-2923
     - debian_importer_v2/vim/CVE-2022-2923
+    - debian_importer_v2/vim/CVE-2022-2923
+    - debian_importer_v2/vim/CVE-2022-2946
     - debian_importer_v2/vim/CVE-2022-2946
     - debian_importer_v2/vim/CVE-2022-2946
     - debian_importer_v2/vim/CVE-2022-2946
@@ -903,6 +1082,8 @@
     - debian_importer_v2/vim/CVE-2022-2980
     - debian_importer_v2/vim/CVE-2022-2980
     - debian_importer_v2/vim/CVE-2022-2980
+    - debian_importer_v2/vim/CVE-2022-2980
+    - debian_importer_v2/vim/CVE-2022-2982
     - debian_importer_v2/vim/CVE-2022-2982
     - debian_importer_v2/vim/CVE-2022-2982
     - debian_importer_v2/vim/CVE-2022-2982
@@ -913,6 +1094,8 @@
     - debian_importer_v2/vim/CVE-2022-3016
     - debian_importer_v2/vim/CVE-2022-3016
     - debian_importer_v2/vim/CVE-2022-3016
+    - debian_importer_v2/vim/CVE-2022-3016
+    - debian_importer_v2/vim/CVE-2022-3037
     - debian_importer_v2/vim/CVE-2022-3037
     - debian_importer_v2/vim/CVE-2022-3037
     - debian_importer_v2/vim/CVE-2022-3037
@@ -923,6 +1106,8 @@
     - debian_importer_v2/vim/CVE-2022-3099
     - debian_importer_v2/vim/CVE-2022-3099
     - debian_importer_v2/vim/CVE-2022-3099
+    - debian_importer_v2/vim/CVE-2022-3099
+    - debian_importer_v2/vim/CVE-2022-3134
     - debian_importer_v2/vim/CVE-2022-3134
     - debian_importer_v2/vim/CVE-2022-3134
     - debian_importer_v2/vim/CVE-2022-3134
@@ -933,6 +1118,8 @@
     - debian_importer_v2/vim/CVE-2022-3153
     - debian_importer_v2/vim/CVE-2022-3153
     - debian_importer_v2/vim/CVE-2022-3153
+    - debian_importer_v2/vim/CVE-2022-3153
+    - debian_importer_v2/vim/CVE-2022-3234
     - debian_importer_v2/vim/CVE-2022-3234
     - debian_importer_v2/vim/CVE-2022-3234
     - debian_importer_v2/vim/CVE-2022-3234
@@ -943,6 +1130,8 @@
     - debian_importer_v2/vim/CVE-2022-3235
     - debian_importer_v2/vim/CVE-2022-3235
     - debian_importer_v2/vim/CVE-2022-3235
+    - debian_importer_v2/vim/CVE-2022-3235
+    - debian_importer_v2/vim/CVE-2022-3256
     - debian_importer_v2/vim/CVE-2022-3256
     - debian_importer_v2/vim/CVE-2022-3256
     - debian_importer_v2/vim/CVE-2022-3256
@@ -953,6 +1142,8 @@
     - debian_importer_v2/vim/CVE-2022-3278
     - debian_importer_v2/vim/CVE-2022-3278
     - debian_importer_v2/vim/CVE-2022-3278
+    - debian_importer_v2/vim/CVE-2022-3278
+    - debian_importer_v2/vim/CVE-2022-3296
     - debian_importer_v2/vim/CVE-2022-3296
     - debian_importer_v2/vim/CVE-2022-3296
     - debian_importer_v2/vim/CVE-2022-3296
@@ -963,6 +1154,8 @@
     - debian_importer_v2/vim/CVE-2022-3297
     - debian_importer_v2/vim/CVE-2022-3297
     - debian_importer_v2/vim/CVE-2022-3297
+    - debian_importer_v2/vim/CVE-2022-3297
+    - debian_importer_v2/vim/CVE-2022-3324
     - debian_importer_v2/vim/CVE-2022-3324
     - debian_importer_v2/vim/CVE-2022-3324
     - debian_importer_v2/vim/CVE-2022-3324
@@ -973,6 +1166,8 @@
     - debian_importer_v2/vim/CVE-2022-3352
     - debian_importer_v2/vim/CVE-2022-3352
     - debian_importer_v2/vim/CVE-2022-3352
+    - debian_importer_v2/vim/CVE-2022-3352
+    - debian_importer_v2/vim/CVE-2022-3491
     - debian_importer_v2/vim/CVE-2022-3491
     - debian_importer_v2/vim/CVE-2022-3491
     - debian_importer_v2/vim/CVE-2022-3491
@@ -983,6 +1178,8 @@
     - debian_importer_v2/vim/CVE-2022-3520
     - debian_importer_v2/vim/CVE-2022-3520
     - debian_importer_v2/vim/CVE-2022-3520
+    - debian_importer_v2/vim/CVE-2022-3520
+    - debian_importer_v2/vim/CVE-2022-3591
     - debian_importer_v2/vim/CVE-2022-3591
     - debian_importer_v2/vim/CVE-2022-3591
     - debian_importer_v2/vim/CVE-2022-3591
@@ -993,6 +1190,8 @@
     - debian_importer_v2/vim/CVE-2022-3705
     - debian_importer_v2/vim/CVE-2022-3705
     - debian_importer_v2/vim/CVE-2022-3705
+    - debian_importer_v2/vim/CVE-2022-3705
+    - debian_importer_v2/vim/CVE-2022-4141
     - debian_importer_v2/vim/CVE-2022-4141
     - debian_importer_v2/vim/CVE-2022-4141
     - debian_importer_v2/vim/CVE-2022-4141
@@ -1003,6 +1202,8 @@
     - debian_importer_v2/vim/CVE-2022-4292
     - debian_importer_v2/vim/CVE-2022-4292
     - debian_importer_v2/vim/CVE-2022-4292
+    - debian_importer_v2/vim/CVE-2022-4292
+    - debian_importer_v2/vim/CVE-2022-4293
     - debian_importer_v2/vim/CVE-2022-4293
     - debian_importer_v2/vim/CVE-2022-4293
     - debian_importer_v2/vim/CVE-2022-4293
@@ -1013,6 +1214,8 @@
     - debian_importer_v2/vim/CVE-2022-47024
     - debian_importer_v2/vim/CVE-2022-47024
     - debian_importer_v2/vim/CVE-2022-47024
+    - debian_importer_v2/vim/CVE-2022-47024
+    - debian_importer_v2/vim/CVE-2023-0049
     - debian_importer_v2/vim/CVE-2023-0049
     - debian_importer_v2/vim/CVE-2023-0049
     - debian_importer_v2/vim/CVE-2023-0049
@@ -1023,6 +1226,8 @@
     - debian_importer_v2/vim/CVE-2023-0051
     - debian_importer_v2/vim/CVE-2023-0051
     - debian_importer_v2/vim/CVE-2023-0051
+    - debian_importer_v2/vim/CVE-2023-0051
+    - debian_importer_v2/vim/CVE-2023-0054
     - debian_importer_v2/vim/CVE-2023-0054
     - debian_importer_v2/vim/CVE-2023-0054
     - debian_importer_v2/vim/CVE-2023-0054
@@ -1033,6 +1238,8 @@
     - debian_importer_v2/vim/CVE-2023-0288
     - debian_importer_v2/vim/CVE-2023-0288
     - debian_importer_v2/vim/CVE-2023-0288
+    - debian_importer_v2/vim/CVE-2023-0288
+    - debian_importer_v2/vim/CVE-2023-0433
     - debian_importer_v2/vim/CVE-2023-0433
     - debian_importer_v2/vim/CVE-2023-0433
     - debian_importer_v2/vim/CVE-2023-0433
@@ -1043,6 +1250,8 @@
     - debian_importer_v2/vim/CVE-2023-0512
     - debian_importer_v2/vim/CVE-2023-0512
     - debian_importer_v2/vim/CVE-2023-0512
+    - debian_importer_v2/vim/CVE-2023-0512
+    - debian_importer_v2/vim/CVE-2023-1127
     - debian_importer_v2/vim/CVE-2023-1127
     - debian_importer_v2/vim/CVE-2023-1127
     - debian_importer_v2/vim/CVE-2023-1127
@@ -1053,6 +1262,8 @@
     - debian_importer_v2/vim/CVE-2023-1170
     - debian_importer_v2/vim/CVE-2023-1170
     - debian_importer_v2/vim/CVE-2023-1170
+    - debian_importer_v2/vim/CVE-2023-1170
+    - debian_importer_v2/vim/CVE-2023-1175
     - debian_importer_v2/vim/CVE-2023-1175
     - debian_importer_v2/vim/CVE-2023-1175
     - debian_importer_v2/vim/CVE-2023-1175
@@ -1063,6 +1274,8 @@
     - debian_importer_v2/vim/CVE-2023-1264
     - debian_importer_v2/vim/CVE-2023-1264
     - debian_importer_v2/vim/CVE-2023-1264
+    - debian_importer_v2/vim/CVE-2023-1264
+    - debian_importer_v2/vim/CVE-2023-1355
     - debian_importer_v2/vim/CVE-2023-1355
     - debian_importer_v2/vim/CVE-2023-1355
     - debian_importer_v2/vim/CVE-2023-1355
@@ -1073,6 +1286,8 @@
     - debian_importer_v2/vim/CVE-2023-2426
     - debian_importer_v2/vim/CVE-2023-2426
     - debian_importer_v2/vim/CVE-2023-2426
+    - debian_importer_v2/vim/CVE-2023-2426
+    - debian_importer_v2/vim/CVE-2023-2609
     - debian_importer_v2/vim/CVE-2023-2609
     - debian_importer_v2/vim/CVE-2023-2609
     - debian_importer_v2/vim/CVE-2023-2609
@@ -1083,6 +1298,8 @@
     - debian_importer_v2/vim/CVE-2023-2610
     - debian_importer_v2/vim/CVE-2023-2610
     - debian_importer_v2/vim/CVE-2023-2610
+    - debian_importer_v2/vim/CVE-2023-2610
+    - debian_importer_v2/vim/CVE-2023-3896
     - debian_importer_v2/vim/CVE-2023-3896
     - debian_importer_v2/vim/CVE-2023-3896
     - debian_importer_v2/vim/CVE-2023-3896
@@ -1093,6 +1310,8 @@
     - debian_importer_v2/vim/CVE-2023-46246
     - debian_importer_v2/vim/CVE-2023-46246
     - debian_importer_v2/vim/CVE-2023-46246
+    - debian_importer_v2/vim/CVE-2023-46246
+    - debian_importer_v2/vim/CVE-2023-4733
     - debian_importer_v2/vim/CVE-2023-4733
     - debian_importer_v2/vim/CVE-2023-4733
     - debian_importer_v2/vim/CVE-2023-4733
@@ -1103,6 +1322,8 @@
     - debian_importer_v2/vim/CVE-2023-4734
     - debian_importer_v2/vim/CVE-2023-4734
     - debian_importer_v2/vim/CVE-2023-4734
+    - debian_importer_v2/vim/CVE-2023-4734
+    - debian_importer_v2/vim/CVE-2023-4735
     - debian_importer_v2/vim/CVE-2023-4735
     - debian_importer_v2/vim/CVE-2023-4735
     - debian_importer_v2/vim/CVE-2023-4735
@@ -1113,6 +1334,8 @@
     - debian_importer_v2/vim/CVE-2023-4736
     - debian_importer_v2/vim/CVE-2023-4736
     - debian_importer_v2/vim/CVE-2023-4736
+    - debian_importer_v2/vim/CVE-2023-4736
+    - debian_importer_v2/vim/CVE-2023-4738
     - debian_importer_v2/vim/CVE-2023-4738
     - debian_importer_v2/vim/CVE-2023-4738
     - debian_importer_v2/vim/CVE-2023-4738
@@ -1123,6 +1346,8 @@
     - debian_importer_v2/vim/CVE-2023-4750
     - debian_importer_v2/vim/CVE-2023-4750
     - debian_importer_v2/vim/CVE-2023-4750
+    - debian_importer_v2/vim/CVE-2023-4750
+    - debian_importer_v2/vim/CVE-2023-4751
     - debian_importer_v2/vim/CVE-2023-4751
     - debian_importer_v2/vim/CVE-2023-4751
     - debian_importer_v2/vim/CVE-2023-4751
@@ -1133,6 +1358,8 @@
     - debian_importer_v2/vim/CVE-2023-4752
     - debian_importer_v2/vim/CVE-2023-4752
     - debian_importer_v2/vim/CVE-2023-4752
+    - debian_importer_v2/vim/CVE-2023-4752
+    - debian_importer_v2/vim/CVE-2023-4781
     - debian_importer_v2/vim/CVE-2023-4781
     - debian_importer_v2/vim/CVE-2023-4781
     - debian_importer_v2/vim/CVE-2023-4781
@@ -1143,6 +1370,8 @@
     - debian_importer_v2/vim/CVE-2023-48231
     - debian_importer_v2/vim/CVE-2023-48231
     - debian_importer_v2/vim/CVE-2023-48231
+    - debian_importer_v2/vim/CVE-2023-48231
+    - debian_importer_v2/vim/CVE-2023-48232
     - debian_importer_v2/vim/CVE-2023-48232
     - debian_importer_v2/vim/CVE-2023-48232
     - debian_importer_v2/vim/CVE-2023-48232
@@ -1153,6 +1382,8 @@
     - debian_importer_v2/vim/CVE-2023-48233
     - debian_importer_v2/vim/CVE-2023-48233
     - debian_importer_v2/vim/CVE-2023-48233
+    - debian_importer_v2/vim/CVE-2023-48233
+    - debian_importer_v2/vim/CVE-2023-48234
     - debian_importer_v2/vim/CVE-2023-48234
     - debian_importer_v2/vim/CVE-2023-48234
     - debian_importer_v2/vim/CVE-2023-48234
@@ -1163,6 +1394,8 @@
     - debian_importer_v2/vim/CVE-2023-48235
     - debian_importer_v2/vim/CVE-2023-48235
     - debian_importer_v2/vim/CVE-2023-48235
+    - debian_importer_v2/vim/CVE-2023-48235
+    - debian_importer_v2/vim/CVE-2023-48236
     - debian_importer_v2/vim/CVE-2023-48236
     - debian_importer_v2/vim/CVE-2023-48236
     - debian_importer_v2/vim/CVE-2023-48236
@@ -1173,6 +1406,8 @@
     - debian_importer_v2/vim/CVE-2023-48237
     - debian_importer_v2/vim/CVE-2023-48237
     - debian_importer_v2/vim/CVE-2023-48237
+    - debian_importer_v2/vim/CVE-2023-48237
+    - debian_importer_v2/vim/CVE-2023-48706
     - debian_importer_v2/vim/CVE-2023-48706
     - debian_importer_v2/vim/CVE-2023-48706
     - debian_importer_v2/vim/CVE-2023-48706
@@ -1183,6 +1418,8 @@
     - debian_importer_v2/vim/CVE-2023-5344
     - debian_importer_v2/vim/CVE-2023-5344
     - debian_importer_v2/vim/CVE-2023-5344
+    - debian_importer_v2/vim/CVE-2023-5344
+    - debian_importer_v2/vim/CVE-2023-5441
     - debian_importer_v2/vim/CVE-2023-5441
     - debian_importer_v2/vim/CVE-2023-5441
     - debian_importer_v2/vim/CVE-2023-5441
@@ -1193,6 +1430,8 @@
     - debian_importer_v2/vim/CVE-2023-5535
     - debian_importer_v2/vim/CVE-2023-5535
     - debian_importer_v2/vim/CVE-2023-5535
+    - debian_importer_v2/vim/CVE-2023-5535
+    - debian_importer_v2/vim/CVE-2024-22667
     - debian_importer_v2/vim/CVE-2024-22667
     - debian_importer_v2/vim/CVE-2024-22667
     - debian_importer_v2/vim/CVE-2024-22667
@@ -1203,6 +1442,8 @@
     - debian_importer_v2/vim/CVE-2024-41957
     - debian_importer_v2/vim/CVE-2024-41957
     - debian_importer_v2/vim/CVE-2024-41957
+    - debian_importer_v2/vim/CVE-2024-41957
+    - debian_importer_v2/vim/CVE-2024-41965
     - debian_importer_v2/vim/CVE-2024-41965
     - debian_importer_v2/vim/CVE-2024-41965
     - debian_importer_v2/vim/CVE-2024-41965
@@ -1213,6 +1454,8 @@
     - debian_importer_v2/vim/CVE-2024-43374
     - debian_importer_v2/vim/CVE-2024-43374
     - debian_importer_v2/vim/CVE-2024-43374
+    - debian_importer_v2/vim/CVE-2024-43374
+    - debian_importer_v2/vim/CVE-2024-43790
     - debian_importer_v2/vim/CVE-2024-43790
     - debian_importer_v2/vim/CVE-2024-43790
     - debian_importer_v2/vim/CVE-2024-43790
@@ -1223,6 +1466,8 @@
     - debian_importer_v2/vim/CVE-2024-43802
     - debian_importer_v2/vim/CVE-2024-43802
     - debian_importer_v2/vim/CVE-2024-43802
+    - debian_importer_v2/vim/CVE-2024-43802
+    - debian_importer_v2/vim/CVE-2024-45306
     - debian_importer_v2/vim/CVE-2024-45306
     - debian_importer_v2/vim/CVE-2024-45306
     - debian_importer_v2/vim/CVE-2024-45306
@@ -1233,6 +1478,8 @@
     - debian_importer_v2/vim/CVE-2024-47814
     - debian_importer_v2/vim/CVE-2024-47814
     - debian_importer_v2/vim/CVE-2024-47814
+    - debian_importer_v2/vim/CVE-2024-47814
+    - debian_importer_v2/vim/CVE-2025-1215
     - debian_importer_v2/vim/CVE-2025-1215
     - debian_importer_v2/vim/CVE-2025-1215
     - debian_importer_v2/vim/CVE-2025-1215
@@ -1243,6 +1490,8 @@
     - debian_importer_v2/vim/CVE-2025-22134
     - debian_importer_v2/vim/CVE-2025-22134
     - debian_importer_v2/vim/CVE-2025-22134
+    - debian_importer_v2/vim/CVE-2025-22134
+    - debian_importer_v2/vim/CVE-2025-24014
     - debian_importer_v2/vim/CVE-2025-24014
     - debian_importer_v2/vim/CVE-2025-24014
     - debian_importer_v2/vim/CVE-2025-24014
@@ -1253,6 +1502,8 @@
     - debian_importer_v2/vim/CVE-2025-26603
     - debian_importer_v2/vim/CVE-2025-26603
     - debian_importer_v2/vim/CVE-2025-26603
+    - debian_importer_v2/vim/CVE-2025-26603
+    - debian_importer_v2/vim/CVE-2025-27423
     - debian_importer_v2/vim/CVE-2025-27423
     - debian_importer_v2/vim/CVE-2025-27423
     - debian_importer_v2/vim/CVE-2025-27423
@@ -1263,6 +1514,8 @@
     - debian_importer_v2/vim/CVE-2025-29768
     - debian_importer_v2/vim/CVE-2025-29768
     - debian_importer_v2/vim/CVE-2025-29768
+    - debian_importer_v2/vim/CVE-2025-29768
+    - debian_importer_v2/vim/CVE-2025-55157
     - debian_importer_v2/vim/CVE-2025-55157
     - debian_importer_v2/vim/CVE-2025-55157
     - debian_importer_v2/vim/CVE-2025-55157
@@ -1273,17 +1526,22 @@
     - debian_importer_v2/vim/CVE-2025-55158
     - debian_importer_v2/vim/CVE-2025-55158
     - debian_importer_v2/vim/CVE-2025-55158
+    - debian_importer_v2/vim/CVE-2025-55158
     - debian_importer_v2/vim/CVE-2025-66476
     - debian_importer_v2/vim/CVE-2025-66476
     - debian_importer_v2/vim/CVE-2025-66476
     - debian_importer_v2/vim/CVE-2025-66476
     - debian_importer_v2/vim/CVE-2025-66476
+    - debian_importer_v2/vim/CVE-2025-66476
+    - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9389
     - debian_importer_v2/vim/CVE-2025-9390
+    - debian_importer_v2/vim/CVE-2025-9390
+    - debian_importer_v2/vim/CVE-2026-34714
     - debian_importer_v2/vim/CVE-2026-34714
     - debian_importer_v2/vim/CVE-2026-34714
     - debian_importer_v2/vim/CVE-2026-34714

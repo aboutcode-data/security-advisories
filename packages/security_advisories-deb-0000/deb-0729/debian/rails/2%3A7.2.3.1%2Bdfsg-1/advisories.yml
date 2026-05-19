@@ -101,6 +101,7 @@
     - debian_importer_v2/rails/CVE-2022-23633
     - debian_importer_v2/rails/CVE-2022-27777
     - debian_importer_v2/rails/CVE-2022-32224
+    - debian_importer_v2/rails/CVE-2022-32224
     - debian_importer_v2/rails/CVE-2022-44566
     - debian_importer_v2/rails/CVE-2023-22792
     - debian_importer_v2/rails/CVE-2023-22794

@@ -2,28 +2,41 @@
   affected_by_advisories:
     - debian_importer_v2/ruby-rack/CVE-2026-26961
     - debian_importer_v2/ruby-rack/CVE-2026-26961
+    - debian_importer_v2/ruby-rack/CVE-2026-26961
+    - debian_importer_v2/ruby-rack/CVE-2026-26962
     - debian_importer_v2/ruby-rack/CVE-2026-26962
     - debian_importer_v2/ruby-rack/CVE-2026-26962
     - debian_importer_v2/ruby-rack/CVE-2026-32762
     - debian_importer_v2/ruby-rack/CVE-2026-32762
+    - debian_importer_v2/ruby-rack/CVE-2026-32762
+    - debian_importer_v2/ruby-rack/CVE-2026-34230
     - debian_importer_v2/ruby-rack/CVE-2026-34230
     - debian_importer_v2/ruby-rack/CVE-2026-34230
     - debian_importer_v2/ruby-rack/CVE-2026-34763
     - debian_importer_v2/ruby-rack/CVE-2026-34763
+    - debian_importer_v2/ruby-rack/CVE-2026-34763
+    - debian_importer_v2/ruby-rack/CVE-2026-34785
     - debian_importer_v2/ruby-rack/CVE-2026-34785
     - debian_importer_v2/ruby-rack/CVE-2026-34785
     - debian_importer_v2/ruby-rack/CVE-2026-34786
     - debian_importer_v2/ruby-rack/CVE-2026-34786
+    - debian_importer_v2/ruby-rack/CVE-2026-34786
+    - debian_importer_v2/ruby-rack/CVE-2026-34826
     - debian_importer_v2/ruby-rack/CVE-2026-34826
     - debian_importer_v2/ruby-rack/CVE-2026-34826
     - debian_importer_v2/ruby-rack/CVE-2026-34827
     - debian_importer_v2/ruby-rack/CVE-2026-34827
+    - debian_importer_v2/ruby-rack/CVE-2026-34827
+    - debian_importer_v2/ruby-rack/CVE-2026-34829
     - debian_importer_v2/ruby-rack/CVE-2026-34829
     - debian_importer_v2/ruby-rack/CVE-2026-34829
     - debian_importer_v2/ruby-rack/CVE-2026-34830
     - debian_importer_v2/ruby-rack/CVE-2026-34830
+    - debian_importer_v2/ruby-rack/CVE-2026-34830
     - debian_importer_v2/ruby-rack/CVE-2026-34831
     - debian_importer_v2/ruby-rack/CVE-2026-34831
+    - debian_importer_v2/ruby-rack/CVE-2026-34831
+    - debian_importer_v2/ruby-rack/CVE-2026-34835
     - debian_importer_v2/ruby-rack/CVE-2026-34835
     - debian_importer_v2/ruby-rack/CVE-2026-34835
   fixing_advisories:
@@ -31,6 +44,8 @@
     - debian_importer_v2/ruby-rack/CVE-2011-5036
     - debian_importer_v2/ruby-rack/CVE-2011-5036
     - debian_importer_v2/ruby-rack/CVE-2011-5036
+    - debian_importer_v2/ruby-rack/CVE-2011-5036
+    - debian_importer_v2/ruby-rack/CVE-2012-6109
     - debian_importer_v2/ruby-rack/CVE-2012-6109
     - debian_importer_v2/ruby-rack/CVE-2012-6109
     - debian_importer_v2/ruby-rack/CVE-2012-6109
@@ -39,6 +54,8 @@
     - debian_importer_v2/ruby-rack/CVE-2013-0183
     - debian_importer_v2/ruby-rack/CVE-2013-0183
     - debian_importer_v2/ruby-rack/CVE-2013-0183
+    - debian_importer_v2/ruby-rack/CVE-2013-0183
+    - debian_importer_v2/ruby-rack/CVE-2013-0184
     - debian_importer_v2/ruby-rack/CVE-2013-0184
     - debian_importer_v2/ruby-rack/CVE-2013-0184
     - debian_importer_v2/ruby-rack/CVE-2013-0184
@@ -47,6 +64,8 @@
     - debian_importer_v2/ruby-rack/CVE-2013-0262
     - debian_importer_v2/ruby-rack/CVE-2013-0262
     - debian_importer_v2/ruby-rack/CVE-2013-0262
+    - debian_importer_v2/ruby-rack/CVE-2013-0262
+    - debian_importer_v2/ruby-rack/CVE-2013-0263
     - debian_importer_v2/ruby-rack/CVE-2013-0263
     - debian_importer_v2/ruby-rack/CVE-2013-0263
     - debian_importer_v2/ruby-rack/CVE-2013-0263
@@ -55,6 +74,8 @@
     - debian_importer_v2/ruby-rack/CVE-2015-3225
     - debian_importer_v2/ruby-rack/CVE-2015-3225
     - debian_importer_v2/ruby-rack/CVE-2015-3225
+    - debian_importer_v2/ruby-rack/CVE-2015-3225
+    - debian_importer_v2/ruby-rack/CVE-2018-16470
     - debian_importer_v2/ruby-rack/CVE-2018-16470
     - debian_importer_v2/ruby-rack/CVE-2018-16470
     - debian_importer_v2/ruby-rack/CVE-2018-16470
@@ -63,6 +84,8 @@
     - debian_importer_v2/ruby-rack/CVE-2018-16471
     - debian_importer_v2/ruby-rack/CVE-2018-16471
     - debian_importer_v2/ruby-rack/CVE-2018-16471
+    - debian_importer_v2/ruby-rack/CVE-2018-16471
+    - debian_importer_v2/ruby-rack/CVE-2019-16782
     - debian_importer_v2/ruby-rack/CVE-2019-16782
     - debian_importer_v2/ruby-rack/CVE-2019-16782
     - debian_importer_v2/ruby-rack/CVE-2019-16782
@@ -71,6 +94,8 @@
     - debian_importer_v2/ruby-rack/CVE-2020-8161
     - debian_importer_v2/ruby-rack/CVE-2020-8161
     - debian_importer_v2/ruby-rack/CVE-2020-8161
+    - debian_importer_v2/ruby-rack/CVE-2020-8161
+    - debian_importer_v2/ruby-rack/CVE-2020-8184
     - debian_importer_v2/ruby-rack/CVE-2020-8184
     - debian_importer_v2/ruby-rack/CVE-2020-8184
     - debian_importer_v2/ruby-rack/CVE-2020-8184
@@ -79,6 +104,8 @@
     - debian_importer_v2/ruby-rack/CVE-2022-30122
     - debian_importer_v2/ruby-rack/CVE-2022-30122
     - debian_importer_v2/ruby-rack/CVE-2022-30122
+    - debian_importer_v2/ruby-rack/CVE-2022-30122
+    - debian_importer_v2/ruby-rack/CVE-2022-30123
     - debian_importer_v2/ruby-rack/CVE-2022-30123
     - debian_importer_v2/ruby-rack/CVE-2022-30123
     - debian_importer_v2/ruby-rack/CVE-2022-30123
@@ -87,6 +114,8 @@
     - debian_importer_v2/ruby-rack/CVE-2022-44570
     - debian_importer_v2/ruby-rack/CVE-2022-44570
     - debian_importer_v2/ruby-rack/CVE-2022-44570
+    - debian_importer_v2/ruby-rack/CVE-2022-44570
+    - debian_importer_v2/ruby-rack/CVE-2022-44571
     - debian_importer_v2/ruby-rack/CVE-2022-44571
     - debian_importer_v2/ruby-rack/CVE-2022-44571
     - debian_importer_v2/ruby-rack/CVE-2022-44571
@@ -95,6 +124,8 @@
     - debian_importer_v2/ruby-rack/CVE-2022-44572
     - debian_importer_v2/ruby-rack/CVE-2022-44572
     - debian_importer_v2/ruby-rack/CVE-2022-44572
+    - debian_importer_v2/ruby-rack/CVE-2022-44572
+    - debian_importer_v2/ruby-rack/CVE-2023-27530
     - debian_importer_v2/ruby-rack/CVE-2023-27530
     - debian_importer_v2/ruby-rack/CVE-2023-27530
     - debian_importer_v2/ruby-rack/CVE-2023-27530
@@ -103,6 +134,8 @@
     - debian_importer_v2/ruby-rack/CVE-2023-27539
     - debian_importer_v2/ruby-rack/CVE-2023-27539
     - debian_importer_v2/ruby-rack/CVE-2023-27539
+    - debian_importer_v2/ruby-rack/CVE-2023-27539
+    - debian_importer_v2/ruby-rack/CVE-2024-25126
     - debian_importer_v2/ruby-rack/CVE-2024-25126
     - debian_importer_v2/ruby-rack/CVE-2024-25126
     - debian_importer_v2/ruby-rack/CVE-2024-25126
@@ -111,6 +144,8 @@
     - debian_importer_v2/ruby-rack/CVE-2024-26141
     - debian_importer_v2/ruby-rack/CVE-2024-26141
     - debian_importer_v2/ruby-rack/CVE-2024-26141
+    - debian_importer_v2/ruby-rack/CVE-2024-26141
+    - debian_importer_v2/ruby-rack/CVE-2024-26146
     - debian_importer_v2/ruby-rack/CVE-2024-26146
     - debian_importer_v2/ruby-rack/CVE-2024-26146
     - debian_importer_v2/ruby-rack/CVE-2024-26146
@@ -119,6 +154,8 @@
     - debian_importer_v2/ruby-rack/CVE-2024-39316
     - debian_importer_v2/ruby-rack/CVE-2024-39316
     - debian_importer_v2/ruby-rack/CVE-2024-39316
+    - debian_importer_v2/ruby-rack/CVE-2024-39316
+    - debian_importer_v2/ruby-rack/CVE-2025-25184
     - debian_importer_v2/ruby-rack/CVE-2025-25184
     - debian_importer_v2/ruby-rack/CVE-2025-25184
     - debian_importer_v2/ruby-rack/CVE-2025-25184
@@ -127,6 +164,8 @@
     - debian_importer_v2/ruby-rack/CVE-2025-27111
     - debian_importer_v2/ruby-rack/CVE-2025-27111
     - debian_importer_v2/ruby-rack/CVE-2025-27111
+    - debian_importer_v2/ruby-rack/CVE-2025-27111
+    - debian_importer_v2/ruby-rack/CVE-2025-27610
     - debian_importer_v2/ruby-rack/CVE-2025-27610
     - debian_importer_v2/ruby-rack/CVE-2025-27610
     - debian_importer_v2/ruby-rack/CVE-2025-27610
@@ -135,6 +174,8 @@
     - debian_importer_v2/ruby-rack/CVE-2025-32441
     - debian_importer_v2/ruby-rack/CVE-2025-32441
     - debian_importer_v2/ruby-rack/CVE-2025-32441
+    - debian_importer_v2/ruby-rack/CVE-2025-32441
+    - debian_importer_v2/ruby-rack/CVE-2025-46727
     - debian_importer_v2/ruby-rack/CVE-2025-46727
     - debian_importer_v2/ruby-rack/CVE-2025-46727
     - debian_importer_v2/ruby-rack/CVE-2025-46727
@@ -143,6 +184,8 @@
     - debian_importer_v2/ruby-rack/CVE-2025-49007
     - debian_importer_v2/ruby-rack/CVE-2025-49007
     - debian_importer_v2/ruby-rack/CVE-2025-49007
+    - debian_importer_v2/ruby-rack/CVE-2025-49007
+    - debian_importer_v2/ruby-rack/CVE-2025-59830
     - debian_importer_v2/ruby-rack/CVE-2025-59830
     - debian_importer_v2/ruby-rack/CVE-2025-59830
     - debian_importer_v2/ruby-rack/CVE-2025-59830
@@ -150,22 +193,29 @@
     - debian_importer_v2/ruby-rack/CVE-2025-61770
     - debian_importer_v2/ruby-rack/CVE-2025-61770
     - debian_importer_v2/ruby-rack/CVE-2025-61770
+    - debian_importer_v2/ruby-rack/CVE-2025-61770
+    - debian_importer_v2/ruby-rack/CVE-2025-61771
     - debian_importer_v2/ruby-rack/CVE-2025-61771
     - debian_importer_v2/ruby-rack/CVE-2025-61771
     - debian_importer_v2/ruby-rack/CVE-2025-61771
     - debian_importer_v2/ruby-rack/CVE-2025-61772
     - debian_importer_v2/ruby-rack/CVE-2025-61772
     - debian_importer_v2/ruby-rack/CVE-2025-61772
+    - debian_importer_v2/ruby-rack/CVE-2025-61772
+    - debian_importer_v2/ruby-rack/CVE-2025-61780
     - debian_importer_v2/ruby-rack/CVE-2025-61780
     - debian_importer_v2/ruby-rack/CVE-2025-61780
     - debian_importer_v2/ruby-rack/CVE-2025-61780
     - debian_importer_v2/ruby-rack/CVE-2025-61919
     - debian_importer_v2/ruby-rack/CVE-2025-61919
     - debian_importer_v2/ruby-rack/CVE-2025-61919
+    - debian_importer_v2/ruby-rack/CVE-2025-61919
     - debian_importer_v2/ruby-rack/CVE-2026-22860
     - debian_importer_v2/ruby-rack/CVE-2026-22860
     - debian_importer_v2/ruby-rack/CVE-2026-22860
     - debian_importer_v2/ruby-rack/CVE-2026-22860
+    - debian_importer_v2/ruby-rack/CVE-2026-22860
+    - debian_importer_v2/ruby-rack/CVE-2026-25500
     - debian_importer_v2/ruby-rack/CVE-2026-25500
     - debian_importer_v2/ruby-rack/CVE-2026-25500
     - debian_importer_v2/ruby-rack/CVE-2026-25500
