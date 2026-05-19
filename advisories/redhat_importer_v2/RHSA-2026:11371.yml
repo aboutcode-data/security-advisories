@@ -16,157 +16,7 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/bind?arch=src&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-chroot?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-libs?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-utils?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-debuginfo?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-devel?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-devel?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-lite-devel?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=x86_64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-libs?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-debuginfo?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-devel?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-devel?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-lite-devel?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=i686&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-chroot?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-export-libs?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc64le&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -177,11 +27,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=ppc64le&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -197,66 +42,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-devel?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-devel?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-lite-devel?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=ppc64le&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-chroot?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-libs?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11?arch=ppc64&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=ppc64&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -311,27 +96,7 @@ impacted_packages:
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs?arch=ppc&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=ppc&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-debuginfo?arch=ppc&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-devel?arch=ppc&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -352,11 +117,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-chroot?arch=s390x&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -386,17 +146,32 @@ impacted_packages:
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-utils?arch=s390x&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-debuginfo?arch=s390x&epoch=32
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=s390&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-devel?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-chroot?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-libs?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs?arch=ppc64&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -406,27 +181,7 @@ impacted_packages:
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-export-devel?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-lite-devel?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb?arch=s390x&epoch=32
-    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
-    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=s390x&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -441,12 +196,22 @@ impacted_packages:
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-libs-lite?arch=s390&epoch=32
+  - purl: pkg:rpm/redhat/bind-lite-devel?arch=i686&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=s390&epoch=32
+  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-chroot?arch=ppc64le&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
@@ -476,7 +241,242 @@ impacted_packages:
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind?arch=src&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-chroot?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-debuginfo?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-lite-devel?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-devel?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-debuginfo?arch=ppc&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-devel?arch=ppc&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-chroot?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-debuginfo?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-devel?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-lite-devel?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=s390x&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/bind-license?arch=noarch&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc64le&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-libs?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-utils?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-utils?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-devel?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-devel?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-lite-devel?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-sdb-chroot?arch=x86_64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-debuginfo?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-devel?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-devel?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=ppc64&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-pkcs11-libs?arch=s390&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-export-libs?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs?arch=i686&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs?arch=ppc&epoch=32
+    affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
+    fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bind-libs-lite?arch=ppc&epoch=32
     affected_versions: vers:rpm/<9.11.4-26.P2.el7_9.20
     fixed_versions: vers:rpm/9.11.4-26.P2.el7_9.20
     fixed_in_commits: []

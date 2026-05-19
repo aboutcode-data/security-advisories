@@ -16,11 +16,6 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=src
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=aarch64
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
@@ -32,6 +27,51 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2-modules?arch=aarch64
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=ppc64le
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-tests-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=s390x
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel?arch=s390x
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-debugsource?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=i686
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []
@@ -61,11 +101,6 @@ impacted_packages:
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=ppc64le
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2-devel?arch=ppc64le
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
@@ -81,62 +116,7 @@ impacted_packages:
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2-tests-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-debugsource?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=i686
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-tests-debuginfo?arch=i686
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []
@@ -157,36 +137,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-tests-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=s390x
-    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
-    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel?arch=s390x
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []
@@ -212,6 +162,56 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2?arch=src
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-tests-debuginfo?arch=i686
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-devel-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<2.42.6-3.el9_0.1
+    fixed_versions: vers:rpm/2.42.6-3.el9_0.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/gdk-pixbuf2-modules-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<2.42.6-3.el9_0.1
     fixed_versions: vers:rpm/2.42.6-3.el9_0.1
     fixed_in_commits: []

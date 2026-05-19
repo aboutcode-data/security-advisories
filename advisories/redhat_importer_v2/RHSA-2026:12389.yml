@@ -43,72 +43,12 @@ impacted_packages:
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-askpass-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-clients-debuginfo?arch=aarch64
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-clients?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keycat?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-server?arch=aarch64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-askpass?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-debugsource?arch=ppc64le
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
@@ -123,37 +63,7 @@ impacted_packages:
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh?arch=ppc64le
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-clients?arch=ppc64le
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
@@ -168,42 +78,12 @@ impacted_packages:
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-askpass?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-keysign?arch=s390x
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-debugsource?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-askpass-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-clients-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=s390x
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
@@ -238,52 +118,12 @@ impacted_packages:
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-askpass?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-askpass-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-clients-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
-    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
@@ -308,7 +148,167 @@ impacted_packages:
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-askpass-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-askpass?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-askpass-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-clients-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-askpass?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/openssh?arch=src
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-server?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-clients?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keycat?arch=aarch64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-debugsource?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-server-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-clients?arch=ppc64le
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-clients-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keycat-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-sk-dummy-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-keysign?arch=x86_64
+    affected_versions: vers:rpm/<9.9p1-7.el10_0.3
+    fixed_versions: vers:rpm/9.9p1-7.el10_0.3
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/openssh-debugsource?arch=x86_64
     affected_versions: vers:rpm/<9.9p1-7.el10_0.3
     fixed_versions: vers:rpm/9.9p1-7.el10_0.3
     fixed_in_commits: []

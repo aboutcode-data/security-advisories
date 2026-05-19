@@ -34,11 +34,6 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-libs?arch=aarch64
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-tkinter?arch=aarch64
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
@@ -94,16 +89,6 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debug?arch=ppc64le
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-idle?arch=ppc64le
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
@@ -114,17 +99,57 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11?arch=x86_64
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-devel?arch=x86_64
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-libs?arch=x86_64
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11?arch=i686
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-devel?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-libs?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-tkinter?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-debugsource?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-debug?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-idle?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-test?arch=s390x
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11?arch=x86_64
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
@@ -169,21 +194,6 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debugsource?arch=i686
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debuginfo?arch=i686
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11?arch=i686
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-debug?arch=i686
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
@@ -199,6 +209,26 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-libs?arch=aarch64
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-debug?arch=ppc64le
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python3.11-debugsource?arch=i686
+    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
+    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-tkinter?arch=i686
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
@@ -209,42 +239,12 @@ impacted_packages:
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-devel?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-libs?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-tkinter?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debugsource?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python3.11-debuginfo?arch=s390x
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-debug?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-idle?arch=s390x
-    affected_versions: vers:rpm/<3.11.13-5.3.el9_7
-    fixed_versions: vers:rpm/3.11.13-5.3.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python3.11-test?arch=s390x
+  - purl: pkg:rpm/redhat/python3.11-debuginfo?arch=i686
     affected_versions: vers:rpm/<3.11.13-5.3.el9_7
     fixed_versions: vers:rpm/3.11.13-5.3.el9_7
     fixed_in_commits: []

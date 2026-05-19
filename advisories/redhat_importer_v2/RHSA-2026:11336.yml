@@ -39,56 +39,6 @@ impacted_packages:
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs-debuginfo?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
-    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=ppc64le&epoch=2
     affected_versions: vers:rpm/<2.4.1-6.el9_2.7
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
@@ -174,6 +124,26 @@ impacted_packages:
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/freerdp-debugsource?arch=s390x&epoch=2
     affected_versions: vers:rpm/<2.4.1-6.el9_2.7
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
@@ -189,7 +159,37 @@ impacted_packages:
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=s390x&epoch=2
+  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<2.4.1-6.el9_2.7
+    fixed_versions: vers:rpm/2.4.1-6.el9_2.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr?arch=ppc64le&epoch=2
     affected_versions: vers:rpm/<2.4.1-6.el9_2.7
     fixed_versions: vers:rpm/2.4.1-6.el9_2.7
     fixed_in_commits: []

@@ -34,6 +34,71 @@ impacted_packages:
     fixed_versions: vers:rpm/1.39.6-2.el9_6
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-debugsource?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-debugsource?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/buildah?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.39.6-2.el9_6
+    fixed_versions: vers:rpm/1.39.6-2.el9_6
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/buildah-tests?arch=aarch64&epoch=2
     affected_versions: vers:rpm/<1.39.6-2.el9_6
     fixed_versions: vers:rpm/1.39.6-2.el9_6
@@ -59,72 +124,7 @@ impacted_packages:
     fixed_versions: vers:rpm/1.39.6-2.el9_6
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-debugsource?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/buildah-debugsource?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-debugsource?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.39.6-2.el9_6
-    fixed_versions: vers:rpm/1.39.6-2.el9_6
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/buildah-tests-debuginfo?arch=s390x&epoch=2
     affected_versions: vers:rpm/<1.39.6-2.el9_6
     fixed_versions: vers:rpm/1.39.6-2.el9_6
     fixed_in_commits: []

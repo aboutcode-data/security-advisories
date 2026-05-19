@@ -71,6 +71,16 @@ impacted_packages:
     fixed_versions: vers:rpm/2.69-7.el10_1.1
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libcap-debugsource?arch=x86_64
+    affected_versions: vers:rpm/<2.69-7.el10_1.1
+    fixed_versions: vers:rpm/2.69-7.el10_1.1
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libcap?arch=src
+    affected_versions: vers:rpm/<2.69-7.el10_1.1
+    fixed_versions: vers:rpm/2.69-7.el10_1.1
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libcap?arch=s390x
     affected_versions: vers:rpm/<2.69-7.el10_1.1
     fixed_versions: vers:rpm/2.69-7.el10_1.1
@@ -81,22 +91,12 @@ impacted_packages:
     fixed_versions: vers:rpm/2.69-7.el10_1.1
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libcap-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<2.69-7.el10_1.1
-    fixed_versions: vers:rpm/2.69-7.el10_1.1
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libcap-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.69-7.el10_1.1
-    fixed_versions: vers:rpm/2.69-7.el10_1.1
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libcap?arch=x86_64
     affected_versions: vers:rpm/<2.69-7.el10_1.1
     fixed_versions: vers:rpm/2.69-7.el10_1.1
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libcap?arch=src
+  - purl: pkg:rpm/redhat/libcap-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<2.69-7.el10_1.1
     fixed_versions: vers:rpm/2.69-7.el10_1.1
     fixed_in_commits: []

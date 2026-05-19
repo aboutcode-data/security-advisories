@@ -22,11 +22,6 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/xorg-x11-server?arch=src
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx?arch=aarch64
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
@@ -72,11 +67,6 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=aarch64
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
@@ -107,17 +97,7 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=ppc64le
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xorg?arch=ppc64le
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb?arch=ppc64le
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
@@ -138,16 +118,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
@@ -177,77 +147,12 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb?arch=x86_64
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-common?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-devel?arch=x86_64
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx?arch=s390x
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr?arch=s390x
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=s390x
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
@@ -272,27 +177,12 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr-debuginfo?arch=s390x
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<1.20.11-33.el9_7
-    fixed_versions: vers:rpm/1.20.11-33.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb-debuginfo?arch=s390x
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
@@ -312,12 +202,22 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-debugsource?arch=i686
+  - purl: pkg:rpm/redhat/xorg-x11-server-common?arch=x86_64
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo?arch=i686
+  - purl: pkg:rpm/redhat/xorg-x11-server-debugsource?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=s390x
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
@@ -332,6 +232,81 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-debuginfo?arch=i686
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server?arch=src
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=ppc64le
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb?arch=ppc64le
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx?arch=s390x
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xephyr?arch=s390x
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-debugsource?arch=i686
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=i686
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
@@ -342,12 +317,37 @@ impacted_packages:
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-debuginfo?arch=i686
+  - purl: pkg:rpm/redhat/xorg-x11-server-source?arch=noarch
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xorg-x11-server-source?arch=noarch
+  - purl: pkg:rpm/redhat/xorg-x11-server-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-devel?arch=x86_64
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xvfb-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xdmx-debuginfo?arch=i686
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xnest-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<1.20.11-33.el9_7
+    fixed_versions: vers:rpm/1.20.11-33.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xorg-x11-server-Xorg-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<1.20.11-33.el9_7
     fixed_versions: vers:rpm/1.20.11-33.el9_7
     fixed_in_commits: []

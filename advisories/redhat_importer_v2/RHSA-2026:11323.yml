@@ -51,36 +51,6 @@ impacted_packages:
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=x86_64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr?arch=x86_64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-devel?arch=x86_64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-devel?arch=x86_64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=i686
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr?arch=i686
     affected_versions: vers:rpm/<2.1.1-5.el7_9.7
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
@@ -131,6 +101,71 @@ impacted_packages:
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=s390x
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr?arch=s390x
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-devel?arch=s390x
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=s390
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=x86_64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr?arch=x86_64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-devel?arch=x86_64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-devel?arch=x86_64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=i686
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-devel?arch=ppc64
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=ppc
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp?arch=s390x
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/freerdp?arch=ppc64
     affected_versions: vers:rpm/<2.1.1-5.el7_9.7
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
@@ -156,16 +191,6 @@ impacted_packages:
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-devel?arch=ppc64
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=ppc
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr?arch=ppc
     affected_versions: vers:rpm/<2.1.1-5.el7_9.7
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
@@ -182,41 +207,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr-devel?arch=ppc
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-devel?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-devel?arch=s390x
-    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
-    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=s390
     affected_versions: vers:rpm/<2.1.1-5.el7_9.7
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
     fixed_in_commits: []
@@ -242,6 +232,16 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/freerdp?arch=src
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<2.1.1-5.el7_9.7
+    fixed_versions: vers:rpm/2.1.1-5.el7_9.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-devel?arch=s390x
     affected_versions: vers:rpm/<2.1.1-5.el7_9.7
     fixed_versions: vers:rpm/2.1.1-5.el7_9.7
     fixed_in_commits: []

@@ -33,126 +33,6 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-all?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-all?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-openstack?arch=ppc64le
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-all?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-kdump?arch=x86_64
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
@@ -173,42 +53,12 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-aliyun-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-azure-arm-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-aliyun?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-azure-arm?arch=x86_64
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-openstack?arch=x86_64
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -224,16 +74,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-apc-snmp?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-bladecenter?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-brocade?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -263,27 +103,7 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-eaton-snmp?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-emerson?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-eps?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-heuristics-ping?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-hpblade?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -299,21 +119,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-ibmblade?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-ifmib?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-ilo-moonshot?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-ilo-mp?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -348,32 +153,7 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-mpath?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/fence-agents-nutanix-ahv?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-rhevm?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-rsa?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-rsb?arch=noarch
-    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
-    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-sbd?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -398,12 +178,172 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-wti?arch=noarch
+  - purl: pkg:rpm/redhat/fence-agents-gce?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-zvm?arch=noarch
+  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debugsource?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-all?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-redfish?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-openstack?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-all?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-azure-arm?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-openstack?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-bladecenter?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-brocade?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-eaton-snmp?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-hpblade?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-ifmib?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-ilo-mp?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-mpath?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-rhevm?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-rsa?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-rsb?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-sbd?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-wti?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
@@ -413,7 +353,67 @@ impacted_packages:
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/fence-agents-gce?arch=noarch
+  - purl: pkg:rpm/redhat/fence-agents-all?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-aliyun-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kdump-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-kubevirt-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-ilo-moonshot?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-zvm?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-emerson?arch=noarch
+    affected_versions: vers:rpm/<4.2.1-129.el8_10.25
+    fixed_versions: vers:rpm/4.2.1-129.el8_10.25
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/fence-agents-eps?arch=noarch
     affected_versions: vers:rpm/<4.2.1-129.el8_10.25
     fixed_versions: vers:rpm/4.2.1-129.el8_10.25
     fixed_in_commits: []

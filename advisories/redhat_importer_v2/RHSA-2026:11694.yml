@@ -19,12 +19,27 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/ovn-2021?arch=s390x
+  - purl: pkg:rpm/redhat/ovn-2021-vtep?arch=ppc64le
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021?arch=src
+  - purl: pkg:rpm/redhat/ovn-2021-debugsource?arch=ppc64le
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-central-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-host-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
@@ -44,17 +59,42 @@ impacted_packages:
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-vtep-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-central?arch=aarch64
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-host?arch=aarch64
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021?arch=src
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021-central-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-vtep?arch=x86_64
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-central-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
@@ -89,47 +129,12 @@ impacted_packages:
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-vtep?arch=ppc64le
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-debugsource?arch=ppc64le
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-central-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-host-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-vtep-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021?arch=aarch64
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-central?arch=aarch64
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-host?arch=aarch64
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
@@ -149,17 +154,17 @@ impacted_packages:
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-host-debuginfo?arch=aarch64
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-vtep-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<21.12.0-145.el8fdp
+    fixed_versions: vers:rpm/21.12.0-145.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn-2021?arch=s390x
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []
@@ -195,11 +200,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn-2021-host-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<21.12.0-145.el8fdp
-    fixed_versions: vers:rpm/21.12.0-145.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn-2021-vtep-debuginfo?arch=s390x
     affected_versions: vers:rpm/<21.12.0-145.el8fdp
     fixed_versions: vers:rpm/21.12.0-145.el8fdp
     fixed_in_commits: []

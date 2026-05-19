@@ -34,11 +34,6 @@ impacted_packages:
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host?arch=x86_64
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn24.03-vtep?arch=x86_64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
@@ -59,12 +54,47 @@ impacted_packages:
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=x86_64
+  - purl: pkg:rpm/redhat/ovn24.03-host?arch=aarch64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=x86_64
+  - purl: pkg:rpm/redhat/ovn24.03-vtep?arch=aarch64
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-debugsource?arch=aarch64
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=aarch64
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03?arch=s390x
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-central?arch=s390x
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-host?arch=s390x
+    affected_versions: vers:rpm/<24.03.7-82.el9fdp
+    fixed_versions: vers:rpm/24.03.7-82.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn24.03-host?arch=x86_64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
@@ -75,11 +105,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn24.03-central?arch=ppc64le
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host?arch=ppc64le
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
@@ -124,52 +149,32 @@ impacted_packages:
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host?arch=aarch64
+  - purl: pkg:rpm/redhat/ovn24.03-debuginfo?arch=s390x
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-vtep?arch=aarch64
+  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=s390x
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-debugsource?arch=aarch64
+  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=s390x
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-central-debuginfo?arch=aarch64
+  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-debuginfo?arch=aarch64
+  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=aarch64
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03?arch=s390x
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-central?arch=s390x
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host?arch=s390x
+  - purl: pkg:rpm/redhat/ovn24.03-host?arch=ppc64le
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
@@ -189,17 +194,12 @@ impacted_packages:
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-debuginfo?arch=s390x
+  - purl: pkg:rpm/redhat/ovn24.03-central-debuginfo?arch=aarch64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-host-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<24.03.7-82.el9fdp
-    fixed_versions: vers:rpm/24.03.7-82.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn24.03-vtep-debuginfo?arch=s390x
+  - purl: pkg:rpm/redhat/ovn24.03-debuginfo?arch=aarch64
     affected_versions: vers:rpm/<24.03.7-82.el9fdp
     fixed_versions: vers:rpm/24.03.7-82.el9fdp
     fixed_in_commits: []

@@ -21,36 +21,6 @@ impacted_packages:
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc?arch=aarch64&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-debugsource?arch=aarch64&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-debuginfo?arch=aarch64&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-devel?arch=aarch64&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc?arch=ppc64le&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-debugsource?arch=ppc64le&epoch=1
-    affected_versions: vers:rpm/<0.2.7-4.el9_7
-    fixed_versions: vers:rpm/0.2.7-4.el9_7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-debuginfo?arch=ppc64le&epoch=1
     affected_versions: vers:rpm/<0.2.7-4.el9_7
     fixed_versions: vers:rpm/0.2.7-4.el9_7
@@ -71,6 +41,36 @@ impacted_packages:
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-debugsource?arch=s390x&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-debuginfo?arch=s390x&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-devel?arch=s390x&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc?arch=aarch64&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-debugsource?arch=aarch64&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-devel?arch=aarch64&epoch=1
+    affected_versions: vers:rpm/<0.2.7-4.el9_7
+    fixed_versions: vers:rpm/0.2.7-4.el9_7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-debuginfo?arch=x86_64&epoch=1
     affected_versions: vers:rpm/<0.2.7-4.el9_7
     fixed_versions: vers:rpm/0.2.7-4.el9_7
@@ -86,17 +86,17 @@ impacted_packages:
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-debugsource?arch=s390x&epoch=1
+  - purl: pkg:rpm/redhat/rhc-debuginfo?arch=aarch64&epoch=1
     affected_versions: vers:rpm/<0.2.7-4.el9_7
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-debuginfo?arch=s390x&epoch=1
+  - purl: pkg:rpm/redhat/rhc?arch=ppc64le&epoch=1
     affected_versions: vers:rpm/<0.2.7-4.el9_7
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-devel?arch=s390x&epoch=1
+  - purl: pkg:rpm/redhat/rhc-debugsource?arch=ppc64le&epoch=1
     affected_versions: vers:rpm/<0.2.7-4.el9_7
     fixed_versions: vers:rpm/0.2.7-4.el9_7
     fixed_in_commits: []

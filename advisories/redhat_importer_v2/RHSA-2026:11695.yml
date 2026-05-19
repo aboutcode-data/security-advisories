@@ -19,71 +19,6 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/ovn23.06?arch=src
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-central?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-debugsource?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-central-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-vtep-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06?arch=ppc64le
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-central?arch=ppc64le
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host?arch=ppc64le
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=ppc64le
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
@@ -124,16 +59,6 @@ impacted_packages:
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host?arch=aarch64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=aarch64
-    affected_versions: vers:rpm/<23.06.4-30.el8fdp
-    fixed_versions: vers:rpm/23.06.4-30.el8fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn23.06-debugsource?arch=aarch64
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
@@ -169,12 +94,47 @@ impacted_packages:
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host?arch=s390x
+  - purl: pkg:rpm/redhat/ovn23.06-debuginfo?arch=s390x
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=s390x
+  - purl: pkg:rpm/redhat/ovn23.06-host-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-vtep-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06?arch=src
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-central?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-host?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-host?arch=aarch64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=aarch64
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
@@ -189,17 +149,57 @@ impacted_packages:
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-debuginfo?arch=s390x
+  - purl: pkg:rpm/redhat/ovn23.06-vtep-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-host-debuginfo?arch=s390x
+  - purl: pkg:rpm/redhat/ovn23.06?arch=ppc64le
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn23.06-vtep-debuginfo?arch=s390x
+  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-debugsource?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-central-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-host-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-central?arch=ppc64le
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-host?arch=ppc64le
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-host?arch=s390x
+    affected_versions: vers:rpm/<23.06.4-30.el8fdp
+    fixed_versions: vers:rpm/23.06.4-30.el8fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn23.06-vtep?arch=s390x
     affected_versions: vers:rpm/<23.06.4-30.el8fdp
     fixed_versions: vers:rpm/23.06.4-30.el8fdp
     fixed_in_commits: []

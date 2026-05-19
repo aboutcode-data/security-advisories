@@ -19,16 +19,6 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
-  - purl: pkg:rpm/redhat/ovn25.03?arch=src
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03?arch=x86_64
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-central?arch=x86_64
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
@@ -59,31 +49,6 @@ impacted_packages:
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-host-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-vtep-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03?arch=ppc64le
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-central?arch=ppc64le
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-host?arch=ppc64le
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-vtep?arch=ppc64le
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
@@ -95,11 +60,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-central-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
     fixed_in_commits: []
@@ -120,11 +80,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-central?arch=aarch64
-    affected_versions: vers:rpm/<25.03.2-100.el9fdp
-    fixed_versions: vers:rpm/25.03.2-100.el9fdp
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/ovn25.03-host?arch=aarch64
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
     fixed_in_commits: []
@@ -169,6 +124,36 @@ impacted_packages:
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03?arch=src
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03?arch=x86_64
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-host-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-vtep-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03?arch=ppc64le
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-host?arch=aarch64
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-host?arch=s390x
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
@@ -200,6 +185,21 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/ovn25.03-vtep-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-central?arch=ppc64le
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-host?arch=ppc64le
+    affected_versions: vers:rpm/<25.03.2-100.el9fdp
+    fixed_versions: vers:rpm/25.03.2-100.el9fdp
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/ovn25.03-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<25.03.2-100.el9fdp
     fixed_versions: vers:rpm/25.03.2-100.el9fdp
     fixed_in_commits: []

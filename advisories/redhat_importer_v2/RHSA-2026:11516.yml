@@ -21,12 +21,17 @@ impacted_packages:
     fixed_versions: vers:rpm/0.11.7-2.el9_4.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/pcs?arch=aarch64
+  - purl: pkg:rpm/redhat/pcs-snmp?arch=aarch64
     affected_versions: vers:rpm/<0.11.7-2.el9_4.7
     fixed_versions: vers:rpm/0.11.7-2.el9_4.7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/pcs-snmp?arch=aarch64
+  - purl: pkg:rpm/redhat/pcs-snmp?arch=x86_64
+    affected_versions: vers:rpm/<0.11.7-2.el9_4.7
+    fixed_versions: vers:rpm/0.11.7-2.el9_4.7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/pcs?arch=aarch64
     affected_versions: vers:rpm/<0.11.7-2.el9_4.7
     fixed_versions: vers:rpm/0.11.7-2.el9_4.7
     fixed_in_commits: []
@@ -42,11 +47,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/pcs?arch=x86_64
-    affected_versions: vers:rpm/<0.11.7-2.el9_4.7
-    fixed_versions: vers:rpm/0.11.7-2.el9_4.7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/pcs-snmp?arch=x86_64
     affected_versions: vers:rpm/<0.11.7-2.el9_4.7
     fixed_versions: vers:rpm/0.11.7-2.el9_4.7
     fixed_in_commits: []

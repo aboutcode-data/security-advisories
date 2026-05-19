@@ -40,7 +40,7 @@ summary: |
     * java-21-openjdk-static-libs-slowdebug-21.0.11.0.10-1.hum1 (aarch64, x86_64)
     * java-21-openjdk-21.0.11.0.10-1.hum1.src (src)
 impacted_packages:
-  - purl: pkg:rpm/redhat/java-21-openjdk?arch=aarch64&distro=hummingbird-20251124&repository_id=public-hummingbird-aarch64-rpms
+  - purl: pkg:rpm/redhat/java-21-openjdk?arch=x86_64&distro=hummingbird-20251124&repository_id=public-hummingbird-x86_64-rpms
     affected_versions: vers:rpm/<21.0.11.0.10-1.hum1
     fixed_versions: vers:rpm/21.0.11.0.10-1.hum1
     fixed_in_commits: []
@@ -50,7 +50,7 @@ impacted_packages:
     fixed_versions: vers:rpm/21.0.11.0.10-1.hum1
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/java-21-openjdk?arch=x86_64&distro=hummingbird-20251124&repository_id=public-hummingbird-x86_64-rpms
+  - purl: pkg:rpm/redhat/java-21-openjdk?arch=aarch64&distro=hummingbird-20251124&repository_id=public-hummingbird-aarch64-rpms
     affected_versions: vers:rpm/<21.0.11.0.10-1.hum1
     fixed_versions: vers:rpm/21.0.11.0.10-1.hum1
     fixed_in_commits: []

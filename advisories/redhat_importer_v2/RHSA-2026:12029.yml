@@ -25,6 +25,41 @@ impacted_packages:
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo-tests?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo-tests?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo-debugsource?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/skopeo-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
+    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/skopeo?arch=aarch64&epoch=2
     affected_versions: vers:rpm/<1.14.5-2.el9_4.4
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
@@ -36,11 +71,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/skopeo-debugsource?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo-debuginfo?arch=aarch64&epoch=2
     affected_versions: vers:rpm/<1.14.5-2.el9_4.4
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
     fixed_in_commits: []
@@ -65,42 +95,12 @@ impacted_packages:
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo-tests?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/skopeo-debugsource?arch=x86_64&epoch=2
     affected_versions: vers:rpm/<1.14.5-2.el9_4.4
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/skopeo-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo-tests?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo-debugsource?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<1.14.5-2.el9_4.4
-    fixed_versions: vers:rpm/1.14.5-2.el9_4.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/skopeo-debuginfo?arch=s390x&epoch=2
     affected_versions: vers:rpm/<1.14.5-2.el9_4.4
     fixed_versions: vers:rpm/1.14.5-2.el9_4.4
     fixed_in_commits: []

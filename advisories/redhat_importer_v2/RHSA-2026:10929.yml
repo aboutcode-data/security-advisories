@@ -39,22 +39,12 @@ impacted_packages:
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=ppc64le
-    affected_versions: vers:rpm/<0.2.3-4.el10_0
-    fixed_versions: vers:rpm/0.2.3-4.el10_0
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-worker-playbook-debugsource?arch=ppc64le
     affected_versions: vers:rpm/<0.2.3-4.el10_0
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-worker-playbook-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<0.2.3-4.el10_0
-    fixed_versions: vers:rpm/0.2.3-4.el10_0
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=s390x
     affected_versions: vers:rpm/<0.2.3-4.el10_0
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []
@@ -69,17 +59,27 @@ impacted_packages:
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=x86_64
-    affected_versions: vers:rpm/<0.2.3-4.el10_0
-    fixed_versions: vers:rpm/0.2.3-4.el10_0
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-worker-playbook-debugsource?arch=x86_64
     affected_versions: vers:rpm/<0.2.3-4.el10_0
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/rhc-worker-playbook-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<0.2.3-4.el10_0
+    fixed_versions: vers:rpm/0.2.3-4.el10_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=ppc64le
+    affected_versions: vers:rpm/<0.2.3-4.el10_0
+    fixed_versions: vers:rpm/0.2.3-4.el10_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=s390x
+    affected_versions: vers:rpm/<0.2.3-4.el10_0
+    fixed_versions: vers:rpm/0.2.3-4.el10_0
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/rhc-worker-playbook?arch=x86_64
     affected_versions: vers:rpm/<0.2.3-4.el10_0
     fixed_versions: vers:rpm/0.2.3-4.el10_0
     fixed_in_commits: []

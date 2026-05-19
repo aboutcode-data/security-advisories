@@ -16,7 +16,147 @@ summary: |
 
   For more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.
 impacted_packages:
+  - purl: pkg:rpm/redhat/vim-debugsource?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-minimal?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-X11-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-minimal?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim?arch=src&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-X11?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-X11?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=aarch64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-enhanced?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xxd?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-debugsource?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=ppc64le&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-enhanced?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/xxd?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-X11-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-debuginfo?arch=s390x&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-X11?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-common?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=x86_64&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-data?arch=noarch&epoch=2
+    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
+    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/vim-filesystem?arch=noarch&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
@@ -46,16 +186,6 @@ impacted_packages:
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-debuginfo?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=aarch64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=aarch64&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
@@ -81,21 +211,6 @@ impacted_packages:
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-enhanced?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xxd?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-debugsource?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-X11-debuginfo?arch=ppc64le&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
@@ -111,82 +226,12 @@ impacted_packages:
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=ppc64le&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-minimal?arch=ppc64le&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-X11?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-common?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-enhanced?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xxd?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-debugsource?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-X11-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-minimal?arch=s390x&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-X11?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-common?arch=x86_64&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []
@@ -202,51 +247,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/vim-debugsource?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-X11-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-enhanced-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-minimal-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/xxd-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-minimal?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim?arch=src&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-data?arch=noarch&epoch=2
-    affected_versions: vers:rpm/<9.1.083-6.el10_1.4
-    fixed_versions: vers:rpm/9.1.083-6.el10_1.4
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/vim-filesystem?arch=noarch&epoch=2
     affected_versions: vers:rpm/<9.1.083-6.el10_1.4
     fixed_versions: vers:rpm/9.1.083-6.el10_1.4
     fixed_in_commits: []

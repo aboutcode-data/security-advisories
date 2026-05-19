@@ -101,12 +101,137 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo-common-x86_64?arch=x86_64
+  - purl: pkg:rpm/redhat/perf-debuginfo?arch=ppc64le
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=x86_64
+  - purl: pkg:rpm/redhat/kernel-tools-libs-devel?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-abi-whitelists?arch=noarch
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-devel?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python-perf?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo-common-ppc64le?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools-libs?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-bootwrapper?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/perf?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-tools?arch=ppc64le
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo-common-s390x?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-devel?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool?arch=s390x
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
@@ -116,27 +241,17 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/perf-debuginfo?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo-common-x86_64?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=x86_64
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
@@ -166,47 +281,7 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug-devel?arch=x86_64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-doc?arch=noarch
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-abi-whitelists?arch=noarch
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools-libs-devel?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=ppc64
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
@@ -217,36 +292,6 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/perf-debuginfo?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo-common-ppc64?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-devel?arch=ppc64
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python-perf?arch=ppc64
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
@@ -301,36 +346,6 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/perf-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo-common-ppc64le?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools-debuginfo?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug?arch=ppc64le
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
@@ -346,67 +361,7 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools-libs?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-bootwrapper?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/perf?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-tools?arch=ppc64le
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debug?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-debuginfo-common-s390x?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/kernel-devel?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/python-perf?arch=s390x
-    affected_versions: vers:rpm/<3.10.0-1062.el7
-    fixed_versions: vers:rpm/3.10.0-1062.el7
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/bpftool?arch=s390x
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
@@ -436,6 +391,21 @@ impacted_packages:
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []
     introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-doc?arch=noarch
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo-common-ppc64?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
   - purl: pkg:rpm/redhat/kernel-debug-devel?arch=s390x
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
@@ -452,6 +422,36 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=s390x
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debug-debuginfo?arch=ppc64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/bpftool-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/python-perf-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/perf-debuginfo?arch=x86_64
+    affected_versions: vers:rpm/<3.10.0-1062.el7
+    fixed_versions: vers:rpm/3.10.0-1062.el7
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/kernel?arch=ppc64le
     affected_versions: vers:rpm/<3.10.0-1062.el7
     fixed_versions: vers:rpm/3.10.0-1062.el7
     fixed_in_commits: []

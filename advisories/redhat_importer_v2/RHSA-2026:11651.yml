@@ -29,11 +29,6 @@ impacted_packages:
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-libs?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
-    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr?arch=x86_64&epoch=2
     affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
@@ -59,27 +54,17 @@ impacted_packages:
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=x86_64&epoch=2
-    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
-    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
-    fixed_in_commits: []
-    introduced_in_commits: []
   - purl: pkg:rpm/redhat/freerdp-libs?arch=i686&epoch=2
     affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr?arch=i686&epoch=2
+  - purl: pkg:rpm/redhat/freerdp-libs?arch=x86_64&epoch=2
     affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
     introduced_in_commits: []
-  - purl: pkg:rpm/redhat/libwinpr-devel?arch=i686&epoch=2
-    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
-    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
-    fixed_in_commits: []
-    introduced_in_commits: []
-  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=i686&epoch=2
+  - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=x86_64&epoch=2
     affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
@@ -95,6 +80,21 @@ impacted_packages:
     fixed_in_commits: []
     introduced_in_commits: []
   - purl: pkg:rpm/redhat/libwinpr-debuginfo?arch=i686&epoch=2
+    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
+    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr?arch=i686&epoch=2
+    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
+    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/libwinpr-devel?arch=i686&epoch=2
+    affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
+    fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
+    fixed_in_commits: []
+    introduced_in_commits: []
+  - purl: pkg:rpm/redhat/freerdp-debugsource?arch=i686&epoch=2
     affected_versions: vers:rpm/<2.0.0-46.rc4.el8_2.11
     fixed_versions: vers:rpm/2.0.0-46.rc4.el8_2.11
     fixed_in_commits: []
