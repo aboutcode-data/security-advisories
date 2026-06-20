@@ -1,0 +1,5 @@
+- purl: pkg:pypi/astrbot@4.23.6
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-f63h-wc26-pmvc
+    - gitlab/pypi/astrbot/CVE-2026-8754

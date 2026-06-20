@@ -1,0 +1,5 @@
+- purl: pkg:pypi/apache-airflow-providers-sftp@5.1.0
+  affected_by_advisories:
+    - pypa/apache-airflow-providers-sftp/PYSEC-2026-218
+    - pysec/PYSEC-2026-218
+  fixing_advisories: []

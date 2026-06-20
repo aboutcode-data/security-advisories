@@ -1,0 +1,4 @@
+- purl: pkg:pypi/apm@0.5.4
+  affected_by_advisories:
+    - gitlab/pypi/apm/CVE-2026-45539
+  fixing_advisories: []

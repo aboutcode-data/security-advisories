@@ -1,0 +1,5 @@
+- purl: pkg:pypi/apache-airflow-providers-samba@2.0.0rc1
+  affected_by_advisories:
+    - pypa/apache-airflow-providers-samba/PYSEC-2026-208
+    - pysec/PYSEC-2026-208
+  fixing_advisories: []

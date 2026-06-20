@@ -1,4 +1,5 @@
 - purl: pkg:pypi/apm@0.13.0
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-q5pp-gvjg-h7v4
+    - github_osv/GHSA-q5pp-gvjg-h7v4
+    - gitlab/pypi/apm/CVE-2026-45539
