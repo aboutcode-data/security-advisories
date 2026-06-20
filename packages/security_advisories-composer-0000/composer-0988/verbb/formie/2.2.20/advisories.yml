@@ -1,4 +1,6 @@
 - purl: pkg:composer/verbb/formie@2.2.20
-  affected_by_advisories: []
+  affected_by_advisories:
+    - github_osv/GHSA-pgxq-p76c-x9cg
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-x7m9-mwc2-g6w2
+    - github_osv/GHSA-x7m9-mwc2-g6w2
+    - gitlab/packagist/verbb/formie/CVE-2026-45697
