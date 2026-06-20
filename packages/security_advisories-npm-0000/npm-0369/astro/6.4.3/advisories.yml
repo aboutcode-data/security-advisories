@@ -1,0 +1,5 @@
+- purl: pkg:npm/astro@6.4.3
+  affected_by_advisories:
+    - github_osv/GHSA-2pvr-wf23-7pc7
+    - github_osv/GHSA-jrpj-wcv7-9fh9
+  fixing_advisories: []
