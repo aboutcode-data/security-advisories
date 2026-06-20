@@ -1,0 +1,11 @@
+- purl: pkg:deb/ubuntu/openexr@2.2.0-10ubuntu2.6%2Besm4?arch=source&distro=esm-infra/xenial
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2021-20298
+    - ubuntu_osv/UBUNTU-CVE-2021-20299
+    - ubuntu_osv/UBUNTU-CVE-2021-20300
+    - ubuntu_osv/UBUNTU-CVE-2021-20302
+    - ubuntu_osv/UBUNTU-CVE-2021-20303
+    - ubuntu_osv/UBUNTU-CVE-2021-20304
+    - ubuntu_osv/UBUNTU-CVE-2021-45942
+    - ubuntu_osv/UBUNTU-CVE-2024-31047
+  fixing_advisories: []

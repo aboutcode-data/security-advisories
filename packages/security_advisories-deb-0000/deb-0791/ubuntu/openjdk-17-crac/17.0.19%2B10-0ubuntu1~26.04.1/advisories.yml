@@ -1,0 +1,5 @@
+- purl: pkg:deb/ubuntu/openjdk-17-crac@17.0.19%2B10-0ubuntu1~26.04.1?arch=source&distro=resolute
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-53057
+    - ubuntu_osv/UBUNTU-CVE-2025-53066
+  fixing_advisories: []
