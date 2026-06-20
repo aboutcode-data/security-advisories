@@ -1,0 +1,5 @@
+- purl: pkg:deb/ubuntu/squid@5.9-0ubuntu0.22.04.7?arch=source&distro=jammy
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2019-12522
+    - ubuntu_osv/UBUNTU-CVE-2025-21311
+  fixing_advisories: []

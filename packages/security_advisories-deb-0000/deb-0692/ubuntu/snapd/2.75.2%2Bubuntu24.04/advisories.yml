@@ -1,0 +1,7 @@
+- purl: pkg:deb/ubuntu/snapd@2.75.2%2Bubuntu24.04?arch=source&distro=noble
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2019-11840
+    - ubuntu_osv/UBUNTU-CVE-2025-47913
+    - ubuntu_osv/UBUNTU-CVE-2025-47914
+    - ubuntu_osv/UBUNTU-CVE-2025-58181
+  fixing_advisories: []
