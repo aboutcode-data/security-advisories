@@ -1,0 +1,7 @@
+- purl: pkg:deb/ubuntu/netatalk@2.2.2-1ubuntu2.2%2Besm3?arch=source&distro=esm-infra-legacy/trusty
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2022-0194
+    - ubuntu_osv/UBUNTU-CVE-2022-23122
+    - ubuntu_osv/UBUNTU-CVE-2022-23124
+    - ubuntu_osv/UBUNTU-CVE-2022-43634
+  fixing_advisories: []
