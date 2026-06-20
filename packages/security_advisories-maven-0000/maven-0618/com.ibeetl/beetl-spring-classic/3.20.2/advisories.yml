@@ -1,0 +1,4 @@
+- purl: pkg:maven/com.ibeetl/beetl-spring-classic@3.20.2
+  affected_by_advisories:
+    - gitlab/maven/com.ibeetl/beetl-spring-classic/CVE-2026-8759
+  fixing_advisories: []
