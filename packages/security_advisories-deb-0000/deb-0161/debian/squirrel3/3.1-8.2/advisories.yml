@@ -1,6 +1,5 @@
 - purl: pkg:deb/debian/squirrel3@3.1-8.2?distro=trixie
-  affected_by_advisories: []
+  affected_by_advisories:
+    - debian/squirrel3/CVE-2021-41556
   fixing_advisories:
-    - debian_importer_v2/squirrel3/CVE-2022-30292
-    - debian_importer_v2/squirrel3/CVE-2022-30292
-    - debian_importer_v2/squirrel3/CVE-2022-30292
+    - debian/squirrel3/CVE-2022-30292
