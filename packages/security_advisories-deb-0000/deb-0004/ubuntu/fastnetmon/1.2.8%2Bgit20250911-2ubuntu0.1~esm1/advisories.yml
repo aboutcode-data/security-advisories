@@ -1,0 +1,4 @@
+- purl: pkg:deb/ubuntu/fastnetmon@1.2.8%2Bgit20250911-2ubuntu0.1~esm1?arch=source&distro=esm-apps/resolute
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2024-56072
+  fixing_advisories: []
