@@ -1,0 +1,5 @@
+- purl: pkg:deb/ubuntu/tomcat9@9.0.95-1ubuntu1.1?arch=source&distro=questing
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2024-50379
+    - ubuntu_osv/UBUNTU-CVE-2025-66614
+  fixing_advisories: []
