@@ -1,0 +1,4 @@
+- purl: pkg:maven/io.goobi.viewer/viewer-core@26.4.0
+  affected_by_advisories:
+    - gitlab/maven/io.goobi.viewer/viewer-core/CVE-2026-45083
+  fixing_advisories: []

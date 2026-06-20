@@ -1,4 +1,5 @@
 - purl: pkg:maven/io.goobi.viewer/viewer-core@4.8.0
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-2rgp-f66f-4499
+    - github_osv/GHSA-2rgp-f66f-4499
+    - gitlab/maven/io.goobi.viewer/viewer-core/CVE-2026-45083
   fixing_advisories: []
