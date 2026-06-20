@@ -1,0 +1,18 @@
+- purl: pkg:pypi/open-webui@0.9.6
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-226f-f24g-524w
+    - github_osv/GHSA-3vv5-8xxp-4f55
+    - github_osv/GHSA-4r4w-2wgp-w7cj
+    - github_osv/GHSA-9rpj-v7hf-vv2w
+    - github_osv/GHSA-cx9v-4qj2-jrw6
+    - github_osv/GHSA-f3g7-59qc-pqg6
+    - github_osv/GHSA-j2c8-v969-8r5c
+    - github_osv/GHSA-jrfp-m64g-pcwv
+    - github_osv/GHSA-p5cp-r7rg-qpxc
+    - github_osv/GHSA-r2wg-2mcr-66rv
+    - github_osv/GHSA-v2qm-5wxj-qhj7
+    - github_osv/GHSA-v8qj-hxv7-mgvv
+    - github_osv/GHSA-vjqm-6gcc-62cr
+    - github_osv/GHSA-vrhc-3fr6-pc3c
+    - github_osv/GHSA-wch8-mhj5-9frg
