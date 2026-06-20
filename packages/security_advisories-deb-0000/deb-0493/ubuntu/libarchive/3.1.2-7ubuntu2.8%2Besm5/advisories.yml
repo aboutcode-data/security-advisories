@@ -1,0 +1,5 @@
+- purl: pkg:deb/ubuntu/libarchive@3.1.2-7ubuntu2.8%2Besm5?arch=source&distro=esm-infra-legacy/trusty
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2021-23177
+    - ubuntu_osv/UBUNTU-CVE-2021-31566
+  fixing_advisories: []

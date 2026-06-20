@@ -1,0 +1,5 @@
+- purl: pkg:deb/ubuntu/libarchive@3.1.2-11ubuntu0.16.04.8%2Besm3?arch=source&distro=esm-infra-legacy/xenial
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2021-23177
+    - ubuntu_osv/UBUNTU-CVE-2021-31566
+  fixing_advisories: []

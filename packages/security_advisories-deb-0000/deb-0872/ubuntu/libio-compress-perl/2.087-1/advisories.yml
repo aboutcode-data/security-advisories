@@ -1,0 +1,4 @@
+- purl: pkg:deb/ubuntu/libio-compress-perl@2.087-1?arch=source&distro=focal
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-15649
+  fixing_advisories: []

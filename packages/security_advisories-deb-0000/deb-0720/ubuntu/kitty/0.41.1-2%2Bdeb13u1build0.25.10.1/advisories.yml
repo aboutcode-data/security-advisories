@@ -1,0 +1,4 @@
+- purl: pkg:deb/ubuntu/kitty@0.41.1-2%2Bdeb13u1build0.25.10.1?arch=source&distro=questing
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-43929
+  fixing_advisories: []
