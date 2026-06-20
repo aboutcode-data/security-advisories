@@ -1,0 +1,16 @@
+- purl: pkg:deb/ubuntu/apache2@2.4.7-1ubuntu4.22%2Besm12?arch=source&distro=esm-infra-legacy/trusty
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2019-10092
+    - ubuntu_osv/UBUNTU-CVE-2019-10098
+    - ubuntu_osv/UBUNTU-CVE-2019-17567
+    - ubuntu_osv/UBUNTU-CVE-2022-36760
+    - ubuntu_osv/UBUNTU-CVE-2022-37436
+    - ubuntu_osv/UBUNTU-CVE-2024-39884
+  fixing_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2024-38477
+    - ubuntu_osv/UBUNTU-CVE-2024-42516
+    - ubuntu_osv/UBUNTU-CVE-2024-47252
+    - ubuntu_osv/UBUNTU-CVE-2025-49812
+    - ubuntu_osv/UBUNTU-CVE-2025-58098
+    - ubuntu_osv/UBUNTU-CVE-2025-65082
+    - ubuntu_osv/UBUNTU-CVE-2025-66200
