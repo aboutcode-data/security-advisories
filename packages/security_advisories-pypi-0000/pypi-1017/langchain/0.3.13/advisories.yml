@@ -1,5 +1,8 @@
 - purl: pkg:pypi/langchain@0.3.13
   affected_by_advisories:
-    - pypa_importer_v2/langchain/PYSEC-2024-111
-    - pysec_importer_v2/PYSEC-2024-111
+    - github_osv/GHSA-3644-q5cj-c5c7
+    - github_osv/GHSA-gr75-jv2w-4656
+    - gitlab/pypi/langchain/CVE-2026-45134
+    - pypa/langchain/PYSEC-2024-111
+    - pysec/PYSEC-2024-111
   fixing_advisories: []

@@ -1,4 +1,8 @@
 - purl: pkg:pypi/langflow@1.9.1
-  affected_by_advisories: []
+  affected_by_advisories:
+    - github_osv/GHSA-rcjh-r59h-gq37
+    - github_osv/GHSA-v5ff-9q35-q26f
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-9jpj-cph8-w449
+    - github_osv/GHSA-9jpj-cph8-w449
+    - github_osv/GHSA-x223-p2gf-v735
+    - gitlab/pypi/langflow/CVE-2026-6598

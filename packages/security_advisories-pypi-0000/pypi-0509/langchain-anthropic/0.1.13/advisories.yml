@@ -1,0 +1,4 @@
+- purl: pkg:pypi/langchain-anthropic@0.1.13
+  affected_by_advisories:
+    - github_osv/GHSA-gr75-jv2w-4656
+  fixing_advisories: []

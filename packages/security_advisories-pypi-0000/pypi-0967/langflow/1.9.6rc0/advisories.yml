@@ -1,0 +1,4 @@
+- purl: pkg:pypi/langflow@1.9.6rc0
+  affected_by_advisories:
+    - github_osv/GHSA-rcjh-r59h-gq37
+  fixing_advisories: []
