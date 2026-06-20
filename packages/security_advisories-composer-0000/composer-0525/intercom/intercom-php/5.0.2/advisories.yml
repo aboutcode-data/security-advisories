@@ -1,4 +1,6 @@
 - purl: pkg:composer/intercom/intercom-php@5.0.2
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-gr3r-crp5-qrrm
+    - github_osv/GHSA-gr3r-crp5-qrrm
+    - gitlab/packagist/intercom/intercom-php/GHSA-gr3r-crp5-qrrm
+    - gitlab/packagist/intercom/intercom-php/GMS-2026-568
   fixing_advisories: []
