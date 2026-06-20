@@ -1,4 +1,5 @@
 - purl: pkg:composer/nabeel/phpvms@7.0.6
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-fv26-4939-62fh
+    - github_osv/GHSA-fv26-4939-62fh
+    - gitlab/packagist/nabeel/phpvms/CVE-2026-42569
