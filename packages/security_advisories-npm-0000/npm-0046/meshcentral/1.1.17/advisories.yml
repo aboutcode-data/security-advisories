@@ -1,8 +1,7 @@
 - purl: pkg:npm/meshcentral@1.1.17
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-cp68-qrhr-g9h8
-    - gitlab_importer_v2/npm/meshcentral/CVE-2024-26135
-    - gitlab_importer_v2/npm/meshcentral/CVE-2024-26135
+    - github_osv/GHSA-cp68-qrhr-g9h8
+    - gitlab/npm/meshcentral/CVE-2024-26135
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-wpxw-5xfm-x22v
-    - gitlab_importer_v2/npm/meshcentral/CVE-2023-51842
+    - github_osv/GHSA-wpxw-5xfm-x22v
+    - gitlab/npm/meshcentral/CVE-2023-51842

@@ -1,6 +1,5 @@
 - purl: pkg:npm/mootools-more@1.6.0
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-fw45-938v-p26j
-    - gitlab_importer_v2/npm/mootools-more/CVE-2021-20088
-    - gitlab_importer_v2/npm/mootools-more/CVE-2021-20088
+    - github_osv/GHSA-fw45-938v-p26j
+    - gitlab/npm/mootools-more/CVE-2021-20088
   fixing_advisories: []
