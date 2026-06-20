@@ -1,0 +1,8 @@
+- purl: pkg:deb/ubuntu/qemu@1:4.2-3ubuntu6.30%2Besm2?arch=source&distro=esm-infra/focal
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2019-12067
+    - ubuntu_osv/UBUNTU-CVE-2021-20255
+    - ubuntu_osv/UBUNTU-CVE-2021-3735
+    - ubuntu_osv/UBUNTU-CVE-2022-3872
+    - ubuntu_osv/UBUNTU-CVE-2024-8612
+  fixing_advisories: []
