@@ -1,0 +1,5 @@
+- purl: pkg:npm/%40mastra/mcp-docs-server@0.0.0-caleb-channels-on-lease-20260618212638
+  affected_by_advisories:
+    - gitlab/npm/@mastra/mcp-docs-server/CVE-2025-61685
+    - gitlab/npm/@mastra/mcp-docs-server/GHSA-xh92-rqrq-227v
+  fixing_advisories: []
