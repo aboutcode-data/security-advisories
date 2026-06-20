@@ -1,4 +1,5 @@
 - purl: pkg:maven/org.jenkins-ci.plugins/matrix-auth@3.2.10
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-jp9r-mmhw-vff3
+    - github_osv/GHSA-jp9r-mmhw-vff3
+    - gitlab/maven/org.jenkins-ci.plugins/matrix-auth/CVE-2026-42521
