@@ -1,4 +1,5 @@
 - purl: pkg:gem/erb@4.0.2
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-q339-8rmv-2mhv
+    - github_osv/GHSA-q339-8rmv-2mhv
+    - gitlab/gem/erb/CVE-2026-41316
   fixing_advisories: []
