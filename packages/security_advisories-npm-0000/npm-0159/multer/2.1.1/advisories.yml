@@ -1,6 +1,7 @@
 - purl: pkg:npm/multer@2.1.1
-  affected_by_advisories: []
+  affected_by_advisories:
+    - github_osv/GHSA-3p4h-7m6x-2hcm
+    - github_osv/GHSA-72gw-mp4g-v24j
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-5528-5vmv-3xc2
-    - gitlab_importer_v2/npm/multer/CVE-2026-3520
-    - gitlab_importer_v2/npm/multer/CVE-2026-3520
+    - github_osv/GHSA-5528-5vmv-3xc2
+    - gitlab/npm/multer/CVE-2026-3520

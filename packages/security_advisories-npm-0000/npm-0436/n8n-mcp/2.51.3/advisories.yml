@@ -1,4 +1,5 @@
 - purl: pkg:npm/n8n-mcp@2.51.3
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-f3rg-xqjj-cj9w
+    - github_osv/GHSA-f3rg-xqjj-cj9w
+    - gitlab/npm/n8n-mcp/CVE-2026-45582
