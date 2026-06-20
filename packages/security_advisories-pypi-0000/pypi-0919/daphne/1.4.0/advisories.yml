@@ -1,0 +1,7 @@
+- purl: pkg:pypi/daphne@1.4.0
+  affected_by_advisories:
+    - pypa/daphne/PYSEC-2026-213
+    - pypa/daphne/PYSEC-2026-214
+    - pysec/PYSEC-2026-213
+    - pysec/PYSEC-2026-214
+  fixing_advisories: []
