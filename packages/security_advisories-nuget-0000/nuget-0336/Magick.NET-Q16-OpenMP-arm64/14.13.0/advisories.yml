@@ -1,0 +1,27 @@
+- purl: pkg:nuget/Magick.NET-Q16-OpenMP-arm64@14.13.0
+  affected_by_advisories:
+    - github_osv/GHSA-36wm-hprc-mcf5
+    - github_osv/GHSA-533m-3wf6-c33v
+    - github_osv/GHSA-5r4x-w6p5-222q
+    - github_osv/GHSA-7gg8-qqx7-92g5
+    - github_osv/GHSA-7wff-wpr6-vmhm
+    - github_osv/GHSA-cr6r-hmj8-pr7r
+    - github_osv/GHSA-cwpj-h54c-xjpx
+    - github_osv/GHSA-g5mf-wqq5-vwg6
+    - github_osv/GHSA-jcqp-6r6f-3mfx
+    - github_osv/GHSA-pfvh-m9xv-8966
+    - github_osv/GHSA-rcr6-g7jc-f57g
+    - github_osv/GHSA-vhrh-72hq-w8m7
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-42326
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-45031
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-45358
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-45359
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-45624
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-45664
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46520
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46521
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46522
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46523
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46557
+    - gitlab/nuget/Magick.NET-Q16-OpenMP-arm64/CVE-2026-46559
+  fixing_advisories: []
