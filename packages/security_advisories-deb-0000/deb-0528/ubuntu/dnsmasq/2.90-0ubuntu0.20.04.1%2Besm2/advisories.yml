@@ -1,0 +1,6 @@
+- purl: pkg:deb/ubuntu/dnsmasq@2.90-0ubuntu0.20.04.1%2Besm2?arch=source&distro=esm-infra/focal
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-12198
+    - ubuntu_osv/UBUNTU-CVE-2025-12199
+    - ubuntu_osv/UBUNTU-CVE-2025-12200
+  fixing_advisories: []
