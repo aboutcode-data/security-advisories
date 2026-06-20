@@ -1,0 +1,12 @@
+- purl: pkg:deb/ubuntu/imagemagick@8:7.1.2.3%2Bdfsg1-1ubuntu0.1?arch=source&distro=questing
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-55004
+    - ubuntu_osv/UBUNTU-CVE-2025-55005
+    - ubuntu_osv/UBUNTU-CVE-2025-62171
+    - ubuntu_osv/UBUNTU-CVE-2025-62594
+    - ubuntu_osv/UBUNTU-CVE-2025-66628
+    - ubuntu_osv/UBUNTU-CVE-2025-68469
+    - ubuntu_osv/UBUNTU-CVE-2025-68618
+    - ubuntu_osv/UBUNTU-CVE-2025-68950
+    - ubuntu_osv/UBUNTU-CVE-2025-69204
+  fixing_advisories: []

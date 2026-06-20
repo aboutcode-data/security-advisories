@@ -1,0 +1,9 @@
+- purl: pkg:deb/ubuntu/imagemagick@8:6.8.9.9-7ubuntu5.16%2Besm20?arch=source&distro=esm-infra/xenial
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2016-8866
+    - ubuntu_osv/UBUNTU-CVE-2018-17967
+    - ubuntu_osv/UBUNTU-CVE-2025-55005
+    - ubuntu_osv/UBUNTU-CVE-2025-66628
+    - ubuntu_osv/UBUNTU-CVE-2025-68469
+    - ubuntu_osv/UBUNTU-CVE-2025-68950
+  fixing_advisories: []

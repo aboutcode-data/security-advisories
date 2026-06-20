@@ -1,0 +1,7 @@
+- purl: pkg:deb/ubuntu/imagemagick@8:6.9.12.98%2Bdfsg1-5.2ubuntu0.1~esm9?arch=source&distro=esm-apps/noble
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2025-55005
+    - ubuntu_osv/UBUNTU-CVE-2025-66628
+    - ubuntu_osv/UBUNTU-CVE-2025-68469
+    - ubuntu_osv/UBUNTU-CVE-2025-68950
+  fixing_advisories: []

@@ -1,0 +1,14 @@
+- purl: pkg:deb/ubuntu/imagemagick@8:6.7.7.10-6ubuntu3.13%2Besm21?arch=source&distro=esm-infra-legacy/trusty
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2016-8866
+    - ubuntu_osv/UBUNTU-CVE-2018-17967
+    - ubuntu_osv/UBUNTU-CVE-2025-55005
+    - ubuntu_osv/UBUNTU-CVE-2025-66628
+    - ubuntu_osv/UBUNTU-CVE-2025-68469
+    - ubuntu_osv/UBUNTU-CVE-2025-68950
+  fixing_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2018-15607
+    - ubuntu_osv/UBUNTU-CVE-2018-18544
+    - ubuntu_osv/UBUNTU-CVE-2019-13137
+    - ubuntu_osv/UBUNTU-CVE-2019-13391
+    - ubuntu_osv/UBUNTU-CVE-2019-14981
