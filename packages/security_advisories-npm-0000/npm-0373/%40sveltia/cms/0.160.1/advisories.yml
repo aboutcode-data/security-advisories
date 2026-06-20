@@ -1,4 +1,5 @@
 - purl: pkg:npm/%40sveltia/cms@0.160.1
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-97r8-rf7q-wmjw
+    - github_osv/GHSA-97r8-rf7q-wmjw
+    - gitlab/npm/@sveltia/cms/GHSA-97r8-rf7q-wmjw

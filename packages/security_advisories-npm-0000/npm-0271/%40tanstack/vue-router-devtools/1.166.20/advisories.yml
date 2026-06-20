@@ -1,5 +1,6 @@
 - purl: pkg:npm/%40tanstack/vue-router-devtools@1.166.20
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-g7cv-rxg3-hmpx
-    - github_osv_importer_v2/GHSA-g7cv-rxg3-hmpx
+    - github_osv/GHSA-g7cv-rxg3-hmpx
+    - github_osv/GHSA-g7cv-rxg3-hmpx
+    - gitlab/npm/@tanstack/vue-router-devtools/CVE-2026-45321

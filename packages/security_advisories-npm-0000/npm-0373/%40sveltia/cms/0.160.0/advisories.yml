@@ -1,0 +1,4 @@
+- purl: pkg:npm/%40sveltia/cms@0.160.0
+  affected_by_advisories:
+    - gitlab/npm/@sveltia/cms/GHSA-97r8-rf7q-wmjw
+  fixing_advisories: []

@@ -1,4 +1,6 @@
 - purl: pkg:npm/%40tanstack/router-devtools@1.166.16
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-g7cv-rxg3-hmpx
+    - github_osv/GHSA-g7cv-rxg3-hmpx
+    - gitlab/npm/@tanstack/router-devtools/CVE-2026-45321
+    - gitlab/npm/@tanstack/router-devtools/GMS-2026-424
   fixing_advisories: []
