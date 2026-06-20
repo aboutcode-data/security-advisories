@@ -1,0 +1,13 @@
+advisory_id: rust-postgres-protocol/TEMP-1139876-2010E8
+datasource_id: debian/rust-postgres-protocol/TEMP-1139876-2010E8
+datasource_url: https://security-tracker.debian.org/tracker/TEMP-1139876-2010E8
+aliases:
+  - TEMP-1139876-2010E8
+summary:
+impacted_packages: []
+severities: []
+weaknesses: []
+references:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1139876
+    reference_type:
+    reference_id: 1139876

@@ -1,0 +1,13 @@
+advisory_id: rust-diesel/TEMP-1139877-7225AC
+datasource_id: debian/rust-diesel/TEMP-1139877-7225AC
+datasource_url: https://security-tracker.debian.org/tracker/TEMP-1139877-7225AC
+aliases:
+  - TEMP-1139877-7225AC
+summary:
+impacted_packages: []
+severities: []
+weaknesses: []
+references:
+  - url: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1139877
+    reference_type:
+    reference_id: 1139877
