@@ -1,0 +1,11 @@
+- purl: pkg:pypi/vllm@0.20.2
+  affected_by_advisories:
+    - github_osv/GHSA-3ww4-5jv9-j5gm
+    - github_osv/GHSA-5jv2-g5wq-cmr4
+    - github_osv/GHSA-6pr9-rp53-2pmc
+    - github_osv/GHSA-7h4p-rffg-7823
+    - github_osv/GHSA-8jr5-v98p-w75m
+    - github_osv/GHSA-94f4-hr76-p5j6
+    - github_osv/GHSA-hgg8-fqqc-vfmw
+    - github_osv/GHSA-q8gq-377p-jq3r
+  fixing_advisories: []

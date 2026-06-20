@@ -1,5 +1,7 @@
 - purl: pkg:pypi/utcp-cli@1.1.2
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-33p6-5jxp-p3x4
-    - github_osv_importer_v2/GHSA-5v57-8rxj-3p2r
+    - github_osv/GHSA-33p6-5jxp-p3x4
+    - github_osv/GHSA-5v57-8rxj-3p2r
+    - gitlab/pypi/utcp-cli/CVE-2026-45369
+    - gitlab/pypi/utcp-cli/CVE-2026-45370
