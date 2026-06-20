@@ -1,0 +1,4 @@
+- purl: pkg:deb/debian/gsasl@2.2.2-1.1%2Bdeb13u2?distro=trixie
+  affected_by_advisories: []
+  fixing_advisories:
+    - debian/gsasl/TEMP-0000000-3CAD20
