@@ -1,0 +1,7 @@
+- purl: pkg:deb/debian/dulwich@1.2.5-1?distro=trixie
+  affected_by_advisories: []
+  fixing_advisories:
+    - debian/dulwich/CVE-2026-42563
+    - debian/dulwich/CVE-2026-47712
+    - debian/dulwich/CVE-2026-47734
+    - debian/dulwich/CVE-2026-52726
