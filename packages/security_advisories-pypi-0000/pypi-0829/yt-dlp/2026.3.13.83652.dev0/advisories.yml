@@ -1,0 +1,7 @@
+- purl: pkg:pypi/yt-dlp@2026.3.13.83652.dev0
+  affected_by_advisories:
+    - github_osv/GHSA-69qj-pvh9-c5wg
+    - github_osv/GHSA-c6mh-fpjc-4pr3
+    - github_osv/GHSA-f7j3-774f-rfhj
+    - github_osv/GHSA-vx4q-3cr2-7cg2
+  fixing_advisories: []
