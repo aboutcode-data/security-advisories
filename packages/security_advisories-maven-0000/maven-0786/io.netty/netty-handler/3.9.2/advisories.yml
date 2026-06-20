@@ -1,6 +1,5 @@
 - purl: pkg:maven/io.netty/netty-handler@3.9.2
   affected_by_advisories: []
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-9959-6p3m-wxpc
-    - gitlab_importer_v2/maven/io.netty/netty-handler/CVE-2014-3488
-    - gitlab_importer_v2/maven/io.netty/netty-handler/CVE-2014-3488
+    - github_osv/GHSA-9959-6p3m-wxpc
+    - gitlab/maven/io.netty/netty-handler/CVE-2014-3488
