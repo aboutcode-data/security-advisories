@@ -1,0 +1,6 @@
+- purl: pkg:deb/ubuntu/onnx@1.14.1-2.1ubuntu0.1~esm1?arch=source&distro=esm-apps/noble
+  affected_by_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2024-7776
+    - ubuntu_osv/UBUNTU-CVE-2025-51480
+  fixing_advisories:
+    - ubuntu_osv/UBUNTU-CVE-2024-5187
