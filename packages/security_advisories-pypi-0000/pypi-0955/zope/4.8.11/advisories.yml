@@ -1,14 +1,12 @@
 - purl: pkg:pypi/zope@4.8.11
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-g5vw-3h65-2q3v
-    - github_osv_importer_v2/GHSA-wm8q-9975-xh5v
-    - gitlab_importer_v2/pypi/zope/CVE-2024-51734
-    - gitlab_importer_v2/pypi/zope/CVE-2024-51734
-    - pypa_importer_v2/zope/PYSEC-2017-148
-    - pysec_importer_v2/PYSEC-2017-148
+    - github_osv/GHSA-g5vw-3h65-2q3v
+    - github_osv/GHSA-wm8q-9975-xh5v
+    - gitlab/pypi/zope/CVE-2024-51734
+    - pypa/zope/PYSEC-2017-148
+    - pysec/PYSEC-2017-148
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-m755-gxxg-r5qh
-    - gitlab_importer_v2/pypi/zope/CVE-2023-44389
-    - gitlab_importer_v2/pypi/zope/CVE-2023-44389
-    - pypa_importer_v2/zope/PYSEC-2023-193
-    - pysec_importer_v2/PYSEC-2023-193
+    - github_osv/GHSA-m755-gxxg-r5qh
+    - gitlab/pypi/zope/CVE-2023-44389
+    - pypa/zope/PYSEC-2023-193
+    - pysec/PYSEC-2023-193
