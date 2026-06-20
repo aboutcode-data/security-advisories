@@ -1,0 +1,4 @@
+- purl: pkg:pypi/litellm@1.84.0
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-4xpc-pv4p-pm3w
