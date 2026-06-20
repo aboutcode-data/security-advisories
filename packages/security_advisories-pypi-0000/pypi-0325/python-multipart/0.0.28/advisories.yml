@@ -1,0 +1,7 @@
+- purl: pkg:pypi/python-multipart@0.0.28
+  affected_by_advisories:
+    - github_osv/GHSA-5rvq-cxj2-64vf
+    - github_osv/GHSA-6jv3-5f52-599m
+    - github_osv/GHSA-v9pg-7xvm-68hf
+    - github_osv/GHSA-vffw-93wf-4j4q
+  fixing_advisories: []

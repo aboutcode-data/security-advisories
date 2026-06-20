@@ -1,0 +1,5 @@
+- purl: pkg:pypi/pypdf@6.13.0
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-52x6-gq3r-vpf4
+    - github_osv/GHSA-m2v9-299j-rv96

@@ -1,14 +1,24 @@
 - purl: pkg:pypi/pypdf@6.9.1
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-3crg-w4f6-42mx
-    - github_osv_importer_v2/GHSA-4pxv-j86v-mhcw
-    - github_osv_importer_v2/GHSA-7gw9-cf7v-778f
-    - github_osv_importer_v2/GHSA-87mj-5ggw-8qc3
-    - github_osv_importer_v2/GHSA-jj6c-8h6c-hppx
-    - github_osv_importer_v2/GHSA-x284-j5p8-9c5p
-    - gitlab_importer_v2/pypi/pypdf/CVE-2026-33699
-    - gitlab_importer_v2/pypi/pypdf/CVE-2026-33699
+    - github_osv/GHSA-248m-82v9-q6g6
+    - github_osv/GHSA-3crg-w4f6-42mx
+    - github_osv/GHSA-4pxv-j86v-mhcw
+    - github_osv/GHSA-52x6-gq3r-vpf4
+    - github_osv/GHSA-5hgr-hg42-57jg
+    - github_osv/GHSA-7gw9-cf7v-778f
+    - github_osv/GHSA-87mj-5ggw-8qc3
+    - github_osv/GHSA-cj93-chg6-vgv8
+    - github_osv/GHSA-j543-4vmf-qm7v
+    - github_osv/GHSA-jj6c-8h6c-hppx
+    - github_osv/GHSA-m2v9-299j-rv96
+    - github_osv/GHSA-wjqc-6w8f-h24c
+    - github_osv/GHSA-x284-j5p8-9c5p
+    - gitlab/pypi/pypdf/CVE-2026-33699
+    - gitlab/pypi/pypdf/CVE-2026-40260
+    - gitlab/pypi/pypdf/CVE-2026-41168
+    - gitlab/pypi/pypdf/CVE-2026-41312
+    - gitlab/pypi/pypdf/CVE-2026-41313
+    - gitlab/pypi/pypdf/CVE-2026-41314
   fixing_advisories:
-    - github_osv_importer_v2/GHSA-qpxp-75px-xjcp
-    - gitlab_importer_v2/pypi/pypdf/CVE-2026-33123
-    - gitlab_importer_v2/pypi/pypdf/CVE-2026-33123
+    - github_osv/GHSA-qpxp-75px-xjcp
+    - gitlab/pypi/pypdf/CVE-2026-33123

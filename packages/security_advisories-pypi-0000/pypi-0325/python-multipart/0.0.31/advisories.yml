@@ -1,0 +1,4 @@
+- purl: pkg:pypi/python-multipart@0.0.31
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-v9pg-7xvm-68hf

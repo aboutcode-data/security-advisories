@@ -1,6 +1,5 @@
 - purl: pkg:pypi/pygments@2.17.1
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-5239-wwwm-4pmq
-    - gitlab_importer_v2/pypi/Pygments/CVE-2026-4539
-    - gitlab_importer_v2/pypi/Pygments/CVE-2026-4539
+    - github_osv/GHSA-5239-wwwm-4pmq
+    - gitlab/pypi/Pygments/CVE-2026-4539
   fixing_advisories: []
