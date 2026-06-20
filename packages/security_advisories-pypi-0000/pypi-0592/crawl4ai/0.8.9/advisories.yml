@@ -1,0 +1,4 @@
+- purl: pkg:pypi/crawl4ai@0.8.9
+  affected_by_advisories: []
+  fixing_advisories:
+    - github_osv/GHSA-6qhc-x826-342c
