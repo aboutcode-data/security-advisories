@@ -1,10 +1,9 @@
 - purl: pkg:npm/lodash-amd@2.4.0
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-f23m-r3pf-42rh
-    - github_osv_importer_v2/GHSA-jf85-cpcp-j695
-    - github_osv_importer_v2/GHSA-r5fr-rjxr-66jc
-    - github_osv_importer_v2/GHSA-xxjr-mmjv-4gpg
-    - gitlab_importer_v2/npm/lodash-amd/CVE-2019-10744
-    - gitlab_importer_v2/npm/lodash-amd/CVE-2019-10744
-    - gitlab_importer_v2/npm/lodash-amd/CVE-2026-2950
+    - github_osv/GHSA-f23m-r3pf-42rh
+    - github_osv/GHSA-jf85-cpcp-j695
+    - github_osv/GHSA-r5fr-rjxr-66jc
+    - github_osv/GHSA-xxjr-mmjv-4gpg
+    - gitlab/npm/lodash-amd/CVE-2019-10744
+    - gitlab/npm/lodash-amd/CVE-2026-2950
   fixing_advisories: []

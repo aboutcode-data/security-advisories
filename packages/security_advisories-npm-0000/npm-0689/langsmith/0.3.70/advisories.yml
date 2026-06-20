@@ -1,9 +1,11 @@
 - purl: pkg:npm/langsmith@0.3.70
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-fw9q-39r9-c252
-    - github_osv_importer_v2/GHSA-fw9q-39r9-c252
-    - github_osv_importer_v2/GHSA-rr7j-v2q5-chgv
-    - github_osv_importer_v2/GHSA-v34v-rq6j-cj6p
-    - gitlab_importer_v2/npm/langsmith/CVE-2026-25528
-    - gitlab_importer_v2/npm/langsmith/CVE-2026-25528
+    - github_osv/GHSA-3644-q5cj-c5c7
+    - github_osv/GHSA-fw9q-39r9-c252
+    - github_osv/GHSA-rr7j-v2q5-chgv
+    - github_osv/GHSA-v34v-rq6j-cj6p
+    - gitlab/npm/langsmith/CVE-2026-25528
+    - gitlab/npm/langsmith/CVE-2026-40190
+    - gitlab/npm/langsmith/CVE-2026-41182
+    - gitlab/npm/langsmith/CVE-2026-45134
   fixing_advisories: []
