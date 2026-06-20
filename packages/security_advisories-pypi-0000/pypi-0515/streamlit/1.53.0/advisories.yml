@@ -1,6 +1,7 @@
 - purl: pkg:pypi/streamlit@1.53.0
   affected_by_advisories:
-    - github_osv_importer_v2/GHSA-7p48-42j8-8846
-    - gitlab_importer_v2/pypi/streamlit/CVE-2026-33682
-    - gitlab_importer_v2/pypi/streamlit/CVE-2026-33682
+    - github_osv/GHSA-7p48-42j8-8846
+    - gitlab/pypi/streamlit/CVE-2026-33682
+    - pypa/streamlit/PYSEC-2026-212
+    - pysec/PYSEC-2026-212
   fixing_advisories: []
